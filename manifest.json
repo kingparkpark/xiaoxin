@@ -1,0 +1,1057 @@
+[
+  {
+    "path": "AGENTS.md",
+    "bytes": 28213,
+    "sha256": "a5c4466fc79386c26c259300167c33fa2983b06aaa2dad268e35962ba56a33ef"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1314,
+    "sha256": "7201318a66df835529a495cb4a4aa04afba973a5b7d631ca89d17211a6e1cf05"
+  },
+  {
+    "path": "conversations/01a0bfdf-620b-7fb2-bb35-19bd787120b4.jsonl",
+    "bytes": 63489,
+    "sha256": "f80a7bd9e0c128f2ff2cba2d6e35ccfcdabf330951b386774d024015dd37c6f9"
+  },
+  {
+    "path": "conversations/01a0bfdf-620b-7fb2-bb35-19bd787120b4.md",
+    "bytes": 62101,
+    "sha256": "78d93cb6b14e36fc6ca1ced6b07c568bf53172e4f2804f2bfb45cf781b076868"
+  },
+  {
+    "path": "conversations/01a0c02c-6e5b-7890-9f9c-4187b46ac667.jsonl",
+    "bytes": 56870,
+    "sha256": "26d971eac495324fcb0b6d46951bbb528df27c8e2835aeccdd017a119ed141a3"
+  },
+  {
+    "path": "conversations/01a0c02c-6e5b-7890-9f9c-4187b46ac667.md",
+    "bytes": 56408,
+    "sha256": "f3354ca9cffaae2eb122160cd40899f5813836cf3284056ee9836935f563e140"
+  },
+  {
+    "path": "conversations/01a0c02c-9e37-7623-8351-e9a51bea8925.jsonl",
+    "bytes": 56175,
+    "sha256": "c4a3b0bdcd37c05820c145b1c93c7a5b13ff77e39de5629439a3b699d331c6b6"
+  },
+  {
+    "path": "conversations/01a0c02c-9e37-7623-8351-e9a51bea8925.md",
+    "bytes": 55675,
+    "sha256": "74fb854495d1096549e67b729e108e8bb43317106439e3d139ee631e02511acb"
+  },
+  {
+    "path": "conversations/01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl",
+    "bytes": 38567,
+    "sha256": "da5f7059ddfae990f93564f05c944cb8e2e459b9fc8ebf48ee0cb249e336df68"
+  },
+  {
+    "path": "conversations/01a0c499-eaa8-7192-9b28-d842c62ea137.md",
+    "bytes": 34462,
+    "sha256": "677f770bf60b53dc72e7cd41608ae224d51ff754e0a44abb6333a5913e0fb9d8"
+  },
+  {
+    "path": "conversations/01a0ce2b-32de-7fc2-9f42-d664149729da.jsonl",
+    "bytes": 94716,
+    "sha256": "27c37ff86bfaa66659d6003b0c77a478dd079fe9c1b395a96fdb32d99e9034c1"
+  },
+  {
+    "path": "conversations/01a0ce2b-32de-7fc2-9f42-d664149729da.md",
+    "bytes": 92532,
+    "sha256": "c13669a2f43009d715487d755f43af77f29175bce6f67a8a79653f51c614a565"
+  },
+  {
+    "path": "conversations/01a0fb5c-5f4d-7110-8a8a-97faf630d0af.jsonl",
+    "bytes": 156805,
+    "sha256": "a79213d8f2d299f16b5425d033c4873882d88cb8bd90cd65ba4180d78708cbe7"
+  },
+  {
+    "path": "conversations/01a0fb5c-5f4d-7110-8a8a-97faf630d0af.md",
+    "bytes": 154379,
+    "sha256": "5fd59c1615701ee2688837f373ed8ef6e458aa26026341aedb23b04b972fa269"
+  },
+  {
+    "path": "conversations/01a0fb63-96db-7b20-890d-913d69fb5b67.jsonl",
+    "bytes": 62041,
+    "sha256": "65659f5f3d6678e770cba1976b4526773e4232ce25ae6f527765f493ff87aad2"
+  },
+  {
+    "path": "conversations/01a0fb63-96db-7b20-890d-913d69fb5b67.md",
+    "bytes": 60490,
+    "sha256": "74155b7b4e9afee8e76cf1db92266b16d3caa01c702462cc7407afd0000c875b"
+  },
+  {
+    "path": "conversations/01a0fb6e-a80b-7f13-8dbe-05332e04cb6a.jsonl",
+    "bytes": 72251,
+    "sha256": "ef7bbaaecc2dd6a37fb12379f54d283869821f321669faa12ae8b813c81d211c"
+  },
+  {
+    "path": "conversations/01a0fb6e-a80b-7f13-8dbe-05332e04cb6a.md",
+    "bytes": 70438,
+    "sha256": "fd4b8ad980229c332be10d8d9147b060aa78d43d31076d86c29ebd5d7a60f0bf"
+  },
+  {
+    "path": "conversations/01a0fb74-985a-7920-8338-d437fe669fc3.jsonl",
+    "bytes": 71086,
+    "sha256": "df57dad66b45e71442c02b19ea939053264268b1830c1d6f536d9ce7f312ee0d"
+  },
+  {
+    "path": "conversations/01a0fb74-985a-7920-8338-d437fe669fc3.md",
+    "bytes": 68801,
+    "sha256": "5bd8ab5d81415a6bd8002d738417bdd133120fc5c49c964997270f6e45659bab"
+  },
+  {
+    "path": "conversations/01a0fb80-7671-7602-97f7-fdb20f84c62f.jsonl",
+    "bytes": 204286,
+    "sha256": "d02aac519eb17cbc1a6f1934d49afe33d46a616b9bc6bf14aa7037ec781bb1fb"
+  },
+  {
+    "path": "conversations/01a0fb80-7671-7602-97f7-fdb20f84c62f.md",
+    "bytes": 196205,
+    "sha256": "e059a09313a89734c403c2a15ebec1d5d564890c5b18e2d39dca1fc1f84492a5"
+  },
+  {
+    "path": "conversations/01a0fbca-52fc-7e33-9a15-349efc1ef371.jsonl",
+    "bytes": 3956,
+    "sha256": "3db166554ba7ffeabf29ed22ae4f26b667e2aa3d9d46f30996ceb0811a1121e1"
+  },
+  {
+    "path": "conversations/01a0fbca-52fc-7e33-9a15-349efc1ef371.md",
+    "bytes": 3757,
+    "sha256": "81794d2d32ad575ccfb6924e73da1c3ba33e9c3442d809699474a06ceca90070"
+  },
+  {
+    "path": "conversations/01a0fca4-ea96-7f01-9c9c-f0112dc72eb9.jsonl",
+    "bytes": 83132,
+    "sha256": "6b5dc58c215b87ca1b9d5ec435211f51000b9e87e94e6473426e6d2c8f8afa13"
+  },
+  {
+    "path": "conversations/01a0fca4-ea96-7f01-9c9c-f0112dc72eb9.md",
+    "bytes": 81167,
+    "sha256": "7033b8fc6fe0ff76cc7b20ecae386702cd9a8c847f4d3fdc41b2641af83ebec8"
+  },
+  {
+    "path": "conversations/01a0fcad-0d4b-7610-aec7-29afa99839ce.jsonl",
+    "bytes": 77680,
+    "sha256": "3080564cdf97ba4a2811811bfac422b8d8c04334337e1394ea22576d73f12f5d"
+  },
+  {
+    "path": "conversations/01a0fcad-0d4b-7610-aec7-29afa99839ce.md",
+    "bytes": 76120,
+    "sha256": "eeaef90ad7240e9cbc156a66f72e827a5d311c53cb055dce42b9fba71711d602"
+  },
+  {
+    "path": "conversations/01a0fcb0-e41f-7281-a215-f2a7290cf7d5.jsonl",
+    "bytes": 77322,
+    "sha256": "9098ae50cdfc5bf886b92b20338d7a9a2ed2f9cac6b614bdd1992b19ab4c7f65"
+  },
+  {
+    "path": "conversations/01a0fcb0-e41f-7281-a215-f2a7290cf7d5.md",
+    "bytes": 75872,
+    "sha256": "62bf92b8838a2cccff4f510a9f5a9fa3fffdc8a857074f7d03edcb955328e649"
+  },
+  {
+    "path": "conversations/01a0fcb4-995e-7431-923a-562f0430fb9d.jsonl",
+    "bytes": 134616,
+    "sha256": "65c3fdc17594d4a75f5e61cdeb3e917d285abd51826da62ea5c0a65fb4a48b54"
+  },
+  {
+    "path": "conversations/01a0fcb4-995e-7431-923a-562f0430fb9d.md",
+    "bytes": 131074,
+    "sha256": "30847562ee2e7f5e4aacf0766ff085651a49783740735fbb96eb83cb5a5b0823"
+  },
+  {
+    "path": "conversations/01a0fcd3-a2d9-7291-9bb3-0c9646131006.jsonl",
+    "bytes": 74264,
+    "sha256": "4f40322fbf5fdc3c583d5be25c1a52cbd5bb0da535f042b8391645584c6a3316"
+  },
+  {
+    "path": "conversations/01a0fcd3-a2d9-7291-9bb3-0c9646131006.md",
+    "bytes": 72537,
+    "sha256": "7d566aac64afab01a16b31022a531214f2deb304693a72ae6783df42a98623e4"
+  },
+  {
+    "path": "conversations/01a100ad-dd25-7612-a952-a2c45a34f729.jsonl",
+    "bytes": 97346,
+    "sha256": "2f769157f93e7fac2acfd02031d511b31ae7af8726fa112f3f895a15415d8706"
+  },
+  {
+    "path": "conversations/01a100ad-dd25-7612-a952-a2c45a34f729.md",
+    "bytes": 95514,
+    "sha256": "386521c971f67a3889534ea80e61a1091f0475302405c0ac246cd7798b7f1da3"
+  },
+  {
+    "path": "conversations/01a100b3-375c-7ef0-b760-fa62b1213f43.jsonl",
+    "bytes": 90263,
+    "sha256": "75c3b8752e6a39b7494770a31d3b71bb766c97c327fc527cd4b15912939a81a4"
+  },
+  {
+    "path": "conversations/01a100b3-375c-7ef0-b760-fa62b1213f43.md",
+    "bytes": 89239,
+    "sha256": "c7ed84bb1220fe66e2e47f93b4c9a3e8a967c7d0b44d420086ab99d2d50f29fb"
+  },
+  {
+    "path": "conversations/01a100bb-0928-74e3-9ca5-8f7c131f1085.jsonl",
+    "bytes": 96661,
+    "sha256": "5e91778dd3294f2e4cd8992d390919972bbc9b546ccdd63ab07931fefc8d70ee"
+  },
+  {
+    "path": "conversations/01a100bb-0928-74e3-9ca5-8f7c131f1085.md",
+    "bytes": 95470,
+    "sha256": "9b7da4bf1affd179dafeffa711e040d735a277d830221fe1746d811260dc2a17"
+  },
+  {
+    "path": "conversations/01a100dc-2149-7421-abdf-68170da6e155.jsonl",
+    "bytes": 110451,
+    "sha256": "52c26060165361217e757cba4f71e21a173f41430ac51b711fc7024bc60156ad"
+  },
+  {
+    "path": "conversations/01a100dc-2149-7421-abdf-68170da6e155.md",
+    "bytes": 108597,
+    "sha256": "afa2274c824fbaf67ae15411a82ec451bb7008f54f22907d82fd3cddcdb47abf"
+  },
+  {
+    "path": "conversations/01a100e3-ec64-7b12-94fd-86de2427daca.jsonl",
+    "bytes": 124810,
+    "sha256": "8199a6bb57e50f9a2324455ba13af2f9ab7db1b8dad1f5289543a90474081b96"
+  },
+  {
+    "path": "conversations/01a100e3-ec64-7b12-94fd-86de2427daca.md",
+    "bytes": 122878,
+    "sha256": "066dfec2bcc44b6239914eafd65f3af9e3b787c6557d4e06b02ca0b7c051e8e9"
+  },
+  {
+    "path": "conversations/01a1017e-5a5a-7d01-9969-2a2e0680aedd.jsonl",
+    "bytes": 103012,
+    "sha256": "2fc376c76b184b964c44097777183cae1c837943e6fcbfad0890fddbeb9ed1ca"
+  },
+  {
+    "path": "conversations/01a1017e-5a5a-7d01-9969-2a2e0680aedd.md",
+    "bytes": 101441,
+    "sha256": "d77d13f5476502cd928424c5a17479e52a6337a98572448fd8cafffe6cb28fff"
+  },
+  {
+    "path": "conversations/01a11e9e-78d7-7682-89d3-53653f84b710.jsonl",
+    "bytes": 85461,
+    "sha256": "0fb0548c2061a78bc41324d5e3cdb6911dde8344a1d7e2b9f4fb1f006db08f04"
+  },
+  {
+    "path": "conversations/01a11e9e-78d7-7682-89d3-53653f84b710.md",
+    "bytes": 84330,
+    "sha256": "5c373eda680f4db9dc49a98e8b840504acf0231cad3bdbde44fc2acf92ce33a6"
+  },
+  {
+    "path": "conversations/01a11ecd-5ca2-7992-9096-a20797faaf66.jsonl",
+    "bytes": 101913,
+    "sha256": "0c5ebc1a33ca898baaa392e62c1aab633ad88042b5134f7a76efeb9c38824c42"
+  },
+  {
+    "path": "conversations/01a11ecd-5ca2-7992-9096-a20797faaf66.md",
+    "bytes": 100546,
+    "sha256": "ecae7a46cd9141d90d6246a09be35ce7873db366acd2172e4fd8f7967a503b12"
+  },
+  {
+    "path": "conversations/01a11ed8-7819-7692-ba25-e8a9edc557e3.jsonl",
+    "bytes": 111247,
+    "sha256": "60539386eeab600ba77b5776b151ec3bab8e0c34e9c567e6eede805ce920550e"
+  },
+  {
+    "path": "conversations/01a11ed8-7819-7692-ba25-e8a9edc557e3.md",
+    "bytes": 109175,
+    "sha256": "3339701a61cc1cf6568e023efbb3a2059bed05d8bc1cc3bab69ceb7fbca9803c"
+  },
+  {
+    "path": "conversations/01a11f28-d690-76e3-8a09-f4229e23a4a8.jsonl",
+    "bytes": 122334,
+    "sha256": "06faef263af71bcee49aed1a904a24073c7ec7d5fd68a2222a3e3f7ae45dc9c9"
+  },
+  {
+    "path": "conversations/01a11f28-d690-76e3-8a09-f4229e23a4a8.md",
+    "bytes": 119933,
+    "sha256": "9719fb078e2ab39417132817ff1c02dd830f7d078319c96ed023050075a5f69e"
+  },
+  {
+    "path": "conversations/01a11f37-abd1-7f90-8481-8327859b08a2.jsonl",
+    "bytes": 102552,
+    "sha256": "a3e113c04c136e545bb7e8f7bac11c761916aba239e4e0def67515d79fb4dbf9"
+  },
+  {
+    "path": "conversations/01a11f37-abd1-7f90-8481-8327859b08a2.md",
+    "bytes": 100742,
+    "sha256": "ad9ea3c9f2be2f41a54c302caf6b1c73ef2d733f2496f56be368d2870ba3e9c6"
+  },
+  {
+    "path": "conversations/01a12055-5d49-7472-ae7f-73b3c7cec1b4.jsonl",
+    "bytes": 97851,
+    "sha256": "8d98afb2b20040d9a89f9635fec4b43fe52e3e524a43183f0cf93ba19c5f908b"
+  },
+  {
+    "path": "conversations/01a12055-5d49-7472-ae7f-73b3c7cec1b4.md",
+    "bytes": 96319,
+    "sha256": "7cea7b2abe3d6723316374c4bcc8642db1d859fb639c702f535ccf3d07ccf37a"
+  },
+  {
+    "path": "conversations/01a1205e-b172-7773-92f9-51cd83bd48f3.jsonl",
+    "bytes": 105463,
+    "sha256": "42321fed8adc01d0f009091d34d452e2af0af05169673b75f8a518abb6f73445"
+  },
+  {
+    "path": "conversations/01a1205e-b172-7773-92f9-51cd83bd48f3.md",
+    "bytes": 103908,
+    "sha256": "7d1f630a5a0692ca6ab476e6fcb9ffffc88fb38054ef2456e9533ca4fbaba458"
+  },
+  {
+    "path": "conversations/01a12089-581c-7712-bd00-81320f06d0c4.jsonl",
+    "bytes": 122543,
+    "sha256": "964784bf3d2e4741ddb002b45363ccb2605e0ba9a0b95029984e383049cf005e"
+  },
+  {
+    "path": "conversations/01a12089-581c-7712-bd00-81320f06d0c4.md",
+    "bytes": 120943,
+    "sha256": "b92492881692cdc986ba8705be7f4802690bfa4e3c62316ce194734fc9bd74c3"
+  },
+  {
+    "path": "conversations/01a1209a-96a7-72b2-9fd2-4b73642b36ba.jsonl",
+    "bytes": 129159,
+    "sha256": "fc7fb35182c18d352ae398feff1da19c805b922c862e57d6b59b56b4da3b9bd7"
+  },
+  {
+    "path": "conversations/01a1209a-96a7-72b2-9fd2-4b73642b36ba.md",
+    "bytes": 127631,
+    "sha256": "d6d54f9f23f18ee16c93aaec1ab36869e4ef6a410c451ad5717739054f179ea8"
+  },
+  {
+    "path": "conversations/01a120a2-48c6-7613-9aea-081debf87728.jsonl",
+    "bytes": 154745,
+    "sha256": "a39844e88fbc6a3d039765ab80d2804e2b49572e8cfa1c46c61284851ae1d9b4"
+  },
+  {
+    "path": "conversations/01a120a2-48c6-7613-9aea-081debf87728.md",
+    "bytes": 152895,
+    "sha256": "388ccce2ff621632744e11527f6ebee9384032c413ef9c3ae2346f133e1a6ef8"
+  },
+  {
+    "path": "conversations/01a120c7-841f-75e3-81f8-d4fa0a654331.jsonl",
+    "bytes": 109664,
+    "sha256": "967fe663cb80c8a508d4246c6a53b3ae76fda58675b0a913a99c86a4d43d95d3"
+  },
+  {
+    "path": "conversations/01a120c7-841f-75e3-81f8-d4fa0a654331.md",
+    "bytes": 108167,
+    "sha256": "1cad95a26179839d339cdbce8ac5bfab9126eafaa29fb08ca8907bde5f3665e2"
+  },
+  {
+    "path": "conversations/01a120ce-25ed-7cf1-a42e-501d991cf934.jsonl",
+    "bytes": 109942,
+    "sha256": "6ae01af14a3a32e9b5e09fc04c2cfd2654bd83619eed3ccfe30086f6c92569e0"
+  },
+  {
+    "path": "conversations/01a120ce-25ed-7cf1-a42e-501d991cf934.md",
+    "bytes": 108561,
+    "sha256": "bb2881fd262da1af398fc5e9e6534b73385a30d1636f9c89330f5d20a20bb315"
+  },
+  {
+    "path": "conversations/01a120ec-ec2c-7a42-a263-de7e8734b9b5.jsonl",
+    "bytes": 108003,
+    "sha256": "65ab370385987c53d82685b1ff7380d41e16f76a6020ecd5cf534595e3d2ebf4"
+  },
+  {
+    "path": "conversations/01a120ec-ec2c-7a42-a263-de7e8734b9b5.md",
+    "bytes": 106587,
+    "sha256": "17ebed5effb14df1fe67fe58a7e50b20a6eea3203b56ae3e3b1624562949b0ad"
+  },
+  {
+    "path": "conversations/01a12113-9025-72a1-9925-226c53fc6d88.jsonl",
+    "bytes": 107142,
+    "sha256": "b8157b3892ab34401db0e4e960f8dbdc3cd94e1d0df55ea67f5189e3011967b1"
+  },
+  {
+    "path": "conversations/01a12113-9025-72a1-9925-226c53fc6d88.md",
+    "bytes": 105345,
+    "sha256": "6cb1807923d7955b2047a291b1c6a999e59ca529fe8a15a6a604dd349e55db52"
+  },
+  {
+    "path": "conversations/01a1211a-8ea5-7171-9125-d11dbf131160.jsonl",
+    "bytes": 121327,
+    "sha256": "70d1104cca7eb590c2e0a009c74a87f491c37bf09b8519ec76702eb62dffa660"
+  },
+  {
+    "path": "conversations/01a1211a-8ea5-7171-9125-d11dbf131160.md",
+    "bytes": 119215,
+    "sha256": "6c896fbe41aae9e39cbfd0820069f73323f5c8491a3b445e06a5580367ad5aeb"
+  },
+  {
+    "path": "conversations/01a12170-92b6-7a42-8946-2195dc655909.jsonl",
+    "bytes": 120720,
+    "sha256": "ddef0004ed6ba29e5460f0e11f598248747ae9f59b79d215ac14bbd7e1ce98a9"
+  },
+  {
+    "path": "conversations/01a12170-92b6-7a42-8946-2195dc655909.md",
+    "bytes": 118515,
+    "sha256": "060ef0137af974e7884502a6cf4ee2a3baa983c55b9d939a53ec91e4cd6c4db7"
+  },
+  {
+    "path": "conversations/01a12184-2edb-77c3-a261-2e6ada507b2e.jsonl",
+    "bytes": 155418,
+    "sha256": "c5f05a7a59d5793bacd15f9c07515e9a8f503c644362f7eeba65a34bd9f8c835"
+  },
+  {
+    "path": "conversations/01a12184-2edb-77c3-a261-2e6ada507b2e.md",
+    "bytes": 153073,
+    "sha256": "026c9162e7d8ec0549c1335aa5f0fe4e72cd0cc579420edda8ee5520fa9b3a12"
+  },
+  {
+    "path": "conversations/01a121fa-e75f-77c1-aa15-c8c9d30e8fbd.jsonl",
+    "bytes": 129513,
+    "sha256": "926578c16855f88b568cb19feb947fb9ef5aa1657b8deab122f960704cdd4ed3"
+  },
+  {
+    "path": "conversations/01a121fa-e75f-77c1-aa15-c8c9d30e8fbd.md",
+    "bytes": 127477,
+    "sha256": "9708358c91a7740c9ce1367c678637b715164cd6510b771a25ad8847d5135217"
+  },
+  {
+    "path": "conversations/01a12203-bf6a-7c61-9de8-58959fe50c85.jsonl",
+    "bytes": 84305,
+    "sha256": "ec42cf3bf496502033a53e0901c24933f2ddc10c1aa135936b452723e9e2ae44"
+  },
+  {
+    "path": "conversations/01a12203-bf6a-7c61-9de8-58959fe50c85.md",
+    "bytes": 83252,
+    "sha256": "024af5ebf40a9db57a2d388f03f691cefb339675e464fad3a445fa7a2be49304"
+  },
+  {
+    "path": "conversations/01a12227-f4fc-7c41-a335-7f68605df76a.jsonl",
+    "bytes": 93319,
+    "sha256": "92683dbc35666eeee130f81d78ae19da1a78c2955c61c51dc130baec1d3185a1"
+  },
+  {
+    "path": "conversations/01a12227-f4fc-7c41-a335-7f68605df76a.md",
+    "bytes": 92160,
+    "sha256": "1f2b86bdc41d1711446426740b2d7df876a3b74f20ef36f0012d6d7817ec4ae0"
+  },
+  {
+    "path": "conversations/01a12453-a64d-7251-a92e-6e489b94e4da.jsonl",
+    "bytes": 129032,
+    "sha256": "1d3fe0377964306a3ebcc1c5dfe3fb82d7ff9cb7158d68c6284f44c2d17d5aff"
+  },
+  {
+    "path": "conversations/01a12453-a64d-7251-a92e-6e489b94e4da.md",
+    "bytes": 127593,
+    "sha256": "cf0db1466d0da073393b76363ac1d8479a1e3b8a71c59ec6b1541dde469bd5a2"
+  },
+  {
+    "path": "conversations/01a12487-bfe0-7c73-a52f-e047ef8b92a1.jsonl",
+    "bytes": 190791,
+    "sha256": "17417d8663c216604e252c9448144459953b6fc7bf755e0fad9479f876d7f377"
+  },
+  {
+    "path": "conversations/01a12487-bfe0-7c73-a52f-e047ef8b92a1.md",
+    "bytes": 188485,
+    "sha256": "805bee9f7289915790822716f4098b0d87a2269db5648d7d249087f63e3c0190"
+  },
+  {
+    "path": "conversations/01a1250b-26d8-7813-baa6-ce9fabbf03c0.jsonl",
+    "bytes": 165005,
+    "sha256": "fb67c24d23f635f136ada645a4628d49c4729a253da73084b54ccea4c131b0a7"
+  },
+  {
+    "path": "conversations/01a1250b-26d8-7813-baa6-ce9fabbf03c0.md",
+    "bytes": 163250,
+    "sha256": "ef36bc4228b86cb8add7d344d30841570c39b29643a4953173993e3615a98295"
+  },
+  {
+    "path": "conversations/01a125ec-b242-77c2-bae9-564d0c005f29.jsonl",
+    "bytes": 136704,
+    "sha256": "85f5d9ea243b728b4958322b4d9a3eadf2e22471aadbf699c3f7a99c4a7d53f7"
+  },
+  {
+    "path": "conversations/01a125ec-b242-77c2-bae9-564d0c005f29.md",
+    "bytes": 134689,
+    "sha256": "f2158324d8214c4abe4950b9ffb0a47660639681d9a43629e85042db75048831"
+  },
+  {
+    "path": "conversations/01a12917-3250-7042-938b-fa8253c237d5.jsonl",
+    "bytes": 129678,
+    "sha256": "3b652f0b628915a401be077680bbf6a29f87573e53e0c09f5b5367e5bbb82f72"
+  },
+  {
+    "path": "conversations/01a12917-3250-7042-938b-fa8253c237d5.md",
+    "bytes": 127683,
+    "sha256": "0955d6bea4374194dc5cf4b92672611e945aeb56200b5a2017c9dd3e774c9daf"
+  },
+  {
+    "path": "conversations/01a12941-0f54-70d2-95f1-ab4e16b4b372.jsonl",
+    "bytes": 172731,
+    "sha256": "bd660e0928ee75dd26a6f0651471717d66669d55ec4fc512680bd683510d9397"
+  },
+  {
+    "path": "conversations/01a12941-0f54-70d2-95f1-ab4e16b4b372.md",
+    "bytes": 170286,
+    "sha256": "be6ddeed5f876d0c57d392da88c6a5b3d01c1722984e1fc96e8b6beec97f5add"
+  },
+  {
+    "path": "conversations/01a129ca-50e6-7da3-aeba-df546bf8314c.jsonl",
+    "bytes": 144262,
+    "sha256": "28fbf9c5e5fac584c50f535341b1a4a1cdace7f9d147688b20093e0503b9b6b4"
+  },
+  {
+    "path": "conversations/01a129ca-50e6-7da3-aeba-df546bf8314c.md",
+    "bytes": 141967,
+    "sha256": "fc231efd9aa320addbd92cded0f5559366cf2d545f5a9c12ec900f98645dad26"
+  },
+  {
+    "path": "conversations/01a129e8-cda1-7f23-a2df-724c51626c88.jsonl",
+    "bytes": 80565,
+    "sha256": "ddf2f6b2294e11ee354950d31a3a17a12f6b4ead6774ae1a702f17f52aa2e6cf"
+  },
+  {
+    "path": "conversations/01a129e8-cda1-7f23-a2df-724c51626c88.md",
+    "bytes": 79509,
+    "sha256": "05d4916dccdf3ad3036799e636be5457b7ae52cbc888b9b85e3a66a3819fd412"
+  },
+  {
+    "path": "conversations/01a129f0-ebc7-7ff2-bc77-25219d1e6f6d.jsonl",
+    "bytes": 104854,
+    "sha256": "445d2380b567a09a54c5e8c95c871093ec0c4b0c09fcc23e089f3c7e6f3caa10"
+  },
+  {
+    "path": "conversations/01a129f0-ebc7-7ff2-bc77-25219d1e6f6d.md",
+    "bytes": 103553,
+    "sha256": "7b4d296ccd3d57dec8730c3120ceba0a982489feed4f29e59f43a6e4e496692c"
+  },
+  {
+    "path": "conversations/01a12a03-42aa-7f41-a622-e1f5c5349ae4.jsonl",
+    "bytes": 221030,
+    "sha256": "27a2dc3e60e2cbb5ed74dacb2c0c7bb81353f06ef60f6ed78713e8040a6f77f7"
+  },
+  {
+    "path": "conversations/01a12a03-42aa-7f41-a622-e1f5c5349ae4.md",
+    "bytes": 217537,
+    "sha256": "87060e44b6e996e24b9f98c29cbf9c3cfc429a6335a5fdce4bb12103e45cf9ea"
+  },
+  {
+    "path": "conversations/01a12b0d-cec4-7f12-9956-48e7f91982d4.jsonl",
+    "bytes": 135054,
+    "sha256": "28bb1914e8ee2f69e580d8f54639586402ca68e07d94396f457a8b3427f25558"
+  },
+  {
+    "path": "conversations/01a12b0d-cec4-7f12-9956-48e7f91982d4.md",
+    "bytes": 132027,
+    "sha256": "41304df400ee4f5968619a930dbb1f51d9d8241b0e9b8e772fe982ecbb69da74"
+  },
+  {
+    "path": "conversations/01a12b1d-9aae-78e2-aea3-febf7fc56b25.jsonl",
+    "bytes": 135123,
+    "sha256": "46d97244e186016c7b5059c57c6040e3ab90a81f37fc0799dfb0344f6f61b70b"
+  },
+  {
+    "path": "conversations/01a12b1d-9aae-78e2-aea3-febf7fc56b25.md",
+    "bytes": 132370,
+    "sha256": "676e53ae50d055de3bea0b5467e46dbb90fddecc35084c09c2187eb4c22bf1cf"
+  },
+  {
+    "path": "conversations/01a12b2b-4f9c-7be1-a61f-b6779fec8961.jsonl",
+    "bytes": 125434,
+    "sha256": "ca2af6103874fe3700b73faa5dd43c368761261f62cebe31723081877b4a5c9e"
+  },
+  {
+    "path": "conversations/01a12b2b-4f9c-7be1-a61f-b6779fec8961.md",
+    "bytes": 123653,
+    "sha256": "fd93ca1fa98ca03a458e745e2343c624560c1773e743b024a2c568549cafcbc0"
+  },
+  {
+    "path": "conversations/01a12b61-c302-7152-8043-d2fd89f4ac94.jsonl",
+    "bytes": 137793,
+    "sha256": "386d24ef5b2f1eaf43e8ffbca650e971bdb59c3877a58174b5efbc8c67eeabff"
+  },
+  {
+    "path": "conversations/01a12b61-c302-7152-8043-d2fd89f4ac94.md",
+    "bytes": 135984,
+    "sha256": "0297816f90e275f6c759912e6da72b89cd7efe13531117a9f1de3cb5f622dfb3"
+  },
+  {
+    "path": "conversations/01a12b8c-9a27-7b32-8d4e-e78bfc54b3fa.jsonl",
+    "bytes": 147063,
+    "sha256": "9325adb9780ba835f802d9ecfc6fb2386d8c4cf57017a6ff24b4a699334b8fd3"
+  },
+  {
+    "path": "conversations/01a12b8c-9a27-7b32-8d4e-e78bfc54b3fa.md",
+    "bytes": 145099,
+    "sha256": "3236ad720b2bd4819167455f296123392ac5491325094d77c362e0983c9dd0b1"
+  },
+  {
+    "path": "conversations/01a12ba2-dec5-7613-b77f-c34a1245f516.jsonl",
+    "bytes": 149803,
+    "sha256": "b3a03a0dddc274c4d5edacac93a5ebcc6171448daa294f30c8d59332d4003bca"
+  },
+  {
+    "path": "conversations/01a12ba2-dec5-7613-b77f-c34a1245f516.md",
+    "bytes": 147786,
+    "sha256": "d47f898b760268a995804e2dea754bb8f94705d62fc1a785e73580eab748c7ea"
+  },
+  {
+    "path": "conversations/01a12bc1-238e-7af2-946e-9023d020ee0e.jsonl",
+    "bytes": 147042,
+    "sha256": "b1742746ac09c3c34c26f27c286d3e641e00c5a70ccabb47e46b46252fce6e41"
+  },
+  {
+    "path": "conversations/01a12bc1-238e-7af2-946e-9023d020ee0e.md",
+    "bytes": 145324,
+    "sha256": "eed9f2712e568586bd5364b0f1d52637b5423a6e1422b6623f3499749b662797"
+  },
+  {
+    "path": "conversations/01a12bd1-cb5c-7e62-bbde-73e653d70400.jsonl",
+    "bytes": 153901,
+    "sha256": "f5b8bdfa970547e32f962aceec086c3ca443aca599599792117abdf1d673d43a"
+  },
+  {
+    "path": "conversations/01a12bd1-cb5c-7e62-bbde-73e653d70400.md",
+    "bytes": 152021,
+    "sha256": "6ee79ef042ff1605e006544c13cc01db982c107396bc4e703bb7c7ca06caa61b"
+  },
+  {
+    "path": "conversations/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl",
+    "bytes": 207879,
+    "sha256": "5c692a9fe513ff98e758d9a5b37940993861a31a29f43a9876fa4e45862ec983"
+  },
+  {
+    "path": "conversations/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.md",
+    "bytes": 205186,
+    "sha256": "b66643027f77db386ae5dd5f6a75c5ca6c1d643099bebe3428fa9a2fb3544149"
+  },
+  {
+    "path": "conversations/01a13088-1483-76c2-8fea-d7e9bb6b85d4.jsonl",
+    "bytes": 143084,
+    "sha256": "cd0eb753718040c7a6608a4dec7e2294829cb1bc447626e9a1eee644452e4896"
+  },
+  {
+    "path": "conversations/01a13088-1483-76c2-8fea-d7e9bb6b85d4.md",
+    "bytes": 141655,
+    "sha256": "beeaefd57fa79248ac3510319da628324169874f71a5c81257a4fbc377677d79"
+  },
+  {
+    "path": "conversations/01a13099-6d03-7e82-ada5-4644ec1767cd.jsonl",
+    "bytes": 128789,
+    "sha256": "3170134c3e0b71f178f8afee9113dfe86abd933d707c7aceb27e3d868e15bfe8"
+  },
+  {
+    "path": "conversations/01a13099-6d03-7e82-ada5-4644ec1767cd.md",
+    "bytes": 127255,
+    "sha256": "c7ca3b49e415a2e6db7db3a4180e47cc06b0a597b9c110a2064fdefd5dc4500e"
+  },
+  {
+    "path": "conversations/01a1384d-fc8a-7c53-b475-bff589ae8433.jsonl",
+    "bytes": 161481,
+    "sha256": "c9c5856f20ea0c4897382104019a8b18424d55fa6ba95a02f7489b1b361cb475"
+  },
+  {
+    "path": "conversations/01a1384d-fc8a-7c53-b475-bff589ae8433.md",
+    "bytes": 159622,
+    "sha256": "a030ae8531afdb932695870c9286a309bd60f0679bbf8fe8199e73ce3e7c294d"
+  },
+  {
+    "path": "conversations/index.json",
+    "bytes": 26857,
+    "sha256": "816bcf6f2d293d3630740d1f55bba4e507014c7a7460aaec0be29790cd45586c"
+  },
+  {
+    "path": "rules/current.md",
+    "bytes": 11095,
+    "sha256": "6ad3c59479f50caf8569d69da84a0b428f918905368ad369192de499c6153869"
+  },
+  {
+    "path": "rules/导演与美术执行清单.md",
+    "bytes": 12701,
+    "sha256": "eeb821899fdaddcc22bad89d8805a83a4f014d9c5eba165ceb22f6673b4eeef2"
+  },
+  {
+    "path": "deliverables/喜剧学习/名片社交喜剧_学习记录_20261013.md",
+    "bytes": 1358,
+    "sha256": "11f659ae66e5d8f7a0ca3a80da2a813ff4a4f917413a6866485eb5b2bfbd5941"
+  },
+  {
+    "path": "deliverables/打工人第三段/第三段_完整提示词_v01.md",
+    "bytes": 10138,
+    "sha256": "e7e6c76692a86a827d37da38c4c6c7b53d7303897315ae9a9da97e8933e7f493"
+  },
+  {
+    "path": "deliverables/打工人第三段修订/后半段_重新面对生活_剧情提案_v03.md",
+    "bytes": 6076,
+    "sha256": "e015f9232596166424021628f0064d1f4467944b35208fe12364bb17e6ebcb55"
+  },
+  {
+    "path": "deliverables/打工人第三段修订/第三段_宽景辨认与情绪承接_完整提示词_v02.md",
+    "bytes": 11597,
+    "sha256": "336ab912cd8bd3e75e24679075b5119fed8dee093e9e66c32382b7c0f8f5037a"
+  },
+  {
+    "path": "deliverables/打工人第三段修订/第三段_重新面对生活_30秒_完整提示词_v03.md",
+    "bytes": 8697,
+    "sha256": "9c1b6dd0feb970b35462d64b4c342360c53c82371899fcd6768f5a0160afdb5e"
+  },
+  {
+    "path": "deliverables/打工人第三段修订/第四段_主动开始_10秒_完整提示词_v01.md",
+    "bytes": 3868,
+    "sha256": "c5e8a122cdafe13285a64425491746ab974ae31db78a8c4042171dd37a3f16e7"
+  },
+  {
+    "path": "deliverables/投诉生活/制作确认.md",
+    "bytes": 1224,
+    "sha256": "3ec3436bbc4941b9c1018a469d47777b04128eaec21511cc06a6fb7759cb36c1"
+  },
+  {
+    "path": "deliverables/投诉生活/第三段_投诉取号_30秒_完整提示词_v01.md",
+    "bytes": 5446,
+    "sha256": "a0f6abe1c0a5b274520769d3f88dbe4bdbc1f9edc5b829344321e8f313d7ec9e"
+  },
+  {
+    "path": "deliverables/投诉生活/第五段_具体要求与开始_30秒_完整提示词_v01.md",
+    "bytes": 5968,
+    "sha256": "c3fcbdf2e0a7ef69144cdb19112faa0e89629074edbafc8cc03f13c5338988f2"
+  },
+  {
+    "path": "deliverables/投诉生活/第四段_排队与诉求_30秒_完整提示词_v01.md",
+    "bytes": 6469,
+    "sha256": "1b7860d9fce8e8c0b8416e410d330007790c25132b7eb2c25002c9ada39784cc"
+  },
+  {
+    "path": "deliverables/投诉生活/第四段_排队与诉求_30秒_完整提示词_v02.md",
+    "bytes": 6483,
+    "sha256": "ac52512eb8aa3ecb7c41715b2308ab004f815acaab362525875655b4bdb8f409"
+  },
+  {
+    "path": "deliverables/资产补齐_20261012/资产位置说明.txt",
+    "bytes": 1085,
+    "sha256": "7cc1fe84d1ffdace0261266d3e8afcb0d12e7a81b09f0f878429524ffabb6371"
+  },
+  {
+    "path": "deliverables/资产补齐_20261012/待审_勿上传/绘制规格与审稿说明.txt",
+    "bytes": 2491,
+    "sha256": "a87c0b19ef361be64f3fc6f79c609bc31ce573a53531804bf51d78d5bef09d03"
+  },
+  {
+    "path": "deliverables/资产补齐_20261012/提示词/第三段_投诉取号_30秒_完整提示词_v01.md",
+    "bytes": 5446,
+    "sha256": "a0f6abe1c0a5b274520769d3f88dbe4bdbc1f9edc5b829344321e8f313d7ec9e"
+  },
+  {
+    "path": "deliverables/资产补齐_20261012/提示词/第五段_具体要求与开始_30秒_完整提示词_v01.md",
+    "bytes": 5968,
+    "sha256": "c3fcbdf2e0a7ef69144cdb19112faa0e89629074edbafc8cc03f13c5338988f2"
+  },
+  {
+    "path": "deliverables/资产补齐_20261012/提示词/第四段_排队与诉求_30秒_完整提示词_v01.md",
+    "bytes": 6469,
+    "sha256": "1b7860d9fce8e8c0b8416e410d330007790c25132b7eb2c25002c9ada39784cc"
+  },
+  {
+    "path": "skills/cartoon-acting-camera/SKILL.md",
+    "bytes": 5387,
+    "sha256": "1c7538670c68784c72c53f7eb93ca5bd2554a87fa1937f365de9338fcee5020c"
+  },
+  {
+    "path": "skills/cinematic-space-life/SKILL.md",
+    "bytes": 3380,
+    "sha256": "6302207922bed29cfe17eefb173b60d9131ac60d46b91ee02dbf7909186f273b"
+  },
+  {
+    "path": "skills/cinematic-space-life/学习记录.md",
+    "bytes": 742,
+    "sha256": "435678df61f49cc7af23f438d65cdd93bf7f95bd3871246a61f29645e3e82ee3"
+  },
+  {
+    "path": "skills/doubao-human-signal/SKILL.md",
+    "bytes": 12494,
+    "sha256": "3ba1f8af77a0711a874246114a558c35344d8fc5cd79ba43947d04de29f580c8"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/SKILL.md",
+    "bytes": 5032,
+    "sha256": "b68ab15bfb5a041c78f77e4058b9fc604f9b27bdb07422f7961a92d1407bea38"
+  },
+  {
+    "path": "skills/emotion-shot-rhythm/SKILL.md",
+    "bytes": 5172,
+    "sha256": "ff13e10f32148c3f5f079f966fc6a4cf0cf695adb69c047469ae9f3775fcc1ea"
+  },
+  {
+    "path": "skills/imagegen/SKILL.md",
+    "bytes": 19516,
+    "sha256": "706d4d96e1d5c9e6023fe3ccabba1bb34b364024d344fd25b8515ec7d28fe3c4"
+  },
+  {
+    "path": "skills/motuantuan-lean-sync/SKILL.md",
+    "bytes": 2109,
+    "sha256": "14ceaec324d9821e2ec6fca06df13211064cc5638b39c058d0207dd2413955c2"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/SKILL.md",
+    "bytes": 6025,
+    "sha256": "00b09427d59fc8a9f9d058516cac3c04af976360f9a58e8e705fc0b8f816c51d"
+  },
+  {
+    "path": "skills/perspective-opening-story/SKILL.md",
+    "bytes": 6767,
+    "sha256": "e842436ef8f32f58c6e8cd778d3892785c11a11ffe00aad04c5955644dbf9c2a"
+  },
+  {
+    "path": "skills/skill-creator/SKILL.md",
+    "bytes": 15540,
+    "sha256": "cccd291077ec57c6f50ca6529f0f3fb93212da09473effb2fcec808e81b21288"
+  },
+  {
+    "path": "skills/video-shot-continuity/SKILL.md",
+    "bytes": 5216,
+    "sha256": "9e11485d1ce0aee54a51946a0d590643bfdaa4cdd28726dc23a38381543329e6"
+  },
+  {
+    "path": "skills/video-storyboard-prompts/SKILL.md",
+    "bytes": 6134,
+    "sha256": "ffc27d7dbb356aa5c502e4e808080d118e82a3c94dc0a254c3d2d4acd76c8233"
+  },
+  {
+    "path": "skills/cartoon-acting-camera/references/performance-camera.md",
+    "bytes": 4423,
+    "sha256": "91a81e59e3a7199a414af20dae055364842e821f37032c4743166b3f801df668"
+  },
+  {
+    "path": "skills/cartoon-acting-camera/references/source-analysis.md",
+    "bytes": 6478,
+    "sha256": "72ae3ab4f9254cc0b7cc1cd00418fd83c66a9659de47095b610a74b173f6b1ba"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/audience-guide.md",
+    "bytes": 7902,
+    "sha256": "d663b6c588c427817e49168d1251486bb1c803208071eaafdf19c488b528ba42"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/cases.md",
+    "bytes": 55341,
+    "sha256": "695aae729c656c3b4f42afedaf38521133e1dc809873dac7ac452470d0249669"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/context-guide.md",
+    "bytes": 2641,
+    "sha256": "91ee0971b3502f8127c63d7b4e887716d62a05be9f7fe5686414ef9dc46f1533"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/domain-guide.md",
+    "bytes": 2305,
+    "sha256": "906171a8b41cb98b1e82dd8c9c8896fbc61dce50fb3613a31d5cef2bf00d20f1"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/evaluation.md",
+    "bytes": 26528,
+    "sha256": "86e5e9f2bde56d29de96423a128847fb34d697403397d46c8499bf468a7fce05"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/genre-guide.md",
+    "bytes": 12447,
+    "sha256": "f736adc7f1d85a44a800c60bda6afd6d55011a14fd194b667222d6ef4cf60a9c"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/input-contract.md",
+    "bytes": 8985,
+    "sha256": "ce671694274ab24504ef31a68764ffe6405a999820c2b1d0f045938522dff005"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/patterns.md",
+    "bytes": 30142,
+    "sha256": "33f16b4b720802cbe509aab1ab9f7284a0c71201639037a16ad1b66aaea39ecc"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/platform-guide.md",
+    "bytes": 8424,
+    "sha256": "d37c5d1d7c034855179f17cd49d27ca13f9ec2de56de6ff56cc1ef4064e90958"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/prompt-defense.md",
+    "bytes": 6036,
+    "sha256": "9692d7221e42c1afc375eadb225010ea40f360eec21526440b26054fa83cf026"
+  },
+  {
+    "path": "skills/doubao-human-signal/references/story-guide.md",
+    "bytes": 7610,
+    "sha256": "dee2c0d62eb1d9dac19160375ada17995a9b678548de9c9b73a089df0ecbd78a"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/genre-guide/composite.writing-guide.md",
+    "bytes": 3159,
+    "sha256": "e90d45c303db033fc154b34cb0cd7db9ced19085c416668b301e17a53d392ead"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/genre-guide/lark-doc.writing-guide.md",
+    "bytes": 12485,
+    "sha256": "6c8acfe00a4acf453b80b24f4425c12d036ca815e37a14e178ac263f76b72b18"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/genre-guide/short-video.writing-guide.md",
+    "bytes": 6476,
+    "sha256": "90e248902dc7a51cb74216762169195c4d7c2da4923c3389e8257c9eac37e220"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/genre-guide/wechat.writing-guide.md",
+    "bytes": 19257,
+    "sha256": "9ccbe1e5f1f1781276401fa3600906da9307628f1d594f7a9c7cda3e9284828a"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/genre-guide/xhs.writing-guide.md",
+    "bytes": 10051,
+    "sha256": "b5bae8428e04dd49143916f88faad7cc42e64953d6f7593cbdf8da63449fe474"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/short-video.samples/creative-playbook.md",
+    "bytes": 3572,
+    "sha256": "fb4e59936e47f42c8088628df65246b6530f02562cc18d5393d9387173cbe219"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/short-video.samples/output-format.md",
+    "bytes": 4269,
+    "sha256": "54a425a2215348dbe9229c8c2866b615183e6398d8ccfec95bcdaa85d9327f23"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/short-video.samples/research-workflow.md",
+    "bytes": 2041,
+    "sha256": "c36523f0c9e27ea8c7b6937a8249f97799f3e62f7e49f66be9f1563e2ae610c8"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/short-video.samples/visual-storyboard.md",
+    "bytes": 3692,
+    "sha256": "e9b42bc283de43ba1c4370da1563ac5503fb51abe8437daed2567fc9c78c662b"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/Internet-search-rules.md",
+    "bytes": 23727,
+    "sha256": "988a10b0dccd761cd82a4c92cd2c2fc53417a7048488a0b66dd65cc296acbe49"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/Layout-and-illustration-requirements.md",
+    "bytes": 14294,
+    "sha256": "5db2c611d8f6d51cdd2737e61109fbae862e796cdeec1d49653833c37445c857"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methodology.md",
+    "bytes": 2553,
+    "sha256": "5a783c77eb976ab321de87f7071d342db1b9f1875b181851caaa2ed4dd5b7185"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methods.md",
+    "bytes": 31706,
+    "sha256": "33d306bb56a5400b9cf0c410d0f60b5c9e5331b4465c7799e0c0c27d9eeda3cf"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.hotspot-guide.md",
+    "bytes": 6320,
+    "sha256": "207eaf804cab4bf15ef6a25c8e701839a548a20ce8cded35188278cda8f361bf"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-cover-methodology.md",
+    "bytes": 11863,
+    "sha256": "a34011425c658144661a09821894e37ecf6bcec26812c2e88fe303baf7823ec7"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-design-methods.md",
+    "bytes": 42499,
+    "sha256": "b928ab14c6de4df024b29f9cb78b27589af2e2a4f361577f7b9a12bd14c70427"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.output-format.md",
+    "bytes": 8506,
+    "sha256": "7540f5286f4f918e6a385c01e8f4fafd7b5987975f34e5d9e049693f389b6798"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/cognitive-opinion.md",
+    "bytes": 22798,
+    "sha256": "74108130d4281bbedaafa5aa133615c9d185c1ff3ad654b810816764aba9a4fc"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/emotional-healing.md",
+    "bytes": 22299,
+    "sha256": "50422767b393bd211876571bf30bea681f3e4ef52b900d6069814ff9905385fc"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/narrative-nonfiction.md",
+    "bytes": 24953,
+    "sha256": "e2f744986bb1eb67998453a07db7099695d5fb25a041adc8cd8a559765bc44b5"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/news-hotspot.md",
+    "bytes": 24895,
+    "sha256": "a94eab202a45526d183dde667dc3fb605d2a0746110a6326f8b401e5f13e3737"
+  },
+  {
+    "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/professional-explainer.md",
+    "bytes": 27401,
+    "sha256": "2e3287856b21f56356552ccef6668b0f4151af40ebb7891c1959d651e1b6e436"
+  },
+  {
+    "path": "skills/emotion-shot-rhythm/references/学习记录.md",
+    "bytes": 4018,
+    "sha256": "6592f8d970b80083179759066a5bf014de27393b36b1b07c71f39a93c7871ce1"
+  },
+  {
+    "path": "skills/imagegen/references/cli.md",
+    "bytes": 9897,
+    "sha256": "29dc8c1e3e5d9a20aee587fedb46a464552b6ec118d93bbd90c8d86e30502c8c"
+  },
+  {
+    "path": "skills/imagegen/references/codex-network.md",
+    "bytes": 1812,
+    "sha256": "cba3b4d24d30f38adf8021b6e9b49ec5261a9e45e7df31047ec451c916c99b0a"
+  },
+  {
+    "path": "skills/imagegen/references/image-api.md",
+    "bytes": 6162,
+    "sha256": "695909437b792aff171477dba127476a11235c220beb06533cce7c1495a042c8"
+  },
+  {
+    "path": "skills/imagegen/references/prompting.md",
+    "bytes": 8394,
+    "sha256": "d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd"
+  },
+  {
+    "path": "skills/imagegen/references/sample-prompts.md",
+    "bytes": 18039,
+    "sha256": "76cc8a2988efb6e844a99ff9908b2b11cc07467510fc909002abcc0ee3f0701b"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/canon.md",
+    "bytes": 4186,
+    "sha256": "60abef33449b50911adc03a7003a153ccf24d3c7962e5332c998d6eea9003099"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/characters.md",
+    "bytes": 4369,
+    "sha256": "18f4756e270337096158a6dcbffb680377c5b250f1009497e3fb0a14a2050acf"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/continuity.md",
+    "bytes": 2937,
+    "sha256": "7972a192df6cab2bb56fc18a02bb599607c2d233cd02273e3b76e2528318e5b9"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/power.md",
+    "bytes": 6302,
+    "sha256": "acc3b3c1f47645aacdde53f4eb6a5b3775a8d89e0c525837faee03fc3101d511"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/series.md",
+    "bytes": 3035,
+    "sha256": "f50fad61d850e69ef48a8bbcae9857785ff5db538ce9e62654eb646c52b612db"
+  },
+  {
+    "path": "skills/motuantuan-screenplay/references/video-prompts.md",
+    "bytes": 9965,
+    "sha256": "133aeacee1a762bca8be33c35877d03e9d4cf05e885d87fc2dcccd2e6c0bdf97"
+  },
+  {
+    "path": "skills/skill-creator/references/openai_yaml.md",
+    "bytes": 2405,
+    "sha256": "7039d465b05342cbacf861f08d20192ab1eeee112bc5d8ff0fb66234756887a9"
+  },
+  {
+    "path": "skills/video-shot-continuity/references/source-study.md",
+    "bytes": 1886,
+    "sha256": "9289bd4393ec6ad2f22a4417ee6ba45f1ad68719932ab0cc77852e6bcebb1fe6"
+  }
+]
