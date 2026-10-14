@@ -1,0 +1,707 @@
+[
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 32,
+    "source": "rollout-2026-09-21T23-33-36-01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 2,
+    "source": "rollout-2026-09-22T00-37-12-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d4-25a0-7f70-82da-cd532426fd01.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 31,
+    "source": "rollout-2026-09-22T00-42-58-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d9-6c81-7ac2-8f09-ba9689fad622.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 2,
+    "source": "rollout-2026-09-22T15-12-31-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7f5-8419-7580-a8e6-584ee5dd8066.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 3,
+    "source": "rollout-2026-09-22T15-18-13-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7fa-bbad-7fd0-85cc-7e99aec1c049.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 3,
+    "source": "rollout-2026-09-22T15-36-10-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c80b-2b60-7210-8ec9-7abbff2857bc.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 71,
+    "source": "rollout-2026-09-22T15-52-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c81a-8903-7041-a400-a141374b4ffb.jsonl"
+  },
+  {
+    "id": "01a0ce2b-32de-7fc2-9f42-d664149729da",
+    "messages": 3,
+    "source": "rollout-2026-09-23T20-08-52-01a0ce2b-32de-7fc2-9f42-d664149729da.jsonl"
+  },
+  {
+    "id": "01a0fb5c-5f4d-7110-8a8a-97faf630d0af",
+    "messages": 7,
+    "source": "rollout-2026-10-02T14-45-30-01a0fb5c-5f4d-7110-8a8a-97faf630d0af.jsonl"
+  },
+  {
+    "id": "01a0fb63-96db-7b20-890d-913d69fb5b67",
+    "messages": 10,
+    "source": "rollout-2026-10-02T14-53-23-01a0fb63-96db-7b20-890d-913d69fb5b67.jsonl"
+  },
+  {
+    "id": "01a0fb6e-a80b-7f13-8dbe-05332e04cb6a",
+    "messages": 7,
+    "source": "rollout-2026-10-02T15-05-28-01a0fb6e-a80b-7f13-8dbe-05332e04cb6a.jsonl"
+  },
+  {
+    "id": "01a0fb74-985a-7920-8338-d437fe669fc3",
+    "messages": 3,
+    "source": "rollout-2026-10-02T15-11-57-01a0fb74-985a-7920-8338-d437fe669fc3.jsonl"
+  },
+  {
+    "id": "01a0fb80-7671-7602-97f7-fdb20f84c62f",
+    "messages": 18,
+    "source": "rollout-2026-10-02T15-24-55-01a0fb80-7671-7602-97f7-fdb20f84c62f.jsonl"
+  },
+  {
+    "id": "01a0fca4-ea96-7f01-9c9c-f0112dc72eb9",
+    "messages": 3,
+    "source": "rollout-2026-10-02T20-44-21-01a0fca4-ea96-7f01-9c9c-f0112dc72eb9.jsonl"
+  },
+  {
+    "id": "01a0fcad-0d4b-7610-aec7-29afa99839ce",
+    "messages": 3,
+    "source": "rollout-2026-10-02T20-53-14-01a0fcad-0d4b-7610-aec7-29afa99839ce.jsonl"
+  },
+  {
+    "id": "01a0fcb0-e41f-7281-a215-f2a7290cf7d5",
+    "messages": 3,
+    "source": "rollout-2026-10-02T20-57-26-01a0fcb0-e41f-7281-a215-f2a7290cf7d5.jsonl"
+  },
+  {
+    "id": "01a0fcb4-995e-7431-923a-562f0430fb9d",
+    "messages": 15,
+    "source": "rollout-2026-10-02T21-01-29-01a0fcb4-995e-7431-923a-562f0430fb9d.jsonl"
+  },
+  {
+    "id": "01a0fcd3-a2d9-7291-9bb3-0c9646131006",
+    "messages": 3,
+    "source": "rollout-2026-10-02T21-35-23-01a0fcd3-a2d9-7291-9bb3-0c9646131006.jsonl"
+  },
+  {
+    "id": "01a100ad-dd25-7612-a952-a2c45a34f729",
+    "messages": 5,
+    "source": "rollout-2026-10-03T15-32-36-01a100ad-dd25-7612-a952-a2c45a34f729.jsonl"
+  },
+  {
+    "id": "01a100b3-375c-7ef0-b760-fa62b1213f43",
+    "messages": 3,
+    "source": "rollout-2026-10-03T15-38-27-01a100b3-375c-7ef0-b760-fa62b1213f43.jsonl"
+  },
+  {
+    "id": "01a100bb-0928-74e3-9ca5-8f7c131f1085",
+    "messages": 5,
+    "source": "rollout-2026-10-03T15-47-00-01a100bb-0928-74e3-9ca5-8f7c131f1085.jsonl"
+  },
+  {
+    "id": "01a100dc-2149-7421-abdf-68170da6e155",
+    "messages": 7,
+    "source": "rollout-2026-10-03T16-23-08-01a100dc-2149-7421-abdf-68170da6e155.jsonl"
+  },
+  {
+    "id": "01a100e3-ec64-7b12-94fd-86de2427daca",
+    "messages": 7,
+    "source": "rollout-2026-10-03T16-31-39-01a100e3-ec64-7b12-94fd-86de2427daca.jsonl"
+  },
+  {
+    "id": "01a1017e-5a5a-7d01-9969-2a2e0680aedd",
+    "messages": 7,
+    "source": "rollout-2026-10-03T19-20-20-01a1017e-5a5a-7d01-9969-2a2e0680aedd.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 2,
+    "source": "rollout-2026-10-03T21-17-32-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101e9-a6f7-7ea2-a0d0-192217a70e51.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 3,
+    "source": "rollout-2026-10-03T21-26-02-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101f1-70e4-76d1-9b4d-42bf8e86119e.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 3,
+    "source": "rollout-2026-10-03T21-38-38-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101fc-fa3e-72d3-8da4-d439fa155f1c.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 5,
+    "source": "rollout-2026-10-03T21-53-16-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1020a-5de9-7350-96e3-9199e91d9ce5.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 9,
+    "source": "rollout-2026-10-03T22-02-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a10213-3a9f-7312-8b14-291ee2a471cd.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 51,
+    "source": "rollout-2026-10-04T01-14-37-01a0c499-eaa8-7192-9b28-d842c62ea137_01a102c2-b51f-7331-a6ab-25e19cacf17a.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 4,
+    "source": "rollout-2026-10-06T20-28-23-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1112f-bda8-7a92-bd97-07bab705dc39.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 15,
+    "source": "rollout-2026-10-06T20-42-00-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1113c-3565-7b52-9629-4e30fe0094fd.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 108,
+    "source": "rollout-2026-10-07T19-39-33-01a0c499-eaa8-7192-9b28-d842c62ea137_01a11629-64cf-7621-a7da-dbbaad5f9c0c.jsonl"
+  },
+  {
+    "id": "01a11e9e-78d7-7682-89d3-53653f84b710",
+    "messages": 3,
+    "source": "rollout-2026-10-09T11-04-24-01a11e9e-78d7-7682-89d3-53653f84b710.jsonl"
+  },
+  {
+    "id": "01a11ecd-5ca2-7992-9096-a20797faaf66",
+    "messages": 3,
+    "source": "rollout-2026-10-09T11-55-37-01a11ecd-5ca2-7992-9096-a20797faaf66.jsonl"
+  },
+  {
+    "id": "01a11ed8-7819-7692-ba25-e8a9edc557e3",
+    "messages": 3,
+    "source": "rollout-2026-10-09T12-07-45-01a11ed8-7819-7692-ba25-e8a9edc557e3.jsonl"
+  },
+  {
+    "id": "01a11f28-d690-76e3-8a09-f4229e23a4a8",
+    "messages": 5,
+    "source": "rollout-2026-10-09T13-35-32-01a11f28-d690-76e3-8a09-f4229e23a4a8.jsonl"
+  },
+  {
+    "id": "01a11f37-abd1-7f90-8481-8327859b08a2",
+    "messages": 3,
+    "source": "rollout-2026-10-09T13-51-44-01a11f37-abd1-7f90-8481-8327859b08a2.jsonl"
+  },
+  {
+    "id": "01a12055-5d49-7472-ae7f-73b3c7cec1b4",
+    "messages": 3,
+    "source": "rollout-2026-10-09T19-03-47-01a12055-5d49-7472-ae7f-73b3c7cec1b4.jsonl"
+  },
+  {
+    "id": "01a1205e-b172-7773-92f9-51cd83bd48f3",
+    "messages": 3,
+    "source": "rollout-2026-10-09T19-13-59-01a1205e-b172-7773-92f9-51cd83bd48f3.jsonl"
+  },
+  {
+    "id": "01a12089-581c-7712-bd00-81320f06d0c4",
+    "messages": 3,
+    "source": "rollout-2026-10-09T20-00-34-01a12089-581c-7712-bd00-81320f06d0c4.jsonl"
+  },
+  {
+    "id": "01a1209a-96a7-72b2-9fd2-4b73642b36ba",
+    "messages": 3,
+    "source": "rollout-2026-10-09T20-19-24-01a1209a-96a7-72b2-9fd2-4b73642b36ba.jsonl"
+  },
+  {
+    "id": "01a120a2-48c6-7613-9aea-081debf87728",
+    "messages": 5,
+    "source": "rollout-2026-10-09T20-27-48-01a120a2-48c6-7613-9aea-081debf87728.jsonl"
+  },
+  {
+    "id": "01a120c7-841f-75e3-81f8-d4fa0a654331",
+    "messages": 3,
+    "source": "rollout-2026-10-09T21-08-28-01a120c7-841f-75e3-81f8-d4fa0a654331.jsonl"
+  },
+  {
+    "id": "01a120ce-25ed-7cf1-a42e-501d991cf934",
+    "messages": 3,
+    "source": "rollout-2026-10-09T21-15-43-01a120ce-25ed-7cf1-a42e-501d991cf934.jsonl"
+  },
+  {
+    "id": "01a120ec-ec2c-7a42-a263-de7e8734b9b5",
+    "messages": 3,
+    "source": "rollout-2026-10-09T21-49-20-01a120ec-ec2c-7a42-a263-de7e8734b9b5.jsonl"
+  },
+  {
+    "id": "01a12113-9025-72a1-9925-226c53fc6d88",
+    "messages": 3,
+    "source": "rollout-2026-10-09T22-31-32-01a12113-9025-72a1-9925-226c53fc6d88.jsonl"
+  },
+  {
+    "id": "01a1211a-8ea5-7171-9125-d11dbf131160",
+    "messages": 5,
+    "source": "rollout-2026-10-09T22-39-11-01a1211a-8ea5-7171-9125-d11dbf131160.jsonl"
+  },
+  {
+    "id": "01a12170-92b6-7a42-8946-2195dc655909",
+    "messages": 5,
+    "source": "rollout-2026-10-10T00-13-08-01a12170-92b6-7a42-8946-2195dc655909.jsonl"
+  },
+  {
+    "id": "01a12184-2edb-77c3-a261-2e6ada507b2e",
+    "messages": 7,
+    "source": "rollout-2026-10-10T00-34-33-01a12184-2edb-77c3-a261-2e6ada507b2e.jsonl"
+  },
+  {
+    "id": "01a121fa-e75f-77c1-aa15-c8c9d30e8fbd",
+    "messages": 3,
+    "source": "rollout-2026-10-10T02-44-13-01a121fa-e75f-77c1-aa15-c8c9d30e8fbd.jsonl"
+  },
+  {
+    "id": "01a12203-bf6a-7c61-9de8-58959fe50c85",
+    "messages": 3,
+    "source": "rollout-2026-10-10T02-53-53-01a12203-bf6a-7c61-9de8-58959fe50c85.jsonl"
+  },
+  {
+    "id": "01a12227-f4fc-7c41-a335-7f68605df76a",
+    "messages": 3,
+    "source": "rollout-2026-10-10T03-33-26-01a12227-f4fc-7c41-a335-7f68605df76a.jsonl"
+  },
+  {
+    "id": "01a12453-a64d-7251-a92e-6e489b94e4da",
+    "messages": 5,
+    "source": "rollout-2026-10-10T13-40-24-01a12453-a64d-7251-a92e-6e489b94e4da.jsonl"
+  },
+  {
+    "id": "01a12487-bfe0-7c73-a52f-e047ef8b92a1",
+    "messages": 11,
+    "source": "rollout-2026-10-10T14-37-18-01a12487-bfe0-7c73-a52f-e047ef8b92a1.jsonl"
+  },
+  {
+    "id": "01a1250b-26d8-7813-baa6-ce9fabbf03c0",
+    "messages": 5,
+    "source": "rollout-2026-10-10T17-00-50-01a1250b-26d8-7813-baa6-ce9fabbf03c0.jsonl"
+  },
+  {
+    "id": "01a125ec-b242-77c2-bae9-564d0c005f29",
+    "messages": 3,
+    "source": "rollout-2026-10-10T21-07-11-01a125ec-b242-77c2-bae9-564d0c005f29.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 3,
+    "source": "rollout-2026-10-11T09-48-20-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128a5-8d19-7a00-b67d-dd3d9686a404.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 6,
+    "source": "rollout-2026-10-11T09-56-56-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128ad-6b62-7521-bb76-781f25e2245b.jsonl"
+  },
+  {
+    "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+    "messages": 95,
+    "source": "rollout-2026-10-11T10-10-17-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128b9-a63f-7942-9d62-cb171b8ce5fc.jsonl"
+  },
+  {
+    "id": "01a12917-3250-7042-938b-fa8253c237d5",
+    "messages": 3,
+    "source": "rollout-2026-10-11T11-52-28-01a12917-3250-7042-938b-fa8253c237d5.jsonl"
+  },
+  {
+    "id": "01a12941-0f54-70d2-95f1-ab4e16b4b372",
+    "messages": 5,
+    "source": "rollout-2026-10-11T12-38-12-01a12941-0f54-70d2-95f1-ab4e16b4b372.jsonl"
+  },
+  {
+    "id": "01a129ca-50e6-7da3-aeba-df546bf8314c",
+    "messages": 3,
+    "source": "rollout-2026-10-11T15-08-07-01a129ca-50e6-7da3-aeba-df546bf8314c.jsonl"
+  },
+  {
+    "id": "01a129e8-cda1-7f23-a2df-724c51626c88",
+    "messages": 3,
+    "source": "rollout-2026-10-11T15-41-25-01a129e8-cda1-7f23-a2df-724c51626c88.jsonl"
+  },
+  {
+    "id": "01a129f0-ebc7-7ff2-bc77-25219d1e6f6d",
+    "messages": 5,
+    "source": "rollout-2026-10-11T15-50-17-01a129f0-ebc7-7ff2-bc77-25219d1e6f6d.jsonl"
+  },
+  {
+    "id": "01a12a03-42aa-7f41-a622-e1f5c5349ae4",
+    "messages": 9,
+    "source": "rollout-2026-10-11T16-10-19-01a12a03-42aa-7f41-a622-e1f5c5349ae4.jsonl"
+  },
+  {
+    "id": "01a12b0d-cec4-7f12-9956-48e7f91982d4",
+    "messages": 5,
+    "source": "rollout-2026-10-11T21-01-27-01a12b0d-cec4-7f12-9956-48e7f91982d4.jsonl"
+  },
+  {
+    "id": "01a12b1d-9aae-78e2-aea3-febf7fc56b25",
+    "messages": 3,
+    "source": "rollout-2026-10-11T21-18-42-01a12b1d-9aae-78e2-aea3-febf7fc56b25.jsonl"
+  },
+  {
+    "id": "01a12b2b-4f9c-7be1-a61f-b6779fec8961",
+    "messages": 3,
+    "source": "rollout-2026-10-11T21-33-41-01a12b2b-4f9c-7be1-a61f-b6779fec8961.jsonl"
+  },
+  {
+    "id": "01a12b61-c302-7152-8043-d2fd89f4ac94",
+    "messages": 3,
+    "source": "rollout-2026-10-11T22-33-09-01a12b61-c302-7152-8043-d2fd89f4ac94.jsonl"
+  },
+  {
+    "id": "01a12b8c-9a27-7b32-8d4e-e78bfc54b3fa",
+    "messages": 5,
+    "source": "rollout-2026-10-11T23-19-57-01a12b8c-9a27-7b32-8d4e-e78bfc54b3fa.jsonl"
+  },
+  {
+    "id": "01a12ba2-dec5-7613-b77f-c34a1245f516",
+    "messages": 3,
+    "source": "rollout-2026-10-11T23-44-16-01a12ba2-dec5-7613-b77f-c34a1245f516.jsonl"
+  },
+  {
+    "id": "01a12bc1-238e-7af2-946e-9023d020ee0e",
+    "messages": 5,
+    "source": "rollout-2026-10-12T00-17-20-01a12bc1-238e-7af2-946e-9023d020ee0e.jsonl"
+  },
+  {
+    "id": "01a12bd1-cb5c-7e62-bbde-73e653d70400",
+    "messages": 5,
+    "source": "rollout-2026-10-12T00-35-31-01a12bd1-cb5c-7e62-bbde-73e653d70400.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 5,
+    "source": "rollout-2026-10-12T20-28-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 4,
+    "source": "rollout-2026-10-12T20-31-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13018-d62e-7ec0-a69d-a66f3d508368.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 4,
+    "source": "rollout-2026-10-12T20-34-24-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301b-6483-72a2-bed5-0f0465f4de4c.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 4,
+    "source": "rollout-2026-10-12T20-38-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301f-6fdf-7161-b0a1-8a1c66f26a32.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 5,
+    "source": "rollout-2026-10-12T20-42-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13022-f039-73a2-83ef-2d261f872d15.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 4,
+    "source": "rollout-2026-10-12T20-50-18-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13029-f3b1-7051-a625-1e8a5eeb3141.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 8,
+    "source": "rollout-2026-10-12T20-59-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13032-08b1-7501-92bc-64738504041d.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 6,
+    "source": "rollout-2026-10-12T21-07-52-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1303a-09cd-7b51-baef-74f6876ac238.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 3,
+    "source": "rollout-2026-10-12T21-15-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13041-08be-7b03-8466-d46998a1bcd6.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 16,
+    "source": "rollout-2026-10-12T21-18-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13044-25e7-7d12-ad91-a4f9cd3abd85.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 7,
+    "source": "rollout-2026-10-12T21-59-23-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13069-335f-72a1-9053-7304f18769ee.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 7,
+    "source": "rollout-2026-10-12T22-13-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13076-8d39-7091-853e-a47a959621e9.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 2,
+    "source": "rollout-2026-10-12T22-22-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1307e-5e24-72c3-97a2-8bdb12a11c2d.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 38,
+    "source": "rollout-2026-10-12T22-30-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13085-d1ee-79b3-97ef-b54e1b024d1d.jsonl"
+  },
+  {
+    "id": "01a13088-1483-76c2-8fea-d7e9bb6b85d4",
+    "messages": 3,
+    "source": "rollout-2026-10-12T22-33-06-01a13088-1483-76c2-8fea-d7e9bb6b85d4.jsonl"
+  },
+  {
+    "id": "01a13099-6d03-7e82-ada5-4644ec1767cd",
+    "messages": 3,
+    "source": "rollout-2026-10-12T22-52-03-01a13099-6d03-7e82-ada5-4644ec1767cd.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 3,
+    "source": "rollout-2026-10-13T14-01-47-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133da-506a-7602-ac44-eeab45700aed.jsonl"
+  },
+  {
+    "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+    "messages": 59,
+    "source": "rollout-2026-10-13T14-04-33-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133dc-d6bc-70a1-9bf4-1de133d64019.jsonl"
+  },
+  {
+    "id": "01a1384d-fc8a-7c53-b475-bff589ae8433",
+    "messages": 3,
+    "source": "rollout-2026-10-14T10-46-37-01a1384d-fc8a-7c53-b475-bff589ae8433.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 14,
+    "source": "rollout-2026-09-21T01-31-23-01a0bfdf-620b-7fb2-bb35-19bd787120b4.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 6,
+    "source": "rollout-2026-09-21T02-53-09-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c02a-415e-73d1-8f31-818f2fa16c06.jsonl"
+  },
+  {
+    "id": "01a0c02c-6e5b-7890-9f9c-4187b46ac667",
+    "messages": 8,
+    "source": "rollout-2026-09-21T02-55-32-01a0c02c-6e5b-7890-9f9c-4187b46ac667.jsonl"
+  },
+  {
+    "id": "01a0c02c-9e37-7623-8351-e9a51bea8925",
+    "messages": 9,
+    "source": "rollout-2026-09-21T02-55-44-01a0c02c-9e37-7623-8351-e9a51bea8925.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 9,
+    "source": "rollout-2026-09-21T10-23-45-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c1c6-ca4d-7542-b9b9-9bb3ec669c76.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-09-21T15-19-18-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c2d5-5e94-7c71-b560-349117878a85.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 3,
+    "source": "rollout-2026-09-21T22-44-08-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c46c-a24f-7152-9929-b00d1d65a71b.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 5,
+    "source": "rollout-2026-09-21T23-30-46-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c497-5170-7bb3-a36b-ae91cb3b5cb6.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 5,
+    "source": "rollout-2026-09-21T23-44-05-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c4a3-8380-7b13-bfcd-7813ed2b41f7.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 5,
+    "source": "rollout-2026-09-22T00-12-34-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c4bd-9677-7590-8013-45e92490597c.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 22,
+    "source": "rollout-2026-09-22T00-32-57-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0c4d0-421c-7582-b9b9-23f5888b542c.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 4,
+    "source": "rollout-2026-09-24T15-13-06-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0d242-c4f0-7122-9c79-e65aa649fa37.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 43,
+    "source": "rollout-2026-09-24T15-20-37-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0d249-a7db-7ab1-b45b-110bdadaa62f.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-02T00-57-49-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0f866-9cf3-7c63-b1be-0fb8d022c092.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-02T01-06-23-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0f86e-72de-7bd2-a374-3970d3afda4f.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 4,
+    "source": "rollout-2026-10-02T01-09-13-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0f871-0d3c-77d3-843f-e0a6f53c83f7.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-02T01-14-31-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0f875-e5ba-7b00-be3b-3c883a80121e.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 24,
+    "source": "rollout-2026-10-02T13-55-49-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fb2e-e554-77f1-ab99-ed328331df8a.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 6,
+    "source": "rollout-2026-10-02T15-02-32-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fb6b-f89c-71d2-80ff-eef18f10dba5.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 46,
+    "source": "rollout-2026-10-02T15-07-42-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fb70-b437-7261-9669-d9da1329e0dc.jsonl"
+  },
+  {
+    "id": "01a0fbca-52fc-7e33-9a15-349efc1ef371",
+    "messages": 3,
+    "source": "rollout-2026-10-02T16-45-35-01a0fbca-52fc-7e33-9a15-349efc1ef371.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 9,
+    "source": "rollout-2026-10-02T19-48-11-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fc71-7d58-77d3-956c-a5ef4e62628f.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 9,
+    "source": "rollout-2026-10-02T20-42-03-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fca2-d002-7783-8adf-e892a1050ba8.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 39,
+    "source": "rollout-2026-10-02T20-56-47-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fcb0-4e53-7de2-8efa-0b1f19c51049.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 10,
+    "source": "rollout-2026-10-02T21-31-17-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a0fccf-e1b7-78a1-a57a-a4ff22a06617.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 35,
+    "source": "rollout-2026-10-03T15-29-34-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a100ab-157b-7e90-8972-9affdda4774b.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 7,
+    "source": "rollout-2026-10-03T19-17-33-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a1017b-cdf2-7e01-b216-9eaf45b0aefb.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 29,
+    "source": "rollout-2026-10-03T19-43-36-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a10193-a8fb-7861-8799-7f33e772d2ba.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 51,
+    "source": "rollout-2026-10-09T02-45-49-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a11cd5-ffa1-72b1-8e86-38e90483aba6.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 42,
+    "source": "rollout-2026-10-09T13-30-38-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a11f24-5b50-7842-8ca1-cf48ae118e83.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 48,
+    "source": "rollout-2026-10-09T19-37-57-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12074-a4f7-7a01-a0d9-5f158095ecb1.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 29,
+    "source": "rollout-2026-10-09T21-45-31-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a120e9-6e4a-77b2-a92b-d1cb14956d29.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 88,
+    "source": "rollout-2026-10-10T00-31-23-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12181-47b1-71a3-bed0-aa108da09531.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 7,
+    "source": "rollout-2026-10-10T20-32-04-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a125cc-8aa3-75a1-ace9-be167fe7b593.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 9,
+    "source": "rollout-2026-10-10T21-17-24-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a125f6-0b4d-7bb0-8388-40d7c03b326b.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 18,
+    "source": "rollout-2026-10-10T21-44-14-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a1260e-9da8-7c01-b509-8877f58d3831.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 19,
+    "source": "rollout-2026-10-11T09-47-42-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a128a4-f7d1-7013-be6b-d5160a800683.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 3,
+    "source": "rollout-2026-10-11T11-07-58-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a128ee-745e-7841-ac84-b0d6d454bb73.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-11T11-15-13-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a128f5-1647-7d60-b6e0-b45dcfdd4dcd.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 3,
+    "source": "rollout-2026-10-11T11-16-48-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a128f6-8c3b-70c1-84df-6ea2045678fb.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 4,
+    "source": "rollout-2026-10-11T11-20-14-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a128f9-aef9-79d2-8cde-73b187bf2d6a.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 85,
+    "source": "rollout-2026-10-11T11-29-48-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12902-7040-7182-aad9-575abe8e2728.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 23,
+    "source": "rollout-2026-10-11T23-08-35-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12b82-3284-7443-8dd9-ae19110555e0.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-12T01-38-01-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12c0b-0118-71c2-90e5-987667cef7f8.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 27,
+    "source": "rollout-2026-10-12T15-36-47-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12f0a-ecb6-7e90-a438-0f5f47ea54e4.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-12T19-01-34-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12fc6-66e5-70e2-8d71-3cbe1e4b2ded.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 2,
+    "source": "rollout-2026-10-12T19-14-47-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12fd2-8065-76d0-97aa-bb6fb1a38fbd.jsonl"
+  },
+  {
+    "id": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+    "messages": 28,
+    "source": "rollout-2026-10-12T19-20-03-01a0bfdf-620b-7fb2-bb35-19bd787120b4_01a12fd7-52e8-7331-b4c1-0f8e6e2fc78a.jsonl"
+  }
+]
