@@ -1,0 +1,6 @@
+interface:
+  display_name: "情绪驱动分镜与非匀速表演"
+  short_description: "把剧情拆成察觉、应对、爆发与反应，用景别和关键姿势修正AI平滑表演。"
+  default_prompt: "使用 $emotion-shot-rhythm 重排这个片段的情绪拍点、分镜和表演关键姿势。"
+policy:
+  allow_implicit_invocation: true

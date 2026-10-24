@@ -1,0 +1,4 @@
+interface:
+  display_name: "墨团团战纪·连续性编剧"
+  short_description: "贯通人物身世、神兵能源、战力成长、逐集衔接与多季伏笔的剧本创作"
+  default_prompt: "使用 $motuantuan-screenplay 核对最新定稿与交接账，续写指定集数，先修复影响本集的因果和设定冲突。"

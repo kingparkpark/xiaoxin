@@ -1,0 +1,916 @@
+{
+  "file_count": 182,
+  "note": "MANIFEST本身不纳入自校验；GitHub分卷/索引版本与压缩包原文件不同，原文件哈希以压缩包为准。",
+  "files": [
+    {
+      "path": "assets/LOCAL_MEDIA_INDEX.json",
+      "bytes": 60939,
+      "sha256": "3bbf59cbe59d34534dc07001d0306a643b4a74657862ca7970c609ff00c01e5d"
+    },
+    {
+      "path": "conversations/01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl",
+      "bytes": 419857,
+      "sha256": "b058bb20f3afedd437a72170ae31f661e04345bd5f31c56522a15554fd7b534c"
+    },
+    {
+      "path": "conversations/01a0c499-eaa8-7192-9b28-d842c62ea137.md",
+      "bytes": 281268,
+      "sha256": "fb94f3f801e8ce0a180d13d0a1b80a15a72dd6909ddb30d3ebe4853c25114a0e"
+    },
+    {
+      "path": "conversations/01a0fb60-23b6-7f73-96ab-c4959089734c.jsonl",
+      "bytes": 11927,
+      "sha256": "b5b1c8d3ea205f8ccaca5ce710c31ade3188bd8224c150c976f579a047a87d88"
+    },
+    {
+      "path": "conversations/01a0fb60-23b6-7f73-96ab-c4959089734c.md",
+      "bytes": 10025,
+      "sha256": "95c1a4dac315b683433b686d55d56ed0056addc0a5c5f376ee8810393b3ace8f"
+    },
+    {
+      "path": "conversations/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl",
+      "bytes": 1800274,
+      "sha256": "a9a02b7df00f354985c2b3eaff6e1aedb37d413b461760e1d87e413bfe42acab"
+    },
+    {
+      "path": "conversations/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.md",
+      "bytes": 1637392,
+      "sha256": "4d46adfac1ce8a301944070197569e17540dc12c972b313fd0a1c365987030a5"
+    },
+    {
+      "path": "conversations/01a13074-24ad-7ca0-b23e-19b27fb344fb.jsonl",
+      "bytes": 2,
+      "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    {
+      "path": "conversations/01a13074-24ad-7ca0-b23e-19b27fb344fb.md",
+      "bytes": 221,
+      "sha256": "158a0a5f411790c79ca1bc2fcecabc9bfd5a3d1dfcdf89495d32107d7eb8595a"
+    },
+    {
+      "path": "conversations/01a16bfe-44d0-7451-8bf7-99479377ec53.jsonl",
+      "bytes": 1602,
+      "sha256": "15f08f70b23a23d340b550162532e4994e5dfbfcc4bd940ffc139941fbe88c6a"
+    },
+    {
+      "path": "conversations/01a16bfe-44d0-7451-8bf7-99479377ec53.md",
+      "bytes": 1150,
+      "sha256": "eb6603fd4695473d99893d466afa4aecf1b423e85d89795a0bd161aa613a0189"
+    },
+    {
+      "path": "conversations/chatgpt-backup.jsonl",
+      "bytes": 9572,
+      "sha256": "0e7bcbfe7f8cd0eee7ae8311ef4628d525bb5b5145745fadec35dfdcc97becdc"
+    },
+    {
+      "path": "conversations/chatgpt-backup.md",
+      "bytes": 9315,
+      "sha256": "6f6369f37d01df5dbd939be2e867d8ca0183339e961da06b00facdd942e2b08c"
+    },
+    {
+      "path": "conversations/chatgpt-fenjing.jsonl",
+      "bytes": 77453,
+      "sha256": "87de39afff71a1918133a95fe9f7d0b47951524b1228184f748f8c6b530b29fd"
+    },
+    {
+      "path": "conversations/chatgpt-fenjing.md",
+      "bytes": 76691,
+      "sha256": "3f98332ff3a85c042ad998a9b0e56f47efbb3bfd10aa6f3b28ef588d28c68642"
+    },
+    {
+      "path": "conversations/current-inherited-api.jsonl",
+      "bytes": 1741911,
+      "sha256": "5514f0dda5d259ef717a6034e1a1a673dba1f10b44cce7faeb6c299f3de3f225"
+    },
+    {
+      "path": "conversations/current-inherited-api.md",
+      "bytes": 1633511,
+      "sha256": "1782757d79aae28d305b544ec939d67cb2449cf41935afb505880420548cfdc3"
+    },
+    {
+      "path": "CURRENT_HANDOFF.md",
+      "bytes": 3378,
+      "sha256": "3fccab4f134909260e32f30ddeaa258e7e522f5b13b9285a6dfb0212566c3dd5"
+    },
+    {
+      "path": "EXPORT_REPORT.json",
+      "bytes": 5344,
+      "sha256": "c69fec9a401675d7d5bc7c57f353232b73219f33827e375c2174e74983b7bf9f"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/00_当前制作状态.md",
+      "bytes": 634,
+      "sha256": "a538bd686e2d9a04590e60733263e2937ec67bd5dbd6172dcf006d93188f045c"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/10_第一段30秒_三太子版完整提示词_v02.md",
+      "bytes": 9562,
+      "sha256": "a9441db285fbda6b71885978b8df39a8bcb7532fee148475b1fcc2e9ce0b7c01"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/10_第一段30秒_完整提示词与固定音色_v01.md",
+      "bytes": 9515,
+      "sha256": "2badcdebddf89159219730d8752963aa96dfb459dd46164911dc2bf5d5b6823d"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/13_第一段30秒_先声远空与原音色_完整提示词_v03.md",
+      "bytes": 8952,
+      "sha256": "650cdd0c5b4492c188b3d91f290e14bee8cf1bd741cd627c51e5c7ccb7a20a88"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/14_重制审稿与用图状态_v03.md",
+      "bytes": 820,
+      "sha256": "b1164d0cc91b6c5500f3b1af84a2ba45a985d4eee50225c58c1ecb5804f9d9c5"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/17_第一段30秒_落草因果与嘴硬表演_完整提示词_v04.md",
+      "bytes": 10136,
+      "sha256": "b5f07a88422658ceab82c9faa78d839216e580386d7caa2d6bb37b7dea1e2356"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/21_第二段30秒_追咬误会与莲池接点_完整提示词_v01.md",
+      "bytes": 10947,
+      "sha256": "6465b00ea4d8373c5fde2f18b9b228c4dca1949f2ac444bfd826c9a1b726c305"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/22_第二段30秒_画外拉扯与莲池接点_完整提示词_v02.md",
+      "bytes": 10390,
+      "sha256": "fd2568669c9c6ebc7d9e98f3ff3c0fe0080f0d5bb81276b23fc0aa9dac64d4fe"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/23_第二段制作与工具拒绝记录.md",
+      "bytes": 1143,
+      "sha256": "539d8f46802984d6d59249eb3d492d901ffec6d86a95f7221193a0ea9bde4241"
+    },
+    {
+      "path": "project-documents/两百年了还没消气/24_第一段27秒_神威落地与幼鸟认妈_完整提示词_v01_导演执行版.md",
+      "bytes": 14036,
+      "sha256": "a5d01603c2b735b6006bc3e1f4d66f95cd2f3d9867cab3cbb4eb80ca737c5527"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/09_第一段24秒_固定座位与动态花谷_完整提示词_v03.md",
+      "bytes": 8748,
+      "sha256": "2867f943c3945b6e6e1552f6c1a62b753c0a583dcf0c16a6b74bc74c00d6189f"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/当前制作版本.md",
+      "bytes": 1221,
+      "sha256": "478d9239159bf71aee22874cf61cb7275a344ccf61a09b5bf2ba01ca555bfdb1"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/00_失败复盘与制作规则.md",
+      "bytes": 2606,
+      "sha256": "8ee3072f79646dc2d746cff8161c8ca34520dc8d150e112f027fe12d7d1b1413"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/08_导演执行稿_45秒三段_v05.md",
+      "bytes": 3181,
+      "sha256": "0b26390b55e2cab1b0be3119ecdcfa70a4775ca73c7c8dffde011c8f8984c018"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/09_第一段15秒_完整提示词_v05_待故事板验收.md",
+      "bytes": 4589,
+      "sha256": "11dfd9db038a25c33cc9ff67846b063edbb2575c9e54d1af88118aee197044fc"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/10_验收状态.md",
+      "bytes": 539,
+      "sha256": "56486a253bcf33d251d97eea77868789d483dc756338c21530631c5be6746360"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/11_旅行行李与开场规则补充.md",
+      "bytes": 1521,
+      "sha256": "92408068772238ece32acd4c8698c5e708eb293e90535eeb12126116dcb43525"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/14_第一段15秒_行李开场与出发_完整提示词_v06.md",
+      "bytes": 4961,
+      "sha256": "57ee13c7696f83e037997b406bbe099d6f6838e5e1544fa0af35204021ae6df1"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v07.md",
+      "bytes": 6998,
+      "sha256": "f7c61a5e7ba27165b9180b5e31daa4faee514a2cc88d7b443d513d3c53fc5e9c"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v08.md",
+      "bytes": 7307,
+      "sha256": "a641a6ac667aaeaa4f29b08f22588a21ca44318b0fdd3b327c4ebbd29e7f123b"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v09_导演执行版.md",
+      "bytes": 16657,
+      "sha256": "b2f48484a24507e312152525198abd320d73ebac21a3aff992faaf9bae9dbb76"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/19_全片80秒与第二段承接.md",
+      "bytes": 589,
+      "sha256": "2a9110f575918cd3fd8b4c76cfad32380955708b132ab182b96eb8623d384525"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/21_第二段30秒_完整提示词_v01.md",
+      "bytes": 6398,
+      "sha256": "7f0007850f91a3833bd5765222bdf11d6b420f1a72238b72fb4686d897806f2a"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/21_第二段30秒_完整提示词_v02.md",
+      "bytes": 6677,
+      "sha256": "25b284e6dfedb963a798f0f92e1c427aea7fa5b3f59fb9712634272746883236"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/24_第三段20秒_夜景收尾_完整提示词_v01.md",
+      "bytes": 5997,
+      "sha256": "4405afffbbaead910bf6dacccaa1408112dc89b0bdc9c40f60c3d4a0a40fa0bb"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/25_夜景收尾制作状态.md",
+      "bytes": 475,
+      "sha256": "cfeff24adb4625bacff5c6a7372d59e08c7adaf0a3b152ef1274a510622b0d51"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/28_第三段20秒_时空夜境收尾_完整提示词_v02.md",
+      "bytes": 6294,
+      "sha256": "f58c73e9363fb3d10a1ef9cd6137ad040c2fc36917f5f272c388d9eed1b11afe"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/重制_v05/当前制作版本.md",
+      "bytes": 919,
+      "sha256": "489af84fe2dc2d3a60700fec808dbc4c94c9c1a784e74e12675236caab18418c"
+    },
+    {
+      "path": "project-documents/今天开到风停的地方/预览状态.md",
+      "bytes": 966,
+      "sha256": "ed0e9f4c636e4d6e9700625c54fa1c95601a8dcd34f4e83e9123e7d05fa66b9a"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/00_团团车_造型锁定_v01.md",
+      "bytes": 2968,
+      "sha256": "1da9418ce0a9cd6f42f783ec630a93fddd6084b8aa0b258c3a12996c5f224f03"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/01_出游篇_三段各十五秒_分镜与完整提示词_v01.md",
+      "bytes": 7834,
+      "sha256": "8a949350a464c6b6288f79e8f2a1a2e97697075bd02ac90d31e4f6619fc3e4b1"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/01_出游篇_三段各十五秒_分镜与完整提示词_v02.md",
+      "bytes": 7617,
+      "sha256": "1142be7d7112f4fe93a261f043e29f2fc6c3fdd8c3d841e2644c7a9e797d0640"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/02_BGM与节奏对照_风的形状_v01.md",
+      "bytes": 3221,
+      "sha256": "99c57030e1b9b5a0d4cbd724c48743e281ed0e7dbac9dc8c2bd1eb604589c7b8"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/03_参考片逐帧分析_13437142170623409.md",
+      "bytes": 4099,
+      "sha256": "4a282704a04ce8696c439a7306ccc2c759c0c007de463ef71d8814fc726c22d5"
+    },
+    {
+      "path": "project-documents/今天，开到风停的地方/03_导演方案_v02_重做.md",
+      "bytes": 9694,
+      "sha256": "a06a5366313ca07e20e4cf6ec9e67f9514255a8154c17d0555f338b9d719984f"
+    },
+    {
+      "path": "project-documents/墨与光_团团骑士小猫双人PV/06_墨与光_30秒完整提示词_v01.md",
+      "bytes": 8822,
+      "sha256": "c5056fc8a4b0b8d735050cfc42dc66d069cb78b3761143998afd81cd7f4f64ac"
+    },
+    {
+      "path": "project-documents/墨与光_团团骑士小猫双人PV/07_画质参考_专业筛选与试用规范.md",
+      "bytes": 1836,
+      "sha256": "85c557a3588d020fab3e31482307b63c999b26997edd7b5dccdeb193a8220106"
+    },
+    {
+      "path": "project-documents/墨与光_团团骑士小猫双人PV/21_可爱时尚酷_30秒完整提示词_v03.md",
+      "bytes": 9457,
+      "sha256": "be876d6eea678820b03dbe0d35b3e45f98707a79142ccb7b50cdbfe5b4c319fc"
+    },
+    {
+      "path": "project-documents/墨团团_枪火时尚PV/11_枪火PV_30秒_完整提示词_v03.md",
+      "bytes": 7911,
+      "sha256": "1bfc436199956b3c56d02719c0b83f627eb1aa0778535f28d3ebb0898276c9f9"
+    },
+    {
+      "path": "project-documents/墨团团_枪火时尚PV/美术方案_v01.md",
+      "bytes": 1993,
+      "sha256": "81cd2fa181e55988bca55c7521e1c9c5575af3a4ed0629c3fbfece7909ec312c"
+    },
+    {
+      "path": "project-documents/我说的是不上班/第四段_排队与诉求_30秒_完整提示词_v02.md",
+      "bytes": 6483,
+      "sha256": "ac52512eb8aa3ecb7c41715b2308ab004f815acaab362525875655b4bdb8f409"
+    },
+    {
+      "path": "project-documents/房子不大_公摊整个宇宙/07_第一段_30秒完整提示词_v01.md",
+      "bytes": 8990,
+      "sha256": "7b8ba2d40797efeb46ac317fe39e26d09e54bec31f6972c454e2184d93efdc2c"
+    },
+    {
+      "path": "project-documents/房子不大_公摊整个宇宙/07_第一段_30秒完整提示词_v02_16比9.md",
+      "bytes": 9486,
+      "sha256": "9b4a7a105525c1be6948de023257adcc3085232cd02c30fd3270f53135dd4985"
+    },
+    {
+      "path": "project-documents/房子不大_公摊整个宇宙/第二段_原来是猫窝_18秒完整提示词_v01.md",
+      "bytes": 6022,
+      "sha256": "18477d671d23ad116725cb7d0520b8cd93b3992a76599d00de8f05a4a36e80f6"
+    },
+    {
+      "path": "project-documents/救世界小声一点/制作确认.md",
+      "bytes": 2487,
+      "sha256": "b10b3d8204f4cfb4eb3efb878dd86c158006dcaa107a11fd265700d6362a519e"
+    },
+    {
+      "path": "project-documents/救世界小声一点/空间与演出修订_v02.md",
+      "bytes": 1516,
+      "sha256": "a88e719f2d6c37be9bf00e5cc885c725d1b714fc0c2cf459ecb696a87d57eb84"
+    },
+    {
+      "path": "project-documents/救世界小声一点/第二段20秒_资产与分镜_v01.md",
+      "bytes": 1123,
+      "sha256": "5bf9c2a344fae4b1bb723abaaa9c796ee3ea048f94a8b93405934a2deb5b634d"
+    },
+    {
+      "path": "project-documents/救世界小声一点/龙焰与视线修订_v04.md",
+      "bytes": 1187,
+      "sha256": "7a3f34737082da809dd22100968d81107e61d034f0e78ded1306bba87a7923c1"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/24_决战终结_30秒完整提示词_v01.md",
+      "bytes": 8962,
+      "sha256": "cb79b329f3356e718c363908715925f50575edcac7d133f3a7fd60a71489fe9f"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/24_决战终结_30秒完整提示词_v02.md",
+      "bytes": 9514,
+      "sha256": "9e89b5ab2ea283f449b73cfaf2c3af552c41ddb2512de52abbccc750a77e8443"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/决战成片与参考视频_复盘_20261015.md",
+      "bytes": 3558,
+      "sha256": "3c36fd71b0ac0c69f7ba41d29db8bd06d0840a82037a67cd34817c524c506e4d"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/决战重编_v02_贴身搏杀与破甲断炉.md",
+      "bytes": 3924,
+      "sha256": "924a717d6d1e16b46c92a3ea361e7012914cc50144e5c1b413e457430daadf8a"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/战斗纵深与威胁演绎_项目补充.md",
+      "bytes": 4476,
+      "sha256": "f0f0dd1368b7613a6861db6ed552458fa0ac715f9e56cd239763a1b84448189f"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/新参考逐帧分析与决战重编_20261015.md",
+      "bytes": 5703,
+      "sha256": "97862d2333fb62cf232d7038a89c143d4f28a5a7a4eae5bc4eaeaa73b785ff0d"
+    },
+    {
+      "path": "project-documents/终焉龙前，最后一只小猫/第三段_决战蓄能与机械展刃_30秒_完整提示词_v01.md",
+      "bytes": 7558,
+      "sha256": "0f3b55d52dd1504b092a48a4f8739cbc7dd4781c11d000f7eecfb71e53d88e5d"
+    },
+    {
+      "path": "project-documents/阿派与阿满_角色风格测试/00_人物与声音设定_待确认_v01.md",
+      "bytes": 4134,
+      "sha256": "c7bb05716fb1750a9c531485c43c023c133f9ffa8deed4a4597bb4edfa9f8db6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2059,
+      "sha256": "283c69123125d06e162da133c0769eb01d6c9b4139cd7bdd8875131eabac3cd1"
+    },
+    {
+      "path": "rules/AGENTS.md",
+      "bytes": 67536,
+      "sha256": "da394a201d254292cbc5f83c3601ae805018381bd5923d4f7bd49fcd97fd8980"
+    },
+    {
+      "path": "rules/current.md",
+      "bytes": 12247,
+      "sha256": "b7530acf04385e6a51a91b99c209c73fcba1d05a7ccfc7d6eca655c30a9e7b86"
+    },
+    {
+      "path": "rules/导演与美术执行清单.md",
+      "bytes": 17754,
+      "sha256": "eea888194013d03aa07ddf71030d880078415a5086e6e53b81c02860a840010e"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/references/performance-camera.md",
+      "bytes": 4423,
+      "sha256": "91a81e59e3a7199a414af20dae055364842e821f37032c4743166b3f801df668"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/references/source-analysis.md",
+      "bytes": 6478,
+      "sha256": "72ae3ab4f9254cc0b7cc1cd00418fd83c66a9659de47095b610a74b173f6b1ba"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/SKILL.md",
+      "bytes": 5387,
+      "sha256": "1c7538670c68784c72c53f7eb93ca5bd2554a87fa1937f365de9338fcee5020c"
+    },
+    {
+      "path": "skills/cinematic-space-life/SKILL.md",
+      "bytes": 3380,
+      "sha256": "6302207922bed29cfe17eefb173b60d9131ac60d46b91ee02dbf7909186f273b"
+    },
+    {
+      "path": "skills/cinematic-space-life/学习记录.md",
+      "bytes": 742,
+      "sha256": "435678df61f49cc7af23f438d65cdd93bf7f95bd3871246a61f29645e3e82ee3"
+    },
+    {
+      "path": "skills/doubao-human-signal/agents/openai.yaml",
+      "bytes": 281,
+      "sha256": "33319d551d9e9e6b77f656538dddb1ae6f9756b14f74b203db662b2c28a76e40"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/audience-guide.md",
+      "bytes": 7672,
+      "sha256": "629ad2e98359d16851967776cbbdf8bb436ab1b1c7777e979150fe797bf31568"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/cases.md",
+      "bytes": 54012,
+      "sha256": "f1034abc13e839b43fbaf744285d4ea1aa3bfd76054bfb3fa216b33e6486b549"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/context-guide.md",
+      "bytes": 2532,
+      "sha256": "fd4f1f91487cac49e437b49c89c4ca88c57d859e1e5913b58ef4bc4d95e208cf"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/domain-guide.md",
+      "bytes": 2205,
+      "sha256": "f72f47bff64d2e4c749924b67b13d146c1642d26f566d72a0df08b33bf16922b"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/evaluation.md",
+      "bytes": 26058,
+      "sha256": "17dc6bb8ce27f81b803dd0cad21468cbfa952673e8079c63a8a47dfa3bebeefb"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/genre-guide.md",
+      "bytes": 12131,
+      "sha256": "30900766c42baae726e5e395b613e81abe456b742b3279aee81d9e835b0a4d07"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/input-contract.md",
+      "bytes": 8867,
+      "sha256": "0c2493d620159795d72680855ac62e82859d0a6f8e798cf36fdb2090d7b624fa"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/patterns.md",
+      "bytes": 29332,
+      "sha256": "e1ec8eab6e6f725b0c8337f2f0221607d3fe0576c58f3982aab12d73e04398b0"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/platform-guide.md",
+      "bytes": 8200,
+      "sha256": "e013e114b44705b3a5cf870bb1dfb2bb77c182c9d1c353016a1ab754265a67b7"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/prompt-defense.md",
+      "bytes": 5880,
+      "sha256": "8436e265696b6f647d25711823e4c3ffa834e29e96bbbd470c8e4feb45480bc9"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/story-guide.md",
+      "bytes": 7426,
+      "sha256": "950aedac527d5339c4789691e8cdf77d1ea0c2781a9762b2d9bed88f3a9ffd93"
+    },
+    {
+      "path": "skills/doubao-human-signal/SKILL.md",
+      "bytes": 12337,
+      "sha256": "9f6a16c493bda8fdd3d2c478f3d0cac4a5b667c83de060c9e8e50a99ca3af03e"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/composite.writing-guide.md",
+      "bytes": 3094,
+      "sha256": "6eb98341f382bd1daf0d440e40de05c7079249473a556b8da58a4327d621c8af"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/lark-doc.writing-guide.md",
+      "bytes": 12257,
+      "sha256": "07494098024999b3ac4fccdfcba7b5a52ab79837da19100515a03dffdc08e8f9"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/short-video.writing-guide.md",
+      "bytes": 6391,
+      "sha256": "e1c949173366180937ef82a67e8b4c15efae9c579caf12e54070484434227df0"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/wechat.writing-guide.md",
+      "bytes": 19010,
+      "sha256": "f5b21ce1b1d3d3552d448e598fc1122dfdfce6f9e79204847e1716a0229c8a03"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/xhs.writing-guide.md",
+      "bytes": 9966,
+      "sha256": "b9613cb892f729cd84a51e62bd211cf7bb47d0108d3e441b6fd44638869cf510"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/creative-playbook.md",
+      "bytes": 3506,
+      "sha256": "78525905a18474e29be1f075c68ebd92c9e58a33300d58a7cc8900ffed18104f"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/output-format.md",
+      "bytes": 4174,
+      "sha256": "1221333ada71730b7c3a8ab0dde5e23ac5741d1ab536c5ae5eca149ecb5f0ece"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/research-workflow.md",
+      "bytes": 2008,
+      "sha256": "4c0b28cd4bbae31aff6e8513755e60ec413e622acd733b526da41bb81aa9744d"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/visual-storyboard.md",
+      "bytes": 3607,
+      "sha256": "6a9b3fe2bd1ff5176b99fd648752ac5e367ac464d346d91eb31792695454242a"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/Internet-search-rules.md",
+      "bytes": 23072,
+      "sha256": "32101a0911727b40ec9a8ff02597ca966dc351e907a306a711730d6dfa13ff1e"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/Layout-and-illustration-requirements.md",
+      "bytes": 13995,
+      "sha256": "157c540aaa03243cc082953c3c699f9a71650a493ed3939a50b472e78c8d6c23"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/cognitive-opinion.md",
+      "bytes": 22109,
+      "sha256": "dea3dc19e0e4350126f123f16783b61e583f490d606686b174fcbde62ddbb2a7"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/emotional-healing.md",
+      "bytes": 21868,
+      "sha256": "08de982a89a2184fefd45bb34803b86e7745061d7b575cba1902f120ea3ab32b"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/narrative-nonfiction.md",
+      "bytes": 24259,
+      "sha256": "303dd65d6bf6cf32398b57a105dd93e44bba2904ae2c64114a535a500b9edc69"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/news-hotspot.md",
+      "bytes": 24224,
+      "sha256": "94dfc2bf68cc543684d1a62cdcaffd120f02a61ba056ae5d9e7bec789ef7ccb3"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/professional-explainer.md",
+      "bytes": 26645,
+      "sha256": "65cfa29b6661e7360229c27ab6eb4484db4beff2f630ab29e5726c5310e41035"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methodology.md",
+      "bytes": 2516,
+      "sha256": "06262b89d86ea6fbc8b041a2bb8cee6402ab27c3e33238a82f2960a5030bd3f2"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methods.md",
+      "bytes": 31301,
+      "sha256": "e73efa8abdcae796f184cba64f0274aeb93a163c4bcb58254ac89dad086ab5df"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.hotspot-guide.md",
+      "bytes": 6229,
+      "sha256": "ec3904ea30d8aa3a799e8f924b2ff1cdc216e85d0e40d7a1ed0decd7478d3578"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-cover-methodology.md",
+      "bytes": 11698,
+      "sha256": "8ba98251f6a2bcf60aafe774b8a38a7482fc71e8b1ad754b9ce03eff5eede0a8"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-design-methods.md",
+      "bytes": 42060,
+      "sha256": "f5c9a10d57212cf5a5112113699d404ec9ff680e0bbd9ad995c371e804383def"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.output-format.md",
+      "bytes": 8426,
+      "sha256": "d96bbcd0bc3f02fec4c076147f8205de5bd29cd4ac073fe64ab37688aa2ff063"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/SKILL.md",
+      "bytes": 4983,
+      "sha256": "ac8eaf4ea83a4780be78d3aa794375e4ec73b1405a664502386196cbcd8628bb"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/agents/openai.yaml",
+      "bytes": 345,
+      "sha256": "56b828fa621574e576899ebfa2d6b37f0366642af3c06ceaadd71a1b2738d41e"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/references/学习记录.md",
+      "bytes": 3971,
+      "sha256": "3a5046107f66c0eea1efc826263b9e98f34616d97ecc1bd472847ac2a6fcc0f2"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/SKILL.md",
+      "bytes": 5115,
+      "sha256": "4673069c51edf6f04766975115fac9d76d04fa8c4d6b15dc085126c911c6eddf"
+    },
+    {
+      "path": "skills/fight-prompt-director/LICENSE",
+      "bytes": 1091,
+      "sha256": "9dfaef64ca93995b028ac3614535816b58aee25fa0c1b4431b8b0532af7b75c8"
+    },
+    {
+      "path": "skills/fight-prompt-director/README.md",
+      "bytes": 9105,
+      "sha256": "5085a1275f5536fce8cee4566201a81ccbd1bc8d351b01453c6aaa5e3833e6cb"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/camera-guide.md",
+      "bytes": 5204,
+      "sha256": "6d54f4c0cd3e387b1ea5f8fea26f39e7af117ce855c92911e90641b1cdc708c1"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/diagnostics.md",
+      "bytes": 3543,
+      "sha256": "af8f79ea3e03e2b6b280653d35580c15fa69c6eddf2998fd69ed983782ff316a"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/fight-design.md",
+      "bytes": 9951,
+      "sha256": "a209a969a3762483ea1d24c6717ec4b32b905ecd5b85747d878d24e96a5a509b"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/motuantuan-combat.md",
+      "bytes": 5259,
+      "sha256": "f09970927d7d392363b5d387245812b04fbbccbf0b1e649eaae23c7cfed742bb"
+    },
+    {
+      "path": "skills/fight-prompt-director/SKILL.md",
+      "bytes": 9332,
+      "sha256": "9e121e7a11d16c17e0b7c6d42575458fcb7557a57fae9869baa0b6716a271852"
+    },
+    {
+      "path": "skills/imagegen/agents/openai.yaml",
+      "bytes": 281,
+      "sha256": "1797be4076717806df54aa9331c07ac8eebe32c69f32132d5858712b05406146"
+    },
+    {
+      "path": "skills/imagegen/assets/imagegen-small.svg",
+      "bytes": 2894,
+      "sha256": "087c1632a3b8a2ed4d6218952e7ba7ae2221a979f84233667ed2c587998784da"
+    },
+    {
+      "path": "skills/imagegen/assets/imagegen.png",
+      "bytes": 1711,
+      "sha256": "95952f644064eb9e890f98d8db07216347186526e4c41ad66d3420629eb86e20"
+    },
+    {
+      "path": "skills/imagegen/LICENSE.txt",
+      "bytes": 10977,
+      "sha256": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc"
+    },
+    {
+      "path": "skills/imagegen/references/cli.md",
+      "bytes": 9897,
+      "sha256": "29dc8c1e3e5d9a20aee587fedb46a464552b6ec118d93bbd90c8d86e30502c8c"
+    },
+    {
+      "path": "skills/imagegen/references/codex-network.md",
+      "bytes": 1812,
+      "sha256": "cba3b4d24d30f38adf8021b6e9b49ec5261a9e45e7df31047ec451c916c99b0a"
+    },
+    {
+      "path": "skills/imagegen/references/image-api.md",
+      "bytes": 6162,
+      "sha256": "695909437b792aff171477dba127476a11235c220beb06533cce7c1495a042c8"
+    },
+    {
+      "path": "skills/imagegen/references/prompting.md",
+      "bytes": 8394,
+      "sha256": "d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd"
+    },
+    {
+      "path": "skills/imagegen/references/sample-prompts.md",
+      "bytes": 18039,
+      "sha256": "76cc8a2988efb6e844a99ff9908b2b11cc07467510fc909002abcc0ee3f0701b"
+    },
+    {
+      "path": "skills/imagegen/scripts/image_gen.py",
+      "bytes": 35697,
+      "sha256": "3666b807de3f0a1d0a4a767b886d612c0b8f71025c500bba6693d1c6995a0873"
+    },
+    {
+      "path": "skills/imagegen/scripts/remove_chroma_key.py",
+      "bytes": 14354,
+      "sha256": "fa2989807052b857bed08f7fee0caa2502b54c46afc0a6f28cd706c25f636630"
+    },
+    {
+      "path": "skills/imagegen/SKILL.md",
+      "bytes": 19516,
+      "sha256": "706d4d96e1d5c9e6023fe3ccabba1bb34b364024d344fd25b8515ec7d28fe3c4"
+    },
+    {
+      "path": "skills/motuantuan-lean-sync/agents/openai.yaml",
+      "bytes": 329,
+      "sha256": "366be5c7b5c80a5125c6fc3a2cb59481f85b5f17a0791069d32326bdb54269cc"
+    },
+    {
+      "path": "skills/motuantuan-lean-sync/SKILL.md",
+      "bytes": 2090,
+      "sha256": "749a9967b524b802571ea3cb6e7c80547f71e98ff1fdfb7b130430a703d9fdc0"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/agents/openai.yaml",
+      "bytes": 332,
+      "sha256": "a6f73388a375b7b28943c6f0d4624d5f342764cc728068e83c069d7a49bee549"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/canon.md",
+      "bytes": 4145,
+      "sha256": "48d4305538789bbb33d76db577ffa02f0abbdd6645b9f2bebdc2846f47ade241"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/characters.md",
+      "bytes": 4329,
+      "sha256": "bad11e46ecf95ba266c7c529097a75f06104a020148c02a433821b994a9feda1"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/continuity.md",
+      "bytes": 2905,
+      "sha256": "bf27a9ac5994bbb1f9659e234877186a593bc5093e38b1a0461242213d8d1b17"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/power.md",
+      "bytes": 6240,
+      "sha256": "05c2eaae1d124c3a9f95d00119e72447f0bc6df40302141fe9849854ccfdbcff"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/series.md",
+      "bytes": 3004,
+      "sha256": "6fb6381ae6cef98e6b7001d9fb710ddacab7c2f3693a74dbfbabd29464a73756"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/video-prompts.md",
+      "bytes": 9904,
+      "sha256": "a8419cafb37ff70ad26f8a8a1b8822f4e4e2b42b4db8b940d95577367e214af7"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/SKILL.md",
+      "bytes": 5971,
+      "sha256": "e93e2b59e7e1ee11a8d292a406816f054cda9a03426651b54b96fc3f1f5c1452"
+    },
+    {
+      "path": "skills/openai-docs/agents/openai.yaml",
+      "bytes": 376,
+      "sha256": "0dd6c5ffa81a09782fd24cfa9fe1ec5c9633c90500b166ae18a462e613e876be"
+    },
+    {
+      "path": "skills/openai-docs/assets/openai-small.svg",
+      "bytes": 1094,
+      "sha256": "85ef0a2cde497872edec1525f1d538ccc42b33ff47acdbb88499a1631a4bdb21"
+    },
+    {
+      "path": "skills/openai-docs/assets/openai.png",
+      "bytes": 1429,
+      "sha256": "156cc84d7332bfe95b310350bd470b690d22aa33d65340cc6c2e06022946194c"
+    },
+    {
+      "path": "skills/openai-docs/LICENSE.txt",
+      "bytes": 10977,
+      "sha256": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc"
+    },
+    {
+      "path": "skills/openai-docs/references/codex-self-knowledge.md",
+      "bytes": 7488,
+      "sha256": "f945bf2a7cea6892d7a11ac38fb18b744fefd6d273654a8410c4c79e9f647fbe"
+    },
+    {
+      "path": "skills/openai-docs/references/latest-model.md",
+      "bytes": 1354,
+      "sha256": "66303f714cd51408fcd6eaa81acef1769cbeb6af844883fef2847926fe324fe4"
+    },
+    {
+      "path": "skills/openai-docs/references/mcp-diagnostics.md",
+      "bytes": 2345,
+      "sha256": "e9df2b2f8faa28930db4a2937cdb3665b4548ac958e80a8601a5dd0da1e6fad0"
+    },
+    {
+      "path": "skills/openai-docs/references/model-migration.md",
+      "bytes": 5677,
+      "sha256": "3c08623b8870ef5e38fc16b945f4b8f231e00f61deb422e68575703d97a3a5ad"
+    },
+    {
+      "path": "skills/openai-docs/references/model-selection.md",
+      "bytes": 1356,
+      "sha256": "ce020100a28004500c927abcd57cff154c5c360eb72d918ef7d72492e2484cce"
+    },
+    {
+      "path": "skills/openai-docs/references/official-docs.md",
+      "bytes": 3362,
+      "sha256": "b2301d72b8092be5f5727d8d1cbc75740887d836f4f13b469f40c1db16b39fe3"
+    },
+    {
+      "path": "skills/openai-docs/references/prompting-guide.md",
+      "bytes": 10243,
+      "sha256": "69517cde6c3bac945100a9da946d65c9effdd145d7600dead41f8adc1c1a7e38"
+    },
+    {
+      "path": "skills/openai-docs/references/upgrade-guide.md",
+      "bytes": 1526,
+      "sha256": "3ec7763f8adab0e2d35d752cc762f1382726108e166bbf10dbe9d38608d3fc5a"
+    },
+    {
+      "path": "skills/openai-docs/references/upgrading-to-gpt-6-astra.md",
+      "bytes": 19912,
+      "sha256": "789fcaf0999f56cebf801d0f6e6bdfe347dcfb5eff3d9a40ff815c15336f8699"
+    },
+    {
+      "path": "skills/openai-docs/scripts/fetch-codex-manual.mjs",
+      "bytes": 16547,
+      "sha256": "d29c536eb9a8971be60beb7145b7697e929593ed8da58014b4081434c11efdc4"
+    },
+    {
+      "path": "skills/openai-docs/scripts/resolve-latest-model-info",
+      "bytes": 1077,
+      "sha256": "8f5006efa15c034ede29821b627d7b86c43f7dfaab422d335f45b9be8d04e2d5"
+    },
+    {
+      "path": "skills/openai-docs/scripts/resolve-latest-model-info.cjs",
+      "bytes": 3999,
+      "sha256": "8febe1acc3269662fb258090001a6848591070aa23a9633a89022433661aea0c"
+    },
+    {
+      "path": "skills/openai-docs/SKILL.md",
+      "bytes": 5475,
+      "sha256": "8ce8021101bcea594ff92ee6cfd8ca7641a49ee66d7bc6070555f1a33fc239d9"
+    },
+    {
+      "path": "skills/perspective-opening-story/SKILL.md",
+      "bytes": 6687,
+      "sha256": "123e21c5973a7d9c56fd54515ead4cac0d6d321f1685ff0162149cdc76ee1ac3"
+    },
+    {
+      "path": "skills/skill-creator/agents/openai.yaml",
+      "bytes": 188,
+      "sha256": "b750627cdd588fdbb5b46e854d3384d1a504fad3b8ed73ca5d7ead3804df78b6"
+    },
+    {
+      "path": "skills/skill-creator/assets/skill-creator-small.svg",
+      "bytes": 1322,
+      "sha256": "edb19a0c59f9a1b5253b9af6d2f9f03cac27b2fe6a0275ebccbbdbff07891a1a"
+    },
+    {
+      "path": "skills/skill-creator/assets/skill-creator.png",
+      "bytes": 1563,
+      "sha256": "a4024b0306ddb05847e1012879d37aaf1e658205199da596f5145ed7a88d9162"
+    },
+    {
+      "path": "skills/skill-creator/license.txt",
+      "bytes": 11560,
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+    },
+    {
+      "path": "skills/skill-creator/references/openai_yaml.md",
+      "bytes": 2405,
+      "sha256": "7039d465b05342cbacf861f08d20192ab1eeee112bc5d8ff0fb66234756887a9"
+    },
+    {
+      "path": "skills/skill-creator/scripts/generate_openai_yaml.py",
+      "bytes": 6900,
+      "sha256": "30c73f1ea7d47dbab2b231bb92c5bf9026f1ad14ba8e3b3a4a544092c4d24ebe"
+    },
+    {
+      "path": "skills/skill-creator/scripts/init_skill.py",
+      "bytes": 10622,
+      "sha256": "74dfa9361a93bee6932d6cbb332ed19ac26a27ba3800e69fb07ba7512c1025f9"
+    },
+    {
+      "path": "skills/skill-creator/scripts/quick_validate.py",
+      "bytes": 4376,
+      "sha256": "6068513d924ed3559e186dfcdead7439129828dcf402167fd925c06dffbf2806"
+    },
+    {
+      "path": "skills/skill-creator/SKILL.md",
+      "bytes": 15540,
+      "sha256": "cccd291077ec57c6f50ca6529f0f3fb93212da09473effb2fcec808e81b21288"
+    },
+    {
+      "path": "skills/video-shot-continuity/references/source-study.md",
+      "bytes": 1886,
+      "sha256": "9289bd4393ec6ad2f22a4417ee6ba45f1ad68719932ab0cc77852e6bcebb1fe6"
+    },
+    {
+      "path": "skills/video-shot-continuity/SKILL.md",
+      "bytes": 5216,
+      "sha256": "9e11485d1ce0aee54a51946a0d590643bfdaa4cdd28726dc23a38381543329e6"
+    },
+    {
+      "path": "skills/video-storyboard-prompts/SKILL.md",
+      "bytes": 6093,
+      "sha256": "24f4ea916a840c2995ea36e9bed9fddb50b2d3eb65dda365e4f9aeacc7bd39a8"
+    }
+  ]
+}

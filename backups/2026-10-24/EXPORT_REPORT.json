@@ -1,0 +1,165 @@
+{
+  "snapshot_date": "2026-10-24",
+  "repository": "kingparkpark/xiaoxin",
+  "scope": "墨团团项目当前会话、前序总指挥与相关分类会话；不包含无关实验室聊天",
+  "threads": [
+    {
+      "id": "01a16bfe-44d0-7451-8bf7-99479377ec53",
+      "title": "总指挥 (2)",
+      "source_logs": 1,
+      "message_count": 3,
+      "exact_duplicates_removed": 0,
+      "source_bytes": 606921,
+      "text_bytes": 808
+    },
+    {
+      "id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source_logs": 40,
+      "message_count": 629,
+      "exact_duplicates_removed": 0,
+      "source_bytes": 1349252894,
+      "text_bytes": 1592188
+    },
+    {
+      "id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source_logs": 19,
+      "message_count": 527,
+      "exact_duplicates_removed": 0,
+      "source_bytes": 3115201880,
+      "text_bytes": 255565
+    },
+    {
+      "id": "01a0fb60-23b6-7f73-96ab-c4959089734c",
+      "title": "剧本",
+      "source_logs": 2,
+      "message_count": 9,
+      "exact_duplicates_removed": 0,
+      "source_bytes": 66064,
+      "text_bytes": 9313
+    },
+    {
+      "id": "01a13074-24ad-7ca0-b23e-19b27fb344fb",
+      "title": "项目关联会话_01a13074",
+      "source_logs": 1,
+      "message_count": 0,
+      "exact_duplicates_removed": 0,
+      "source_bytes": 9854,
+      "text_bytes": 0
+    }
+  ],
+  "errors": [],
+  "exclusions": [
+    "系统与开发者指令",
+    "内部推理与压缩摘要",
+    "工具输出和登录凭据",
+    "内嵌图像音视频二进制；保留消息中的文件名及路径"
+  ],
+  "cutoff_note": "快照导出时刻之前已落盘的消息；本次上传完成后的回复不在本快照内。",
+  "skills": [
+    {
+      "name": "cartoon-acting-camera",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\cartoon-acting-camera",
+      "status": "项目创作与规则路由涉及",
+      "files": 3
+    },
+    {
+      "name": "cinematic-space-life",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\cinematic-space-life",
+      "status": "项目创作与规则路由涉及",
+      "files": 2
+    },
+    {
+      "name": "doubao-human-signal",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\doubao-human-signal",
+      "status": "项目创作与规则路由涉及",
+      "files": 13
+    },
+    {
+      "name": "doubao-newmedia-writing",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\doubao-newmedia-writing",
+      "status": "项目创作与规则路由涉及",
+      "files": 23
+    },
+    {
+      "name": "emotion-shot-rhythm",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\emotion-shot-rhythm",
+      "status": "项目创作与规则路由涉及",
+      "files": 3
+    },
+    {
+      "name": "fight-prompt-director",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\fight-prompt-director",
+      "status": "项目创作与规则路由涉及",
+      "files": 7
+    },
+    {
+      "name": "motuantuan-lean-sync",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\motuantuan-lean-sync",
+      "status": "项目创作与规则路由涉及",
+      "files": 2
+    },
+    {
+      "name": "motuantuan-screenplay",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\motuantuan-screenplay",
+      "status": "项目创作与规则路由涉及",
+      "files": 8
+    },
+    {
+      "name": "perspective-opening-story",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\perspective-opening-story",
+      "status": "项目创作与规则路由涉及",
+      "files": 1
+    },
+    {
+      "name": "video-shot-continuity",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\video-shot-continuity",
+      "status": "项目创作与规则路由涉及",
+      "files": 2
+    },
+    {
+      "name": "video-storyboard-prompts",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\video-storyboard-prompts",
+      "status": "项目创作与规则路由涉及",
+      "files": 1
+    },
+    {
+      "name": "imagegen",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\.system\\imagegen",
+      "status": "当前或历史技能调用涉及",
+      "files": 12
+    },
+    {
+      "name": "skill-creator",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\.system\\skill-creator",
+      "status": "当前或历史技能调用涉及",
+      "files": 9
+    },
+    {
+      "name": "openai-docs",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\.system\\openai-docs",
+      "status": "当前或历史技能调用涉及",
+      "files": 17
+    }
+  ],
+  "inherited_history_api": {
+    "thread_id": "01a16bfe-44d0-7451-8bf7-99479377ec53",
+    "pages": 35,
+    "messages": 1074,
+    "pagination_exhausted": true,
+    "explicit_truncation_markers": 0,
+    "per_item_max_chars": 20000,
+    "note": "API消息设置每条20000字符上限；未检测到截断标记。更长内容优先查本地日志导出，不能证明所有附件媒体均保存。"
+  },
+  "additional_chatgpt_exports": [
+    {
+      "name": "chatgpt-fenjing",
+      "messages": 10
+    },
+    {
+      "name": "chatgpt-backup",
+      "messages": 6
+    }
+  ]
+}
