@@ -1,0 +1,2110 @@
+{
+  "date": "2026-10-26",
+  "scope": "墨团团项目当前可取得的可见会话、规则、文本交付与相关技能快照",
+  "sessions": [
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-28-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl.zst",
+      "source_bytes": 28189,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-28-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-31-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13018-d62e-7ec0-a69d-a66f3d508368.jsonl.zst",
+      "source_bytes": 27876,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-31-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13018-d62e-7ec0-a69d-a66f3d508368.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-34-24-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301b-6483-72a2-bed5-0f0465f4de4c.jsonl.zst",
+      "source_bytes": 28402,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-34-24-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301b-6483-72a2-bed5-0f0465f4de4c.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-38-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301f-6fdf-7161-b0a1-8a1c66f26a32.jsonl.zst",
+      "source_bytes": 28205,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-38-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301f-6fdf-7161-b0a1-8a1c66f26a32.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-42-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13022-f039-73a2-83ef-2d261f872d15.jsonl.zst",
+      "source_bytes": 96314,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-42-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13022-f039-73a2-83ef-2d261f872d15.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-50-18-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13029-f3b1-7051-a625-1e8a5eeb3141.jsonl.zst",
+      "source_bytes": 52700,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-50-18-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13029-f3b1-7051-a625-1e8a5eeb3141.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T20-59-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13032-08b1-7501-92bc-64738504041d.jsonl.zst",
+      "source_bytes": 70850,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-59-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13032-08b1-7501-92bc-64738504041d.jsonl",
+      "messages": 5
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T21-07-52-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1303a-09cd-7b51-baef-74f6876ac238.jsonl.zst",
+      "source_bytes": 31623,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-07-52-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1303a-09cd-7b51-baef-74f6876ac238.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T21-15-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13041-08be-7b03-8466-d46998a1bcd6.jsonl.zst",
+      "source_bytes": 14568,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-15-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13041-08be-7b03-8466-d46998a1bcd6.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T21-18-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13044-25e7-7d12-ad91-a4f9cd3abd85.jsonl.zst",
+      "source_bytes": 158460,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-18-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13044-25e7-7d12-ad91-a4f9cd3abd85.jsonl",
+      "messages": 14
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T21-59-23-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13069-335f-72a1-9053-7304f18769ee.jsonl.zst",
+      "source_bytes": 32792,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-59-23-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13069-335f-72a1-9053-7304f18769ee.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T22-13-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13076-8d39-7091-853e-a47a959621e9.jsonl.zst",
+      "source_bytes": 48562,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-13-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13076-8d39-7091-853e-a47a959621e9.jsonl",
+      "messages": 5
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T22-22-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1307e-5e24-72c3-97a2-8bdb12a11c2d.jsonl.zst",
+      "source_bytes": 11927,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-22-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1307e-5e24-72c3-97a2-8bdb12a11c2d.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\12\\rollout-2026-10-12T22-30-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13085-d1ee-79b3-97ef-b54e1b024d1d.jsonl.zst",
+      "source_bytes": 66790586,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-30-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13085-d1ee-79b3-97ef-b54e1b024d1d.jsonl",
+      "messages": 24
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\13\\rollout-2026-10-13T14-01-47-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133da-506a-7602-ac44-eeab45700aed.jsonl.zst",
+      "source_bytes": 27311,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-13T14-01-47-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133da-506a-7602-ac44-eeab45700aed.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\13\\rollout-2026-10-13T14-04-33-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133dc-d6bc-70a1-9bf4-1de133d64019.jsonl.zst",
+      "source_bytes": 16676327,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-13T14-04-33-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133dc-d6bc-70a1-9bf4-1de133d64019.jsonl",
+      "messages": 52
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-03-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1385d-8f61-7411-bdb0-9b116effd58a.jsonl.zst",
+      "source_bytes": 2770426,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-03-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1385d-8f61-7411-bdb0-9b116effd58a.jsonl",
+      "messages": 6
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-14-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13867-cdda-7dd0-9c4a-7edfeeb92a59.jsonl.zst",
+      "source_bytes": 22306,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-14-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13867-cdda-7dd0-9c4a-7edfeeb92a59.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-22-21-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1386e-b35a-77b2-9d9c-bb69f979c11b.jsonl.zst",
+      "source_bytes": 17283,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-22-21-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1386e-b35a-77b2-9d9c-bb69f979c11b.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-26-09-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13872-2f64-7512-943a-ee342272616b.jsonl.zst",
+      "source_bytes": 44853,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-26-09-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13872-2f64-7512-943a-ee342272616b.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-33-53-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13879-44c5-70a0-b279-9f500369e705.jsonl.zst",
+      "source_bytes": 39487,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-33-53-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13879-44c5-70a0-b279-9f500369e705.jsonl",
+      "messages": 9
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T11-48-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13887-1386-7370-858a-bb65deac2652.jsonl.zst",
+      "source_bytes": 12046154,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-48-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13887-1386-7370-858a-bb65deac2652.jsonl",
+      "messages": 33
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T16-34-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1398c-06cb-78b1-abeb-f0027c8df54d.jsonl.zst",
+      "source_bytes": 23314939,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T16-34-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1398c-06cb-78b1-abeb-f0027c8df54d.jsonl",
+      "messages": 28
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\14\\rollout-2026-10-14T22-38-26-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13ad9-acc2-7f20-8f3d-d420b8ef0bf9.jsonl",
+      "source_bytes": 292818262,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T22-38-26-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13ad9-acc2-7f20-8f3d-d420b8ef0bf9.jsonl",
+      "messages": 131
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\19\\rollout-2026-10-19T16-58-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15362-09bd-77a2-a81a-e82308ae8522.jsonl",
+      "source_bytes": 135413201,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-19T16-58-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15362-09bd-77a2-a81a-e82308ae8522.jsonl",
+      "messages": 56
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T11-13-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-1d6f-7d71-a3d5-7b8dcd758d6e.jsonl",
+      "source_bytes": 46177,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-13-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-1d6f-7d71-a3d5-7b8dcd758d6e.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T11-14-35-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-bdc3-7dc2-9f87-69351300cb5c.jsonl",
+      "source_bytes": 8427758,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-14-35-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-bdc3-7dc2-9f87-69351300cb5c.jsonl",
+      "messages": 7
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T11-48-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1576c-e89e-7703-8f98-ba0146d77c7e.jsonl",
+      "source_bytes": 10559355,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-48-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1576c-e89e-7703-8f98-ba0146d77c7e.jsonl",
+      "messages": 13
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T13-33-34-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157cc-fec3-7d51-94d6-52e2758a623f.jsonl",
+      "source_bytes": 55368,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-33-34-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157cc-fec3-7d51-94d6-52e2758a623f.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T13-37-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d0-3e85-7663-bc1a-8e04c16466a0.jsonl",
+      "source_bytes": 55534,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-37-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d0-3e85-7663-bc1a-8e04c16466a0.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\20\\rollout-2026-10-20T13-38-22-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d1-6313-7bc2-a6bd-ba6af6b968aa.jsonl",
+      "source_bytes": 976547,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-38-22-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d1-6313-7bc2-a6bd-ba6af6b968aa.jsonl",
+      "messages": 19
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\21\\rollout-2026-10-21T23-42-44-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15f21-0d47-7e30-92a3-116dde19613c.jsonl",
+      "source_bytes": 138407905,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-21T23-42-44-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15f21-0d47-7e30-92a3-116dde19613c.jsonl",
+      "messages": 30
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\22\\rollout-2026-10-22T13-06-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16201-058d-76e1-b95a-b52525783021.jsonl",
+      "source_bytes": 18945393,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-22T13-06-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16201-058d-76e1-b95a-b52525783021.jsonl",
+      "messages": 5
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\22\\rollout-2026-10-22T14-52-20-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16261-d1c3-7841-ad6a-d1a3e7aa2682.jsonl",
+      "source_bytes": 62889282,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-22T14-52-20-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16261-d1c3-7841-ad6a-d1a3e7aa2682.jsonl",
+      "messages": 28
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T11-35-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a166d3-c25a-76e1-b9cc-83ba530f7904.jsonl",
+      "source_bytes": 219879599,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T11-35-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a166d3-c25a-76e1-b9cc-83ba530f7904.jsonl",
+      "messages": 32
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T14-23-57-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1676e-3275-71a1-b42f-fc6432cf9324.jsonl",
+      "source_bytes": 147116404,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T14-23-57-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1676e-3275-71a1-b42f-fc6432cf9324.jsonl",
+      "messages": 29
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T21-21-08-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ec-2249-73d1-8dc5-ae5dd88d13da.jsonl",
+      "source_bytes": 3591246,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T21-21-08-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ec-2249-73d1-8dc5-ae5dd88d13da.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T21-22-50-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ed-b279-7e92-a983-8decf8de0510.jsonl",
+      "source_bytes": 86345901,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T21-22-50-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ed-b279-7e92-a983-8decf8de0510.jsonl",
+      "messages": 17
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T22-46-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693a-21aa-71d0-9a9f-256e108f8546.jsonl",
+      "source_bytes": 55469,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T22-46-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693a-21aa-71d0-9a9f-256e108f8546.jsonl",
+      "messages": 1
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\23\\rollout-2026-10-23T22-49-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693c-feda-7303-ba63-7d47c159c654.jsonl",
+      "source_bytes": 144069861,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T22-49-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693c-feda-7303-ba63-7d47c159c654.jsonl",
+      "messages": 24
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T13-16-40-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c56-f3bd-7a12-9241-94be72670136.jsonl",
+      "source_bytes": 43238795,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T13-16-40-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c56-f3bd-7a12-9241-94be72670136.jsonl",
+      "messages": 6
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T14-16-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c8d-d48c-76c1-9055-8c6fc7a501ed.jsonl",
+      "source_bytes": 45255739,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T14-16-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c8d-d48c-76c1-9055-8c6fc7a501ed.jsonl",
+      "messages": 5
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T14-53-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16caf-26b3-7d12-9de6-72b9c9886643.jsonl",
+      "source_bytes": 81185972,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T14-53-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16caf-26b3-7d12-9de6-72b9c9886643.jsonl",
+      "messages": 13
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T21-29-03-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16e19-c03c-7a73-a99a-f31e6e041dba.jsonl",
+      "source_bytes": 396526259,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T21-29-03-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16e19-c03c-7a73-a99a-f31e6e041dba.jsonl",
+      "messages": 83
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\25\\rollout-2026-10-25T18-05-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a17285-b5b5-7960-a943-8d3b27a13b45.jsonl",
+      "source_bytes": 113510477,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-25T18-05-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a17285-b5b5-7960-a943-8d3b27a13b45.jsonl",
+      "messages": 35
+    },
+    {
+      "thread_id": "01a13016-1c34-7b41-a2ba-3d3e66e7c1b3",
+      "title": "总指挥",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\26\\rollout-2026-10-26T01-45-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1742a-b926-75a1-8b3b-8f68f5d3f446.jsonl",
+      "source_bytes": 1274213,
+      "export": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-26T01-45-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1742a-b926-75a1-8b3b-8f68f5d3f446.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a16bfe-44d0-7451-8bf7-99479377ec53",
+      "title": "总指挥 (2)",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\24\\rollout-2026-10-24T11-39-48-01a16bfe-44d0-7451-8bf7-99479377ec53.jsonl",
+      "source_bytes": 80439693,
+      "export": "conversations/local/01a16bfe-44d0-7451-8bf7-99479377ec53/rollout-2026-10-24T11-39-48-01a16bfe-44d0-7451-8bf7-99479377ec53.jsonl",
+      "messages": 10
+    },
+    {
+      "thread_id": "01a0fb60-23b6-7f73-96ab-c4959089734c",
+      "title": "剧本",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\02\\rollout-2026-10-02T14-49-36-01a0fb60-23b6-7f73-96ab-c4959089734c.jsonl.zst",
+      "source_bytes": 46871,
+      "export": "conversations/local/01a0fb60-23b6-7f73-96ab-c4959089734c/rollout-2026-10-02T14-49-36-01a0fb60-23b6-7f73-96ab-c4959089734c.jsonl",
+      "messages": 6
+    },
+    {
+      "thread_id": "01a0fb60-23b6-7f73-96ab-c4959089734c",
+      "title": "剧本",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\07\\rollout-2026-10-07T17-50-19-01a0fb60-23b6-7f73-96ab-c4959089734c_01a115c5-62c0-7221-93db-e561780a6af7.jsonl.zst",
+      "source_bytes": 19193,
+      "export": "conversations/local/01a0fb60-23b6-7f73-96ab-c4959089734c/rollout-2026-10-07T17-50-19-01a0fb60-23b6-7f73-96ab-c4959089734c_01a115c5-62c0-7221-93db-e561780a6af7.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\21\\rollout-2026-09-21T23-33-36-01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl.zst",
+      "source_bytes": 49695830,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-21T23-33-36-01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl",
+      "messages": 31
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T00-37-12-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d4-25a0-7f70-82da-cd532426fd01.jsonl.zst",
+      "source_bytes": 4813866,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T00-37-12-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d4-25a0-7f70-82da-cd532426fd01.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T00-42-58-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d9-6c81-7ac2-8f09-ba9689fad622.jsonl.zst",
+      "source_bytes": 34931601,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T00-42-58-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d9-6c81-7ac2-8f09-ba9689fad622.jsonl",
+      "messages": 31
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T15-12-31-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7f5-8419-7580-a8e6-584ee5dd8066.jsonl.zst",
+      "source_bytes": 6726208,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-12-31-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7f5-8419-7580-a8e6-584ee5dd8066.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T15-18-13-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7fa-bbad-7fd0-85cc-7e99aec1c049.jsonl.zst",
+      "source_bytes": 7086759,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-18-13-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7fa-bbad-7fd0-85cc-7e99aec1c049.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T15-36-10-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c80b-2b60-7210-8ec9-7abbff2857bc.jsonl.zst",
+      "source_bytes": 6761528,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-36-10-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c80b-2b60-7210-8ec9-7abbff2857bc.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\09\\22\\rollout-2026-09-22T15-52-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c81a-8903-7041-a400-a141374b4ffb.jsonl.zst",
+      "source_bytes": 153539882,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-52-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c81a-8903-7041-a400-a141374b4ffb.jsonl",
+      "messages": 64
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\03\\rollout-2026-10-03T21-17-32-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101e9-a6f7-7ea2-a0d0-192217a70e51.jsonl.zst",
+      "source_bytes": 22603,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-17-32-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101e9-a6f7-7ea2-a0d0-192217a70e51.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\03\\rollout-2026-10-03T21-26-02-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101f1-70e4-76d1-9b4d-42bf8e86119e.jsonl.zst",
+      "source_bytes": 4864520,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-26-02-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101f1-70e4-76d1-9b4d-42bf8e86119e.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\03\\rollout-2026-10-03T21-38-38-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101fc-fa3e-72d3-8da4-d439fa155f1c.jsonl.zst",
+      "source_bytes": 4919856,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-38-38-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101fc-fa3e-72d3-8da4-d439fa155f1c.jsonl",
+      "messages": 3
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\03\\rollout-2026-10-03T21-53-16-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1020a-5de9-7350-96e3-9199e91d9ce5.jsonl.zst",
+      "source_bytes": 9751404,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-53-16-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1020a-5de9-7350-96e3-9199e91d9ce5.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\03\\rollout-2026-10-03T22-02-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a10213-3a9f-7312-8b14-291ee2a471cd.jsonl.zst",
+      "source_bytes": 36303351,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T22-02-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a10213-3a9f-7312-8b14-291ee2a471cd.jsonl",
+      "messages": 8
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\04\\rollout-2026-10-04T01-14-37-01a0c499-eaa8-7192-9b28-d842c62ea137_01a102c2-b51f-7331-a6ab-25e19cacf17a.jsonl.zst",
+      "source_bytes": 148514850,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-04T01-14-37-01a0c499-eaa8-7192-9b28-d842c62ea137_01a102c2-b51f-7331-a6ab-25e19cacf17a.jsonl",
+      "messages": 44
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\06\\rollout-2026-10-06T20-28-23-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1112f-bda8-7a92-bd97-07bab705dc39.jsonl.zst",
+      "source_bytes": 28756635,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-06T20-28-23-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1112f-bda8-7a92-bd97-07bab705dc39.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\06\\rollout-2026-10-06T20-42-00-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1113c-3565-7b52-9629-4e30fe0094fd.jsonl.zst",
+      "source_bytes": 54746656,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-06T20-42-00-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1113c-3565-7b52-9629-4e30fe0094fd.jsonl",
+      "messages": 12
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\07\\rollout-2026-10-07T19-39-33-01a0c499-eaa8-7192-9b28-d842c62ea137_01a11629-64cf-7621-a7da-dbbaad5f9c0c.jsonl.zst",
+      "source_bytes": 614418953,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-07T19-39-33-01a0c499-eaa8-7192-9b28-d842c62ea137_01a11629-64cf-7621-a7da-dbbaad5f9c0c.jsonl",
+      "messages": 97
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\11\\rollout-2026-10-11T09-48-20-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128a5-8d19-7a00-b67d-dd3d9686a404.jsonl.zst",
+      "source_bytes": 2986164,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T09-48-20-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128a5-8d19-7a00-b67d-dd3d9686a404.jsonl",
+      "messages": 2
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\11\\rollout-2026-10-11T09-56-56-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128ad-6b62-7521-bb76-781f25e2245b.jsonl.zst",
+      "source_bytes": 9480071,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T09-56-56-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128ad-6b62-7521-bb76-781f25e2245b.jsonl",
+      "messages": 4
+    },
+    {
+      "thread_id": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "title": "绘图",
+      "source": "C:\\Users\\Administrator\\.codex\\sessions\\2026\\10\\11\\rollout-2026-10-11T10-10-17-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128b9-a63f-7942-9d62-cb171b8ce5fc.jsonl",
+      "source_bytes": 1936881143,
+      "export": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T10-10-17-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128b9-a63f-7942-9d62-cb171b8ce5fc.jsonl",
+      "messages": 207
+    }
+  ],
+  "cloud_exports": [
+    {
+      "thread_id": "6ad07586-9020-83ec-a16c-1fb04b9688d5",
+      "export": "conversations/app-retrieval/6ad07586-9020-83ec-a16c-1fb04b9688d5.json",
+      "page": {
+        "order": "newest_first",
+        "limit": 10,
+        "nextCursor": null,
+        "hasMore": false
+      },
+      "format": "Codex read_thread接口返回，不保证为原始完整对话"
+    }
+  ],
+  "files": [
+    {
+      "path": "conversations/app-retrieval/6ad07586-9020-83ec-a16c-1fb04b9688d5.json",
+      "bytes": 12559,
+      "sha256": "70ca037e7e5929c3ac167a8add41545cf7e3e877a267afdaa010ac1cadadd43f"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-21T23-33-36-01a0c499-eaa8-7192-9b28-d842c62ea137.jsonl",
+      "bytes": 12902,
+      "sha256": "a86689a64e0dc8418c15230d7172e0f769c67ecb6f0b2d23279661971b94fff6"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T00-37-12-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d4-25a0-7f70-82da-cd532426fd01.jsonl",
+      "bytes": 470,
+      "sha256": "e18b3c4769e647566b204a23539047fdf9de7c3a44d89fb042ecf63175d9bc3e"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T00-42-58-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c4d9-6c81-7ac2-8f09-ba9689fad622.jsonl",
+      "bytes": 8921,
+      "sha256": "4fedcb7fa99ca63b9bb34fdec1371b313be5a40fba907908aa780b0281b1483a"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-12-31-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7f5-8419-7580-a8e6-584ee5dd8066.jsonl",
+      "bytes": 1093,
+      "sha256": "a53429b7d6dc56a7eef6b2cad60fd3c9ca23846429d279378f663cc6d3105114"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-18-13-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c7fa-bbad-7fd0-85cc-7e99aec1c049.jsonl",
+      "bytes": 1643,
+      "sha256": "99d9d83292d86147f665ec57d851f3546085f5e098ab507d888939f72b372c26"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-36-10-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c80b-2b60-7210-8ec9-7abbff2857bc.jsonl",
+      "bytes": 1735,
+      "sha256": "e4bb19ef3e47ec0aba8fc7c94065f1eda3d57165131988b22271480f959772ee"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-09-22T15-52-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a0c81a-8903-7041-a400-a141374b4ffb.jsonl",
+      "bytes": 26241,
+      "sha256": "7f96e53dcd6901b9f9f802a29bdd52e0aadfe4dc3cf047a198ce207ffa83c126"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-17-32-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101e9-a6f7-7ea2-a0d0-192217a70e51.jsonl",
+      "bytes": 310,
+      "sha256": "16a425d0c064e9bf6ed31734a990ef485a32297183ba4ed796b89a89f7274b46"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-26-02-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101f1-70e4-76d1-9b4d-42bf8e86119e.jsonl",
+      "bytes": 9765,
+      "sha256": "9a0f789112489efc62ac5b18307159c8ce4a6c25bd9d67d011d50ad84d06a93e"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-38-38-01a0c499-eaa8-7192-9b28-d842c62ea137_01a101fc-fa3e-72d3-8da4-d439fa155f1c.jsonl",
+      "bytes": 9831,
+      "sha256": "e03654139975a265f2573bb4b4c53f9c0318341425a3cb3cd9ce35f573bb1d66"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T21-53-16-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1020a-5de9-7350-96e3-9199e91d9ce5.jsonl",
+      "bytes": 9652,
+      "sha256": "9950d47d0f9a007572f9316efa175e06e5030f232788f755ab63ea01d82454b2"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-03T22-02-57-01a0c499-eaa8-7192-9b28-d842c62ea137_01a10213-3a9f-7312-8b14-291ee2a471cd.jsonl",
+      "bytes": 12616,
+      "sha256": "e91de471c8a42f43976239d51c6a78f6ca26d34432d41a644d940086acf26c40"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-04T01-14-37-01a0c499-eaa8-7192-9b28-d842c62ea137_01a102c2-b51f-7331-a6ab-25e19cacf17a.jsonl",
+      "bytes": 55293,
+      "sha256": "95874ebf89dfd029aeb1c8ab890bc89549ef650f96e8a86a588558de154ee13f"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-06T20-28-23-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1112f-bda8-7a92-bd97-07bab705dc39.jsonl",
+      "bytes": 11124,
+      "sha256": "d8fad10e72bbf725ec09a1332f14310e3aa92ab8dee1337d46fc529664497716"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-06T20-42-00-01a0c499-eaa8-7192-9b28-d842c62ea137_01a1113c-3565-7b52-9629-4e30fe0094fd.jsonl",
+      "bytes": 9112,
+      "sha256": "749b23e6212bd677b99ffec784e96d8d0f7486794909a8c71ba63d6a9f0b045b"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-07T19-39-33-01a0c499-eaa8-7192-9b28-d842c62ea137_01a11629-64cf-7621-a7da-dbbaad5f9c0c.jsonl",
+      "bytes": 45982,
+      "sha256": "12a624d023b84649ba54507f75042fade351815100a1c6718a518035c412f0ad"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T09-48-20-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128a5-8d19-7a00-b67d-dd3d9686a404.jsonl",
+      "bytes": 1108,
+      "sha256": "ded45e42bbb6180eb7c59b1dc1e44a0d7aea93941a2d87e67dc45ee54c25b52f"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T09-56-56-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128ad-6b62-7521-bb76-781f25e2245b.jsonl",
+      "bytes": 1599,
+      "sha256": "31bace5a8914d324f679bab4d977b7f9d3630c991f0df15b41643836be11c7f3"
+    },
+    {
+      "path": "conversations/local/01a0c499-eaa8-7192-9b28-d842c62ea137/rollout-2026-10-11T10-10-17-01a0c499-eaa8-7192-9b28-d842c62ea137_01a128b9-a63f-7942-9d62-cb171b8ce5fc.jsonl",
+      "bytes": 72811,
+      "sha256": "f159b8adfc9e595894f97906fa3be87711c73af78840e2dbab9283b305351d5e"
+    },
+    {
+      "path": "conversations/local/01a0fb60-23b6-7f73-96ab-c4959089734c/rollout-2026-10-02T14-49-36-01a0fb60-23b6-7f73-96ab-c4959089734c.jsonl",
+      "bytes": 5901,
+      "sha256": "ea7e766892dcc53aac1eab7cde88bc360ab4dc0a1959a3795faaa9eeb9b81b47"
+    },
+    {
+      "path": "conversations/local/01a0fb60-23b6-7f73-96ab-c4959089734c/rollout-2026-10-07T17-50-19-01a0fb60-23b6-7f73-96ab-c4959089734c_01a115c5-62c0-7221-93db-e561780a6af7.jsonl",
+      "bytes": 3290,
+      "sha256": "0386c2d927918ffe70a876fe4a0cd5dbb809fad26bd7ee85fbb1ad525b484f73"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-28-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3.jsonl",
+      "bytes": 2279,
+      "sha256": "577e851e6cb39d6bf587d166fd9f34af924d772e80b1b0045332dd0ea9b61470"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-31-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13018-d62e-7ec0-a69d-a66f3d508368.jsonl",
+      "bytes": 2444,
+      "sha256": "79276e06b339ef0ac46784ff82f46e35672ebb2cb9d93e0e91d577926fe2d52f"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-34-24-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301b-6483-72a2-bed5-0f0465f4de4c.jsonl",
+      "bytes": 3203,
+      "sha256": "63c00bd1790f397572b17db49bac0484129c5bc63df0ea0cee3ed7e6ce6a4b38"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-38-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1301f-6fdf-7161-b0a1-8a1c66f26a32.jsonl",
+      "bytes": 2856,
+      "sha256": "0b571757a1dbc7756851cc765355cc8151f90f5a5cd03c0713fa6478f9f69b17"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-42-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13022-f039-73a2-83ef-2d261f872d15.jsonl",
+      "bytes": 4561,
+      "sha256": "1d7c834d3d21b76175fd9e841f0fa86013af7b721c799a4de689896dcf96f013"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-50-18-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13029-f3b1-7051-a625-1e8a5eeb3141.jsonl",
+      "bytes": 902,
+      "sha256": "c0cdae93ea70eb1a40b7f5a5a6006cf65901158e86946aa93061166cce790a50"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T20-59-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13032-08b1-7501-92bc-64738504041d.jsonl",
+      "bytes": 7909,
+      "sha256": "1f5b5d3707059377df199dc0f55b4fe8baf12ebb0cfa3197b2a09bfc70f5b0be"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-07-52-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1303a-09cd-7b51-baef-74f6876ac238.jsonl",
+      "bytes": 5626,
+      "sha256": "05676f84e1beaddd0a143b86c67093ee0b19d35241feb2727f02e6d230aa8258"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-15-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13041-08be-7b03-8466-d46998a1bcd6.jsonl",
+      "bytes": 2093,
+      "sha256": "010b9f4eeb0557bc19ab83e68c3566e611698a650ee58623f0d508fe4a6969de"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-18-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13044-25e7-7d12-ad91-a4f9cd3abd85.jsonl",
+      "bytes": 14409,
+      "sha256": "a388b6be4dc77960a8d720a2fc315dc8a94586e89cea8ae68ca53c2ad3e0fd3e"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T21-59-23-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13069-335f-72a1-9053-7304f18769ee.jsonl",
+      "bytes": 1190,
+      "sha256": "ce7463b549cdfa48e5ddbf97fd5c57423190b614d9813b5d6fdfa64f7bee19d2"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-13-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13076-8d39-7091-853e-a47a959621e9.jsonl",
+      "bytes": 1180,
+      "sha256": "593c43472c069d77f69d75bbc68bcbf92d1d550dfdef2477072c4ed1d96734d1"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-22-30-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1307e-5e24-72c3-97a2-8bdb12a11c2d.jsonl",
+      "bytes": 83,
+      "sha256": "739ba281d9ecec28563effaf5d3fdd6370e1bf9a5a437759bdd69fa801ff0c0c"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-12T22-30-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13085-d1ee-79b3-97ef-b54e1b024d1d.jsonl",
+      "bytes": 51009,
+      "sha256": "6fce10b64e44bb1d383f68e59b2c7d964ef39c9e2052caf84c42a7778b67b11e"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-13T14-01-47-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133da-506a-7602-ac44-eeab45700aed.jsonl",
+      "bytes": 112,
+      "sha256": "4ef774868e3ecb2c6ac6705d835915e886daba5b1694498d8efc4d9053dc10e9"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-13T14-04-33-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a133dc-d6bc-70a1-9bf4-1de133d64019.jsonl",
+      "bytes": 62260,
+      "sha256": "0b354117fcb7759ed47ee4bd25a2263e2d1e9f913715d6ff27e3f0538aeb4ace"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-03-38-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1385d-8f61-7411-bdb0-9b116effd58a.jsonl",
+      "bytes": 4294,
+      "sha256": "104e17d081f64248cc44b3ede193ec917c6678e1fb896125b41f0403c5c11299"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-14-49-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13867-cdda-7dd0-9c4a-7edfeeb92a59.jsonl",
+      "bytes": 3752,
+      "sha256": "6fe680315d7b646b0b1582d0d659c9f6727ca44326f730c8e73c957f4db9672d"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-22-21-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1386e-b35a-77b2-9d9c-bb69f979c11b.jsonl",
+      "bytes": 831,
+      "sha256": "bfe401caee24a2ee81192ec857b646395a286482d75a70755abe1557db9177b9"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-26-09-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13872-2f64-7512-943a-ee342272616b.jsonl",
+      "bytes": 10711,
+      "sha256": "efc4f175ea71e157ad8a78332001f0124b2ddd5f3659411e72329ee957cdf41e"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-33-53-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13879-44c5-70a0-b279-9f500369e705.jsonl",
+      "bytes": 5425,
+      "sha256": "7660c8eac363e24c71b23bda42cbae45459ab7754f156008c7ebcf87bbb2dd12"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T11-48-58-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13887-1386-7370-858a-bb65deac2652.jsonl",
+      "bytes": 72826,
+      "sha256": "598d236c80a1f22dbb9d447807c7b3bddbc7d111e3c755dd6c23742da16ef4b8"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T16-34-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1398c-06cb-78b1-abeb-f0027c8df54d.jsonl",
+      "bytes": 41482,
+      "sha256": "28799451e5ac308b4258c452c98431f52c3a7e4d12aeed4f378cebf54a540642"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-14T22-38-26-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a13ad9-acc2-7f20-8f3d-d420b8ef0bf9.jsonl",
+      "bytes": 160859,
+      "sha256": "371f764272ff1e398677ebcf63c6cbafc451079027b9b1efbea695653c0fd487"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-19T16-58-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15362-09bd-77a2-a81a-e82308ae8522.jsonl",
+      "bytes": 54527,
+      "sha256": "951ed1b8884e21e79d0643f4afdda5836390a563f060437adca51cbda3c10486"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-13-54-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-1d6f-7d71-a3d5-7b8dcd758d6e.jsonl",
+      "bytes": 207,
+      "sha256": "d0af470067ddfc7fea6cf24e9b93ca9fccbec7e569bd76e34f1b1f8eac8e1112"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-14-35-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1574d-bdc3-7dc2-9f87-69351300cb5c.jsonl",
+      "bytes": 16693,
+      "sha256": "828d7bea20d8404f05d9fd604ccd0a5de838e79d4726252b35ed4fdca23f2645"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T11-48-37-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1576c-e89e-7703-8f98-ba0146d77c7e.jsonl",
+      "bytes": 26460,
+      "sha256": "82fdfe587d8043504e89839607b59ae7b71059db6ebbd61488256488ea27e6b9"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-33-34-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157cc-fec3-7d51-94d6-52e2758a623f.jsonl",
+      "bytes": 108,
+      "sha256": "0880ffd523e6aa39c867d48b7c283458d673bf9210c489eb028faab408a25e81"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-37-07-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d0-3e85-7663-bc1a-8e04c16466a0.jsonl",
+      "bytes": 194,
+      "sha256": "1dab57721db2341917ef4ab459d2db197a9ec6a8c75c17d965cb0108a9560b35"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-20T13-38-22-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a157d1-6313-7bc2-a6bd-ba6af6b968aa.jsonl",
+      "bytes": 66028,
+      "sha256": "c5f4e2e3dce3ddb9a194f17178095cef4f9470d2809a7ac9bcc384e4a8fb6b86"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-21T23-42-44-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a15f21-0d47-7e30-92a3-116dde19613c.jsonl",
+      "bytes": 77401,
+      "sha256": "1dde62c37f200edc9c842314243497007791d98bd0b4d0ebbcea5df3fc1abf92"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-22T13-06-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16201-058d-76e1-b95a-b52525783021.jsonl",
+      "bytes": 15357,
+      "sha256": "0b1ee7379f945d1da262ea109744865f60801c6db4ef10ac700ff7039bc74380"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-22T14-52-20-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16261-d1c3-7841-ad6a-d1a3e7aa2682.jsonl",
+      "bytes": 18221,
+      "sha256": "3f0ab7515edaf5f89e90c7fd63369fbea6356445d5087285ac3f92f85797d3d9"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T11-35-16-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a166d3-c25a-76e1-b9cc-83ba530f7904.jsonl",
+      "bytes": 51506,
+      "sha256": "ac4eeb400a4b22e9e94aecc8f0d76137cea995cefe9a5a7a6cdd0f544a99b53d"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T14-23-57-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1676e-3275-71a1-b42f-fc6432cf9324.jsonl",
+      "bytes": 52982,
+      "sha256": "4618ec93b049854cad64a4c6612c428899f07ce25fe6720d6a2b0afa3e4c3226"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T21-21-08-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ec-2249-73d1-8dc5-ae5dd88d13da.jsonl",
+      "bytes": 2611,
+      "sha256": "c7bb131c894a9353eef41e0bcb1f98350336f7cb17bdce8329ddbdc40de9bf99"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T21-22-50-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a168ed-b279-7e92-a983-8decf8de0510.jsonl",
+      "bytes": 37508,
+      "sha256": "b5358bb7c8835f2db69a84a0203dbfd5fdef24735e86d5fa14356ca3f3808d04"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T22-46-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693a-21aa-71d0-9a9f-256e108f8546.jsonl",
+      "bytes": 422,
+      "sha256": "5f7b47128f5bf8eb9d6da8832e5e9c20d651ce195ccd94e919f6b5ee5f585647"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-23T22-49-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1693c-feda-7303-ba63-7d47c159c654.jsonl",
+      "bytes": 43246,
+      "sha256": "b6e70aa9d5107f5da0128f03f5e0ec614b5b03885ec9583504d41b6ad7ee26c5"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T13-16-40-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c56-f3bd-7a12-9241-94be72670136.jsonl",
+      "bytes": 28690,
+      "sha256": "cd4f472b49266a4e980f31a3a7cdb5623f673c155344e97d8ce9d2dcfe410c9f"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T14-16-36-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16c8d-d48c-76c1-9055-8c6fc7a501ed.jsonl",
+      "bytes": 14607,
+      "sha256": "34b008b0fcaa49927678b837fdf92acfabeace09bfd0c0cb4a5f79989551bcee"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T14-53-00-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16caf-26b3-7d12-9de6-72b9c9886643.jsonl",
+      "bytes": 22188,
+      "sha256": "770270be71cad22ab6ac5970999414ad0a9e0b84311d599ee9fac3cc9c43b60f"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-24T21-29-03-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a16e19-c03c-7a73-a99a-f31e6e041dba.jsonl",
+      "bytes": 129379,
+      "sha256": "08eed6688b20872f01c83b3a8c607f6db2aa0355f2a718a6c09015af71dc9fd8"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-25T18-05-27-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a17285-b5b5-7960-a943-8d3b27a13b45.jsonl",
+      "bytes": 62789,
+      "sha256": "bf2f2388479a4944f91ea9b9f2da230881f655ae0321b03bb19fbc1af5103b9f"
+    },
+    {
+      "path": "conversations/local/01a13016-1c34-7b41-a2ba-3d3e66e7c1b3/rollout-2026-10-26T01-45-19-01a13016-1c34-7b41-a2ba-3d3e66e7c1b3_01a1742a-b926-75a1-8b3b-8f68f5d3f446.jsonl",
+      "bytes": 1225,
+      "sha256": "038b221956f61a60a562805cf0dbbbfd2f3a3f84f889a6178da84b0497b51cbc"
+    },
+    {
+      "path": "conversations/local/01a16bfe-44d0-7451-8bf7-99479377ec53/rollout-2026-10-24T11-39-48-01a16bfe-44d0-7451-8bf7-99479377ec53.jsonl",
+      "bytes": 3549,
+      "sha256": "aa6943ae3e37433ba19c3f9cf88aeab48b5b50d8b4929c3773e1fc23e23c5563"
+    },
+    {
+      "path": "CURRENT_HANDOFF.md",
+      "bytes": 1152,
+      "sha256": "8953165881f5ad129f8b58b16328d0a080bb7e29b2b48f34ced7a2fa1ea550fe"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/00_当前制作状态.md",
+      "bytes": 722,
+      "sha256": "b425f47c403aff460d2bb872a62f94f466ef0a1eef52ca86bd9f0f8e8bae0136"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/10_第一段30秒_三太子版完整提示词_v02.md",
+      "bytes": 9558,
+      "sha256": "a08235e32b5cadbe8b7f3b9f2c8e3c91a79eaf853dddbad2ba2dae3864a0dd3c"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/10_第一段30秒_完整提示词与固定音色_v01.md",
+      "bytes": 9513,
+      "sha256": "e84ddc13480aa0189eacf0ea4a22c92f784e2c0e1d591cfb554f2ba84cfbb374"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/13_第一段30秒_先声远空与原音色_完整提示词_v03.md",
+      "bytes": 8946,
+      "sha256": "46ffacfe8c5a1a3b461d60986dca1c27e19c6ae90fc7d0a6adf98fec8952075f"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/14_重制审稿与用图状态_v03.md",
+      "bytes": 818,
+      "sha256": "4c2bc5dd3eda551408fb3c212bc43864a5c779c6d36f7fc8f4bb528f104a71d2"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/17_第一段30秒_落草因果与嘴硬表演_完整提示词_v04.md",
+      "bytes": 10124,
+      "sha256": "e99d4d4f20582361321e2c863bc76593dfdf577c4da0ceb87f86f5a46626f266"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/21_第二段30秒_追咬误会与莲池接点_完整提示词_v01.md",
+      "bytes": 10945,
+      "sha256": "5e415425527b8d5bb13015d786069d06a85fbc07abe016e64cd30e454d78bbce"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/22_第二段30秒_画外拉扯与莲池接点_完整提示词_v02.md",
+      "bytes": 10384,
+      "sha256": "aa0f64bd98dfa1a440ec9dfddf9a59da46b7caea5a366788d90621dbe7cc5ca8"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/23_第二段制作与工具拒绝记录.md",
+      "bytes": 1141,
+      "sha256": "8ccba73e6b363be6e878ce84abb61dc73aa6addaf9bc968dca96bcc13e79c222"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/24_第一段27秒_神威落地与幼鸟认妈_完整提示词_v01_导演执行版.md",
+      "bytes": 14034,
+      "sha256": "9c08662398cd09bdfa958bbaddde0be240bb5e36416044b1d97b1d293c1e429f"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/26_成片画面复盘与新格式承接_20261024.md",
+      "bytes": 1329,
+      "sha256": "6d84081c27aa87fd7f390e8aebe16fa91e2155826192566656686d09fb4db5bc"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/26_第二段30秒_展示啃咬与连续受力_完整提示词_v03.md",
+      "bytes": 11847,
+      "sha256": "78f54070805203f74084660eb2b2f7f8e569a91ddfa0e78ad58a883b8f2cd702"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/28_第二段27秒_露脸怨念与分镜执行_完整提示词_v03.md",
+      "bytes": 12745,
+      "sha256": "9cd09f02a9d3866dba46e316b2d119db8fb6909f8b3031eb89c0785f653ebb4b"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/28_第二段30秒_逐镜导演执行与实际咬靴_完整提示词_v03.md",
+      "bytes": 13310,
+      "sha256": "47933a031954ca08cdda91f555a22f7f48385bc066c2149ed473e565ddd27b67"
+    },
+    {
+      "path": "deliverables/两百年了还没消气/29_固定音色_仅后期配音使用_v01.md",
+      "bytes": 1408,
+      "sha256": "26e5ad3116758cc32814f89c5e4446042e972dc38f43569e40712374f699d28f"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/09_第一段24秒_固定座位与动态花谷_完整提示词_v03.md",
+      "bytes": 8744,
+      "sha256": "e2bc95ce2b9a79c75831dd576ed8e78714cc12d7b90b1dd17b6a147590ce9f86"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/当前制作版本.md",
+      "bytes": 1219,
+      "sha256": "9cbfa777f4eec7e0c1227b70199555d7d3a95e764611c7183cc61e0025c22d20"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/00_失败复盘与制作规则.md",
+      "bytes": 2602,
+      "sha256": "228b76065dd28aee638f478eb4b64af5b628ed405d04f3b50ae322707137c6e0"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/08_导演执行稿_45秒三段_v05.md",
+      "bytes": 3179,
+      "sha256": "666ed7bc42b2cc99c6d06213765a1e711aa5c7a749ce4e6a2855d5e7a4025491"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/09_第一段15秒_完整提示词_v05_待故事板验收.md",
+      "bytes": 4587,
+      "sha256": "87a38283cbdccb8014692388bb0a473d0e4b47e4bad381faa7cc3b9980574015"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/10_验收状态.md",
+      "bytes": 537,
+      "sha256": "f220a69924681b2584977cd9bb7a6530a0a016213edca2ca09a62b6f15913477"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/11_旅行行李与开场规则补充.md",
+      "bytes": 1517,
+      "sha256": "e0c6c371754d0faf10970408a371c4ba776e6d2c6a6eef4a0d2cc7945fb2ec6b"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/14_第一段15秒_行李开场与出发_完整提示词_v06.md",
+      "bytes": 4959,
+      "sha256": "af6ce8d6b68a2bc21e762a11c59168811fe8f15d9d97b0280e202b441e1c53ae"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v07.md",
+      "bytes": 6996,
+      "sha256": "d57f69e854e9742b1f0d2cb3a3fc3432c102957b69a73b177a8d92c07fcf8311"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v08.md",
+      "bytes": 7303,
+      "sha256": "a4d1938e12b06728f1b66c013837aab03bc36697cbc192c9f3d7aa75a290cd0b"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/16_第一段30秒_完整提示词_v09_导演执行版.md",
+      "bytes": 16655,
+      "sha256": "c3c5d51847499541cb7b0b1531eafdd799afdb60d1812219080b04642b732bae"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/19_全片80秒与第二段承接.md",
+      "bytes": 587,
+      "sha256": "b962fdbbcb40f2af899b98a242fe68439154a001648d403dd002070180fac05f"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/21_第二段30秒_完整提示词_v01.md",
+      "bytes": 6396,
+      "sha256": "892c84ac13fc0653b4d407d24e20668d3874e3576578c789ce209812879a7afd"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/21_第二段30秒_完整提示词_v02.md",
+      "bytes": 6675,
+      "sha256": "e650f62d3fb549b707c1155dc08c3985493e9c52d17f98b4aa79eb6a9fc6d41a"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/24_第三段20秒_夜景收尾_完整提示词_v01.md",
+      "bytes": 5995,
+      "sha256": "7d9246615378da4a949a7c58aebcdb9b10feb4d20cb2d4875f26154f0b161ad6"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/25_夜景收尾制作状态.md",
+      "bytes": 473,
+      "sha256": "8f480a49bee9d74fdf027c414c5da5d206a77e807db4f536ece2e35d46cdfd2e"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/28_第三段20秒_时空夜境收尾_完整提示词_v02.md",
+      "bytes": 6292,
+      "sha256": "66edde74fa1b4d67f6d2594d4bccf23580c9f597ed2e06620611ce5dd8f4cf26"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/重制_v05/当前制作版本.md",
+      "bytes": 917,
+      "sha256": "8af6e2c82d2a36eab412552c66a55663d5516bba833a79ee47713e0d66222371"
+    },
+    {
+      "path": "deliverables/今天开到风停的地方/预览状态.md",
+      "bytes": 964,
+      "sha256": "49145bfc7d6f91d346c32a81e7fc636e24f8471dc2b945905bd4ea3113e3676d"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/00_团团车_造型锁定_v01.md",
+      "bytes": 2966,
+      "sha256": "680544ab6cc34501aeca3f6fbb9b478bdf3df115449101488f912d0081e76eab"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/01_出游篇_三段各十五秒_分镜与完整提示词_v01.md",
+      "bytes": 7832,
+      "sha256": "9a31eebc89d6ae309f595591d0be3b5c3c5e75a199aad4123b75fad966ddee07"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/01_出游篇_三段各十五秒_分镜与完整提示词_v02.md",
+      "bytes": 7615,
+      "sha256": "a730b4f25f5828a9fdf5603bc2ca943d8ca274d5e03ef223e1e01d344a3d4871"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/02_BGM与节奏对照_风的形状_v01.md",
+      "bytes": 3219,
+      "sha256": "719dee98cd7c3383c3bf4f55bec89a926f9e78b769b9f33bba5fdef816efab7c"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/03_参考片逐帧分析_13437142170623409.md",
+      "bytes": 4097,
+      "sha256": "cd934da686a18a928d74a02ce48cba6a83ca09c12ad8f301cd66c26aa2ccc432"
+    },
+    {
+      "path": "deliverables/今天，开到风停的地方/03_导演方案_v02_重做.md",
+      "bytes": 9692,
+      "sha256": "0c91b5e208388612252b6421811d39ad50a0a6ec066650da3272757335222e99"
+    },
+    {
+      "path": "deliverables/墨与光_团团骑士小猫双人PV/06_墨与光_30秒完整提示词_v01.md",
+      "bytes": 8818,
+      "sha256": "e915f8212e1d3c59dac51d40820a3f501bf60168b63bf7cc06c92cbe6eac01ee"
+    },
+    {
+      "path": "deliverables/墨与光_团团骑士小猫双人PV/07_画质参考_专业筛选与试用规范.md",
+      "bytes": 1832,
+      "sha256": "a1ddfdb9ce210cf24c478c6b5b93ccea6c7aa5492fd8bf5ef7683cf1b0486d58"
+    },
+    {
+      "path": "deliverables/墨与光_团团骑士小猫双人PV/21_可爱时尚酷_30秒完整提示词_v03.md",
+      "bytes": 9451,
+      "sha256": "a2aa3a6efe8bf3c80aee28e92a80e522470fe519426f4d59383cfc93810c56fe"
+    },
+    {
+      "path": "deliverables/墨团团_枪火时尚PV/11_枪火PV_30秒_完整提示词_v03.md",
+      "bytes": 7907,
+      "sha256": "cc4b55494d6cb0d3446ff7229e806b5f133f68b099471602b9ea36605b17f538"
+    },
+    {
+      "path": "deliverables/墨团团_枪火时尚PV/美术方案_v01.md",
+      "bytes": 1989,
+      "sha256": "43716823fbbd8855a292c9017bebd67756b06a7398ccc4150dec974f4ac1b755"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/02_末班车_50秒完整审稿脚本_v01.md",
+      "bytes": 6097,
+      "sha256": "4e57375d89ab8a94c32285ddff355c58a109e0d3f12016a81979a8f336c330e9"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/06_第一段_机位与氛围修订说明_v02.md",
+      "bytes": 2312,
+      "sha256": "90979834c957e2ad9328101bc8f3c6afe5db5f6aedb1fd5c5c381df32773542e"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/08_第一段30秒_末班车开场与异常确认_完整提示词_v04.md",
+      "bytes": 9488,
+      "sha256": "d0400443098b24b3208b970db66565b8c2912ee9bb89291f241c08d98d76f5a3"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/09_末班巴士实际成片复盘与日语修正_20261025.md",
+      "bytes": 2113,
+      "sha256": "a9907e2f085874d47b3a793901f9d30b3a1bc1e8c0de3eb4f64375b9a7b2ba55"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/12_第一场30秒_21比9_完整提示词_v06.md",
+      "bytes": 9040,
+      "sha256": "42f960e423836a3b48c0ff4f0f4fb32167e75766890b4214b9d31511e5cdd172"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/13_导演参考学习与节奏修正_20261025.md",
+      "bytes": 2507,
+      "sha256": "874808afd3c0ce856a9a7abbb151656ccd3a77b69b6402648ef6856eb5fff5c6"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/15_第一场30秒_21比9_空过道脚步_完整提示词_v07.md",
+      "bytes": 9163,
+      "sha256": "91ec32de55c2a5288df8bddabb000a39443bc37fdacc8ba87d633dac56ff1078"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/16_两SKILL落实与三镜预审记录_v07.md",
+      "bytes": 4622,
+      "sha256": "0d01cc45caba39bc30dc15536ae1b0eee1abff10388fff3a9b615ff9112b56df"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/18_第一场30秒_21比9_完整提示词_中性命名_v08.md",
+      "bytes": 9206,
+      "sha256": "936b0e58b95f6fe1388c712587ff898cda32e56331d90c97ba1d3808acee7ff4"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/21_第一场30秒_参考图分工明确_完整提示词_v09.md",
+      "bytes": 10406,
+      "sha256": "7f5ec6e6e57d894e450e3f626094280b02af4f6e4154252971b6eeabd3d0ec23"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/26_第一场30秒_空座翻下_完整提示词_v10.md",
+      "bytes": 7722,
+      "sha256": "96e86dd473a13c20fb381079f9d6ae8c422d89d96f0295d600111cc4ddbcdc7b"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/28_实际审片与重建决策_v10.md",
+      "bytes": 1799,
+      "sha256": "c5b3ad7f045b3c2aed7f108c1468931fd936c5875cb8686641b675ce023fdf68"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/29_按用户大纲_这里可以坐吗_90秒演出稿_v11.md",
+      "bytes": 9483,
+      "sha256": "6d67714f5eb345c101157ea04fe52075f7aecd9157fdb8066bdd49cc7b68394f"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/31_分段彩铅预览_审稿状态_v12.md",
+      "bytes": 1052,
+      "sha256": "a24063dc587ae6b81182c8f145fd5b0c3ee2ed8981bc4dc1e18bc94b036ad0b7"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/33_第一段30秒_五图分工完整提示词_v13.md",
+      "bytes": 8829,
+      "sha256": "4bdb5f68b066d52b5dda2f4104cf025326619cd05d5c1021e9772e83e08bf04a"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/36_第一段30秒_原演出保留_简笔故事板版_完整提示词_v14.md",
+      "bytes": 9161,
+      "sha256": "8734ca7bb989b436597bb19d1b992ef5c8080ee278c643c413dfe6b44afbc4c1"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/39_第二段30秒_窃语闪影与警告_完整提示词_v15.md",
+      "bytes": 9454,
+      "sha256": "6d178a0c7b4bb35b977d982c09c127e604feeacee9f41a199373e049d1d325e8"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/42_第三段30秒_空门脚步与贴耳问话_完整提示词_v16.md",
+      "bytes": 8640,
+      "sha256": "2267df6011086cf592b7b5f6b17f1c5c666f50d60af9564429271d0cef9bc851"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/45_第三段30秒_九镜非匀速重编_完整提示词_v17.md",
+      "bytes": 10343,
+      "sha256": "99712abca63e6e046ac5a9ab348dd43708ed202a78d19275549883d7b6223ab0"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/47_第三段_节奏核算与技能落实_v17.md",
+      "bytes": 1082,
+      "sha256": "f23dd03fd05bc0fbd50bc3c2a162428efecf6a58138863440abdc4912c219617"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/48_双重女子与假醒_完整导演演出稿_90秒续篇_v18.md",
+      "bytes": 14670,
+      "sha256": "bfa842f128930fa77c543aa7186d00ec35e0e2c70f777eb5f35fb051586ef8ec"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/52_续篇首段30秒_同貌挥手与叫不醒_完整提示词_v18.md",
+      "bytes": 10084,
+      "sha256": "5bfe1d7925d03f066761788693cd56517a7a4b3da85e8ef93ddf446d56a1e64d"
+    },
+    {
+      "path": "deliverables/富江_恐怖篇/56_续篇首段30秒_最前门空间修正_完整提示词_v19.md",
+      "bytes": 10713,
+      "sha256": "3fa7dcc9d79b70319c24ac62066379c182db732fd82eb6052e0bd61bc8673bc9"
+    },
+    {
+      "path": "deliverables/我说的是不上班/第四段_排队与诉求_30秒_完整提示词_v02.md",
+      "bytes": 6479,
+      "sha256": "45bf7502fc06cad981383d8e5b41cc49a1bea4ecf1663eb05c17d34bf14e50f8"
+    },
+    {
+      "path": "deliverables/房子不大_公摊整个宇宙/07_第一段_30秒完整提示词_v01.md",
+      "bytes": 8982,
+      "sha256": "be3afd81d83bfdf31bfb9c9858bf0de19ae83d05bc41e310724f10ec8ffc0d11"
+    },
+    {
+      "path": "deliverables/房子不大_公摊整个宇宙/07_第一段_30秒完整提示词_v02_16比9.md",
+      "bytes": 9476,
+      "sha256": "d62cc89775ca82803a62dbac4cec2c6329b6c2b93cc56f001cae789728b1efb4"
+    },
+    {
+      "path": "deliverables/房子不大_公摊整个宇宙/第二段_原来是猫窝_18秒完整提示词_v01.md",
+      "bytes": 6018,
+      "sha256": "a8f819a2c44549517ba9f36236a85806567d763cb4f08cb4c295c682f294761e"
+    },
+    {
+      "path": "deliverables/救世界小声一点/制作确认.md",
+      "bytes": 2485,
+      "sha256": "83565c54fc2607ca307ab8f601a14796a681a5eb539bd00f43a50726fea9d785"
+    },
+    {
+      "path": "deliverables/救世界小声一点/空间与演出修订_v02.md",
+      "bytes": 1514,
+      "sha256": "02b25cbd31561145bcd1911e6f86941523cdb2430880e18abebb3dfd14689c26"
+    },
+    {
+      "path": "deliverables/救世界小声一点/第二段20秒_资产与分镜_v01.md",
+      "bytes": 1121,
+      "sha256": "29aa8dd82648710474b1fc152f34f4d8f9dd7178f2f7b3a9c579dead92184210"
+    },
+    {
+      "path": "deliverables/救世界小声一点/龙焰与视线修订_v04.md",
+      "bytes": 1185,
+      "sha256": "347af552d3b31f8e2edf58447bc0f35e97c984bb0905beca0ce3fc28d293820b"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/24_决战终结_30秒完整提示词_v01.md",
+      "bytes": 8958,
+      "sha256": "ab9162fce4afb28476102eb7c7691377b4e5c2e7c7693d01f810fdba4749d0fe"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/24_决战终结_30秒完整提示词_v02.md",
+      "bytes": 9510,
+      "sha256": "3dab286b73b5b554ffd40971d61e7bb10941ec69632e54606a608fefa84b61ae"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/决战成片与参考视频_复盘_20261015.md",
+      "bytes": 3556,
+      "sha256": "77555403367b7d033c97b4d2458e46eadef692c8547b540954e87c64874ffd40"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/决战重编_v02_贴身搏杀与破甲断炉.md",
+      "bytes": 3922,
+      "sha256": "137263d2aae33471194fc191f1fabc628ef6a85d3cb7638ab1e9fd8d8e2be521"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/战斗纵深与威胁演绎_项目补充.md",
+      "bytes": 4474,
+      "sha256": "dcc3fe39fa96b54f308045f7b653f85e92a8f3cfaaf3eddf838c93ffcda128a4"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/新参考逐帧分析与决战重编_20261015.md",
+      "bytes": 5701,
+      "sha256": "40aa7b2bd2a8dceead5885280ee7b1aeb8a9a7b93e0b0000b3750b16d58afac0"
+    },
+    {
+      "path": "deliverables/终焉龙前，最后一只小猫/第三段_决战蓄能与机械展刃_30秒_完整提示词_v01.md",
+      "bytes": 7556,
+      "sha256": "f75975d670656198494d3ec2490115d16f0a431b41e4c0fc29c65893ee6db61d"
+    },
+    {
+      "path": "deliverables/阿派与阿满_角色风格测试/00_人物与声音设定_待确认_v01.md",
+      "bytes": 4130,
+      "sha256": "d01730555c666f3c357701d93e6d042d984ccec84d99eb91ec209abc48010a73"
+    },
+    {
+      "path": "media-index.json",
+      "bytes": 65776,
+      "sha256": "2689b212c7b3f341843b6e22d86366a86e671a12fb9beab8b007b9458d4c4fae"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1281,
+      "sha256": "eb1b44399a353c2c62b960bf98314a655a82e006f2bc6f72d8a09f00ef560d51"
+    },
+    {
+      "path": "rules/AGENTS.md",
+      "bytes": 84231,
+      "sha256": "75ce3aa503ea94a056b02f10eb5557fdcd418396edc24d5721625460c931b787"
+    },
+    {
+      "path": "rules/协作/current.md",
+      "bytes": 12245,
+      "sha256": "b04c48bd48671facf2c2a7fd14a7ce28af7e0176f62cb6d6ab1bf1c83f95fba8"
+    },
+    {
+      "path": "rules/协作/deliveries.jsonl",
+      "bytes": 1345,
+      "sha256": "059b3ee51cf906377014cf0e947df4272d528682270a9e5b8147b61bcba7f5ef"
+    },
+    {
+      "path": "rules/协作/routes.json",
+      "bytes": 826,
+      "sha256": "b5e47a32b81cfb1e09d55d79c5c23660446db84f929af4c9a6f2811394dd39a2"
+    },
+    {
+      "path": "rules/协作/导演与美术执行清单.md",
+      "bytes": 31220,
+      "sha256": "970f87e3d1bb7e7962ccf61b264d895244575a1d913a34c1bf219c82d687ba3c"
+    },
+    {
+      "path": "rules/协作/演出设计与验收.md",
+      "bytes": 11113,
+      "sha256": "8c7d0c1a7fd2426966fec43abafa7332a600a22847b078654b31ac3f4fad6801"
+    },
+    {
+      "path": "rules/旧工作区_AGENTS.md",
+      "bytes": 54676,
+      "sha256": "f29b7a946219ac21baf2290c6e9fc01e32fdf6982dee1992a9adfe2b11176a4c"
+    },
+    {
+      "path": "skills/ai-director-video-review/agents/openai.yaml",
+      "bytes": 425,
+      "sha256": "b411a94b64cf004563a526e89be5a665d970ac12c4dbb163017ff41b11e5444a"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/batch-review.md",
+      "bytes": 3052,
+      "sha256": "93b7f5f4a9fafe7b2568cd7fe0e33377381a71fe3fb1f516ed8bd8c5ab7ffe21"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/creator-publishing.md",
+      "bytes": 1525,
+      "sha256": "2a55da49a84d7d94ba2904550bddd971341423da87875c88872e533f26be5b81"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/extension-architecture.md",
+      "bytes": 1418,
+      "sha256": "2fccf502d2bb01a04818d221c62c3100d8fc7f0f5a439dd1d324394ee0a9e72a"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/io-contract.md",
+      "bytes": 4206,
+      "sha256": "1d8dd4ed95b6e77633422bb3fd1ae852c2a4ac217c00cb533064f554b7f4b8f6"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/mode-routing.md",
+      "bytes": 1883,
+      "sha256": "b9be722c84e6557cd31d44a0e16879f7972f6570776793bf472fa2575cbb14ac"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/mvp-workflow.md",
+      "bytes": 1839,
+      "sha256": "075ec8c94959fb5096a35b4ad30d8ca427aefabe2a773c23be0f2360542e85fa"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/quality-standards.md",
+      "bytes": 3390,
+      "sha256": "269412f234f2fae24aa024bdbbfd1e5ad5f07c42159fba1a3ce8d1fe59305863"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/quick-start.md",
+      "bytes": 3062,
+      "sha256": "5ccc3a6bf1953feb503d9cca417e53d00215a5fa6e90397fc7bc330f822e31ea"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/remediation.md",
+      "bytes": 2228,
+      "sha256": "61ea4cef731c9f394055e625ad78f0b6e828d00c6ea763b4116d7a3bfff4e2c9"
+    },
+    {
+      "path": "skills/ai-director-video-review/references/style-diagnosis.md",
+      "bytes": 6162,
+      "sha256": "f7d0817f7746c9a1b21b3aebca59d11d732a416f78dc7ad2319547f4d6f4046e"
+    },
+    {
+      "path": "skills/ai-director-video-review/scripts/batch_report.py",
+      "bytes": 5222,
+      "sha256": "38dff32a22c37ec8bef4ce5ac15e97ea69595a3a0a3c248b224a0c9d257a2836"
+    },
+    {
+      "path": "skills/ai-director-video-review/scripts/pipeline.py",
+      "bytes": 1135,
+      "sha256": "511cb0b097b5f1577514636274ff9ff3274fa8c8f6f4ce1c5255be6083590722"
+    },
+    {
+      "path": "skills/ai-director-video-review/SKILL.md",
+      "bytes": 5189,
+      "sha256": "c52e80611c8313ab4f82ba400873d42e0fd26317b4901add47dc9d0764e91543"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/references/performance-camera.md",
+      "bytes": 4423,
+      "sha256": "91a81e59e3a7199a414af20dae055364842e821f37032c4743166b3f801df668"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/references/source-analysis.md",
+      "bytes": 6478,
+      "sha256": "72ae3ab4f9254cc0b7cc1cd00418fd83c66a9659de47095b610a74b173f6b1ba"
+    },
+    {
+      "path": "skills/cartoon-acting-camera/SKILL.md",
+      "bytes": 5387,
+      "sha256": "1c7538670c68784c72c53f7eb93ca5bd2554a87fa1937f365de9338fcee5020c"
+    },
+    {
+      "path": "skills/cinematic-shot-design/agents/openai.yaml",
+      "bytes": 324,
+      "sha256": "d0a92461a4b123a1a023a55aa7b86f1be3ad5567e7f18c903a83bbff8c2548f8"
+    },
+    {
+      "path": "skills/cinematic-shot-design/README.md",
+      "bytes": 3880,
+      "sha256": "a18a43819746b5f24d60c5828407023a06e5a247d7cd4f5073cab845eb3fd50c"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/camera.md",
+      "bytes": 1135,
+      "sha256": "dacbfe3618cdb4ead3be5dcf5c5385f2dec238ec2e320e2cb8647ce3c3dca522"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/decision-rules.md",
+      "bytes": 1598,
+      "sha256": "170b13d562a66758fd47cdbb7bdcf1e02d98c77ee8ed5f742ec178e24f8183d3"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/director-matching.md",
+      "bytes": 2644,
+      "sha256": "feab3da42684622e74e74f1f7c03d4e3373921aa5e0ea0e822e4d6a840cf6fb1"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/akira-kurosawa.md",
+      "bytes": 1181,
+      "sha256": "7992d6d32b1fe23947c86b8aba3913e1921e4bef2a8b8a9e96c57242c4ac6041"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/alfonso-cuaron.md",
+      "bytes": 1659,
+      "sha256": "17045f4cb18c11efdb1209b31b7ff344a60ab9daef9be9fadcf37ba16438689f"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/alfred-hitchcock.md",
+      "bytes": 1195,
+      "sha256": "1ee9dfe873c7160d5af6cc076bec23e43b6d2f82b533e8646bfef10f2c4dd38e"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/bong-joon-ho.md",
+      "bytes": 1299,
+      "sha256": "47920ad4796c97c0d356e8e210f7f53654ed6a9138a3fb5ec1561ffed3fa687a"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/christopher-nolan.md",
+      "bytes": 1553,
+      "sha256": "5f844d669ced395ac8da64da5b94817bde9faab6e97ba69f2692618226ea422c"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/david-fincher.md",
+      "bytes": 1153,
+      "sha256": "1ec307497c88dc46340226960706092c8684f6adcf05fe1c6a51ab027b82149f"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/denis-villeneuve.md",
+      "bytes": 1228,
+      "sha256": "a6c470ee695e687188b14451ff51a2be9943a9a0224d26e937a626dc5e272c9f"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/george-miller.md",
+      "bytes": 1621,
+      "sha256": "d38e0afaafa103ab4cf2a86374fb4a4e413a309b3a634887c92272ecaa4ad4ca"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/guillermo-del-toro.md",
+      "bytes": 1599,
+      "sha256": "63baa089552e61760dea9e0af3919ced216c2928869be1f29e5bf1984d9dd3d8"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/index.md",
+      "bytes": 2210,
+      "sha256": "aae4f9949dc6089f603e96f004002920cc4ffad85d3d962b53676a85573fdfa2"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/jordan-peele.md",
+      "bytes": 1717,
+      "sha256": "46929b4f9fcb7eb11f7b73b352e2616fe67651b0ac4842989b4d0cf6f32f8c00"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/martin-scorsese.md",
+      "bytes": 1546,
+      "sha256": "b54aa9212c74cdc87ac1c4c932bdbae67ebe9a56ad44869512d15c109f01c483"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/park-chan-wook.md",
+      "bytes": 1560,
+      "sha256": "b775998b3dabb8b35748de9894601a58321d207ddc9a132518f6693acb1130aa"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/quentin-tarantino.md",
+      "bytes": 1553,
+      "sha256": "c1f29bbfb29dc8cc58288db48411ba911a3631e75042e2865eaf3aed744b948e"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/ridley-scott.md",
+      "bytes": 1206,
+      "sha256": "e2cf42685016c06953974ee32e31f94da1cd8115c1a0e2bb61ac01846667fdaa"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/sofia-coppola.md",
+      "bytes": 1642,
+      "sha256": "cdd8a34af8410018020eb981abf6a7020f96e77f1e8355ac3242bbad121f8afc"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/stanley-kubrick.md",
+      "bytes": 1137,
+      "sha256": "78106e871ad9b98aa9b79999da2088ffcab3dc75615328992f2ed4c8e961ccd7"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/steven-spielberg.md",
+      "bytes": 1249,
+      "sha256": "2963c6ff9adf4768ed6488e34dc46804b3355e57d3af7c51103669b6d4f8ee80"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/terrence-malick.md",
+      "bytes": 1533,
+      "sha256": "ba662c45cd44d60f1a80b15036fee76ca3eb834c70b8cb7fa27738682f5fa0d0"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/wes-anderson.md",
+      "bytes": 1515,
+      "sha256": "99e1a11d37c5bdb1f0331041eb3db87c3b1f1ca63e1d0a8da55914b36eeb2097"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/wong-kar-wai.md",
+      "bytes": 1293,
+      "sha256": "78d204a9f483c04ea1b0021981cab592a3b1f2a8422dafdc09ef0f817ff1163e"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/directors/zhang-yimou.md",
+      "bytes": 1338,
+      "sha256": "d8fbd7b5cb344db743b3182d35d24f564272f7cc90cbf9e185c563d9a132411a"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/focal-length-cases.md",
+      "bytes": 1335,
+      "sha256": "0500c88968c087ae92031619e820d2f79029c2953f39c8f92c6c518d96ce095a"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/framing.md",
+      "bytes": 941,
+      "sha256": "c8ab06ae7298a09b63660204655230ba24ab52e216daf5b1d34f33a279a0433f"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/input-routing.md",
+      "bytes": 2073,
+      "sha256": "8ac583d261012b1ac22d14f35c36aaa94eee29bedb229f4cbc97a3222833d220"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/lighting.md",
+      "bytes": 949,
+      "sha256": "06f85737118668739ec90a5b93d6b544aab0685f7b850a720c38c7adf0829d6d"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/optics.md",
+      "bytes": 1378,
+      "sha256": "46a9385ef4e2a74b20fe6d26c6d82cd3319c347ca649ae640ceacfcb342f46ca"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/prompt-workflow.md",
+      "bytes": 4164,
+      "sha256": "2571e4a2fae3e5f367006e31f3e4ea473285118a5102ef92b05394ff93e555ba"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/shot-structure.md",
+      "bytes": 2277,
+      "sha256": "d85e7d7263de0373cf6943978d67cfaead96173e05d6fb200f6f3b591c7e0cde"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/validation-cases.md",
+      "bytes": 3742,
+      "sha256": "261bab42891a87f30e3c9b6cc721ed959dd2a2fcadacde71a9ca8681143abad8"
+    },
+    {
+      "path": "skills/cinematic-shot-design/references/visual-style-tags.md",
+      "bytes": 3160,
+      "sha256": "dc12391b8bee35695ee06edf03e829b530583511cfd86dfecbb16e94cd098374"
+    },
+    {
+      "path": "skills/cinematic-shot-design/SKILL.md",
+      "bytes": 4386,
+      "sha256": "f9c129890203dfde5cfce839547e384238a65ff43922dc4176b3b80dd247dd03"
+    },
+    {
+      "path": "skills/cinematic-space-life/SKILL.md",
+      "bytes": 3380,
+      "sha256": "6302207922bed29cfe17eefb173b60d9131ac60d46b91ee02dbf7909186f273b"
+    },
+    {
+      "path": "skills/cinematic-space-life/学习记录.md",
+      "bytes": 742,
+      "sha256": "435678df61f49cc7af23f438d65cdd93bf7f95bd3871246a61f29645e3e82ee3"
+    },
+    {
+      "path": "skills/doubao-human-signal/agents/openai.yaml",
+      "bytes": 281,
+      "sha256": "33319d551d9e9e6b77f656538dddb1ae6f9756b14f74b203db662b2c28a76e40"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/audience-guide.md",
+      "bytes": 7672,
+      "sha256": "629ad2e98359d16851967776cbbdf8bb436ab1b1c7777e979150fe797bf31568"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/cases.md",
+      "bytes": 54012,
+      "sha256": "f1034abc13e839b43fbaf744285d4ea1aa3bfd76054bfb3fa216b33e6486b549"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/context-guide.md",
+      "bytes": 2532,
+      "sha256": "fd4f1f91487cac49e437b49c89c4ca88c57d859e1e5913b58ef4bc4d95e208cf"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/domain-guide.md",
+      "bytes": 2205,
+      "sha256": "f72f47bff64d2e4c749924b67b13d146c1642d26f566d72a0df08b33bf16922b"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/evaluation.md",
+      "bytes": 26058,
+      "sha256": "17dc6bb8ce27f81b803dd0cad21468cbfa952673e8079c63a8a47dfa3bebeefb"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/genre-guide.md",
+      "bytes": 12131,
+      "sha256": "30900766c42baae726e5e395b613e81abe456b742b3279aee81d9e835b0a4d07"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/input-contract.md",
+      "bytes": 8867,
+      "sha256": "0c2493d620159795d72680855ac62e82859d0a6f8e798cf36fdb2090d7b624fa"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/patterns.md",
+      "bytes": 29332,
+      "sha256": "e1ec8eab6e6f725b0c8337f2f0221607d3fe0576c58f3982aab12d73e04398b0"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/platform-guide.md",
+      "bytes": 8200,
+      "sha256": "e013e114b44705b3a5cf870bb1dfb2bb77c182c9d1c353016a1ab754265a67b7"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/prompt-defense.md",
+      "bytes": 5880,
+      "sha256": "8436e265696b6f647d25711823e4c3ffa834e29e96bbbd470c8e4feb45480bc9"
+    },
+    {
+      "path": "skills/doubao-human-signal/references/story-guide.md",
+      "bytes": 7426,
+      "sha256": "950aedac527d5339c4789691e8cdf77d1ea0c2781a9762b2d9bed88f3a9ffd93"
+    },
+    {
+      "path": "skills/doubao-human-signal/SKILL.md",
+      "bytes": 12337,
+      "sha256": "9f6a16c493bda8fdd3d2c478f3d0cac4a5b667c83de060c9e8e50a99ca3af03e"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/composite.writing-guide.md",
+      "bytes": 3094,
+      "sha256": "6eb98341f382bd1daf0d440e40de05c7079249473a556b8da58a4327d621c8af"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/lark-doc.writing-guide.md",
+      "bytes": 12257,
+      "sha256": "07494098024999b3ac4fccdfcba7b5a52ab79837da19100515a03dffdc08e8f9"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/short-video.writing-guide.md",
+      "bytes": 6391,
+      "sha256": "e1c949173366180937ef82a67e8b4c15efae9c579caf12e54070484434227df0"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/wechat.writing-guide.md",
+      "bytes": 19010,
+      "sha256": "f5b21ce1b1d3d3552d448e598fc1122dfdfce6f9e79204847e1716a0229c8a03"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/genre-guide/xhs.writing-guide.md",
+      "bytes": 9966,
+      "sha256": "b9613cb892f729cd84a51e62bd211cf7bb47d0108d3e441b6fd44638869cf510"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/creative-playbook.md",
+      "bytes": 3506,
+      "sha256": "78525905a18474e29be1f075c68ebd92c9e58a33300d58a7cc8900ffed18104f"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/output-format.md",
+      "bytes": 4174,
+      "sha256": "1221333ada71730b7c3a8ab0dde5e23ac5741d1ab536c5ae5eca149ecb5f0ece"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/research-workflow.md",
+      "bytes": 2008,
+      "sha256": "4c0b28cd4bbae31aff6e8513755e60ec413e622acd733b526da41bb81aa9744d"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/short-video.samples/visual-storyboard.md",
+      "bytes": 3607,
+      "sha256": "6a9b3fe2bd1ff5176b99fd648752ac5e367ac464d346d91eb31792695454242a"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/Internet-search-rules.md",
+      "bytes": 23072,
+      "sha256": "32101a0911727b40ec9a8ff02597ca966dc351e907a306a711730d6dfa13ff1e"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/Layout-and-illustration-requirements.md",
+      "bytes": 13995,
+      "sha256": "157c540aaa03243cc082953c3c699f9a71650a493ed3939a50b472e78c8d6c23"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/cognitive-opinion.md",
+      "bytes": 22109,
+      "sha256": "dea3dc19e0e4350126f123f16783b61e583f490d606686b174fcbde62ddbb2a7"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/emotional-healing.md",
+      "bytes": 21868,
+      "sha256": "08de982a89a2184fefd45bb34803b86e7745061d7b575cba1902f120ea3ab32b"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/narrative-nonfiction.md",
+      "bytes": 24259,
+      "sha256": "303dd65d6bf6cf32398b57a105dd93e44bba2904ae2c64114a535a500b9edc69"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/news-hotspot.md",
+      "bytes": 24224,
+      "sha256": "94dfc2bf68cc543684d1a62cdcaffd120f02a61ba056ae5d9e7bec789ef7ccb3"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/wechat.samples/writing-styles/professional-explainer.md",
+      "bytes": 26645,
+      "sha256": "65cfa29b6661e7360229c27ab6eb4484db4beff2f630ab29e5726c5310e41035"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methodology.md",
+      "bytes": 2516,
+      "sha256": "06262b89d86ea6fbc8b041a2bb8cee6402ab27c3e33238a82f2960a5030bd3f2"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.creation-methods.md",
+      "bytes": 31301,
+      "sha256": "e73efa8abdcae796f184cba64f0274aeb93a163c4bcb58254ac89dad086ab5df"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.hotspot-guide.md",
+      "bytes": 6229,
+      "sha256": "ec3904ea30d8aa3a799e8f924b2ff1cdc216e85d0e40d7a1ed0decd7478d3578"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-cover-methodology.md",
+      "bytes": 11698,
+      "sha256": "8ba98251f6a2bcf60aafe774b8a38a7482fc71e8b1ad754b9ce03eff5eede0a8"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.image-design-methods.md",
+      "bytes": 42060,
+      "sha256": "f5c9a10d57212cf5a5112113699d404ec9ff680e0bbd9ad995c371e804383def"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/references/xhs.samples/xhs-note-proposal.samples.output-format.md",
+      "bytes": 8426,
+      "sha256": "d96bbcd0bc3f02fec4c076147f8205de5bd29cd4ac073fe64ab37688aa2ff063"
+    },
+    {
+      "path": "skills/doubao-newmedia-writing/SKILL.md",
+      "bytes": 4983,
+      "sha256": "ac8eaf4ea83a4780be78d3aa794375e4ec73b1405a664502386196cbcd8628bb"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/agents/openai.yaml",
+      "bytes": 345,
+      "sha256": "56b828fa621574e576899ebfa2d6b37f0366642af3c06ceaadd71a1b2738d41e"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/references/学习记录.md",
+      "bytes": 3971,
+      "sha256": "3a5046107f66c0eea1efc826263b9e98f34616d97ecc1bd472847ac2a6fcc0f2"
+    },
+    {
+      "path": "skills/emotion-shot-rhythm/SKILL.md",
+      "bytes": 5115,
+      "sha256": "4673069c51edf6f04766975115fac9d76d04fa8c4d6b15dc085126c911c6eddf"
+    },
+    {
+      "path": "skills/fight-prompt-director/LICENSE",
+      "bytes": 1091,
+      "sha256": "9dfaef64ca93995b028ac3614535816b58aee25fa0c1b4431b8b0532af7b75c8"
+    },
+    {
+      "path": "skills/fight-prompt-director/README.md",
+      "bytes": 9105,
+      "sha256": "5085a1275f5536fce8cee4566201a81ccbd1bc8d351b01453c6aaa5e3833e6cb"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/camera-guide.md",
+      "bytes": 5204,
+      "sha256": "6d54f4c0cd3e387b1ea5f8fea26f39e7af117ce855c92911e90641b1cdc708c1"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/diagnostics.md",
+      "bytes": 3543,
+      "sha256": "af8f79ea3e03e2b6b280653d35580c15fa69c6eddf2998fd69ed983782ff316a"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/fight-design.md",
+      "bytes": 9951,
+      "sha256": "a209a969a3762483ea1d24c6717ec4b32b905ecd5b85747d878d24e96a5a509b"
+    },
+    {
+      "path": "skills/fight-prompt-director/references/motuantuan-combat.md",
+      "bytes": 5259,
+      "sha256": "f09970927d7d392363b5d387245812b04fbbccbf0b1e649eaae23c7cfed742bb"
+    },
+    {
+      "path": "skills/fight-prompt-director/SKILL.md",
+      "bytes": 9332,
+      "sha256": "9e121e7a11d16c17e0b7c6d42575458fcb7557a57fae9869baa0b6716a271852"
+    },
+    {
+      "path": "skills/imagegen/agents/openai.yaml",
+      "bytes": 281,
+      "sha256": "1797be4076717806df54aa9331c07ac8eebe32c69f32132d5858712b05406146"
+    },
+    {
+      "path": "skills/imagegen/LICENSE.txt",
+      "bytes": 10977,
+      "sha256": "44e03f7e263eb3ad256440c1eeab5e49168baff5a78ecef9a5447261cf3a91bc"
+    },
+    {
+      "path": "skills/imagegen/references/cli.md",
+      "bytes": 9897,
+      "sha256": "29dc8c1e3e5d9a20aee587fedb46a464552b6ec118d93bbd90c8d86e30502c8c"
+    },
+    {
+      "path": "skills/imagegen/references/codex-network.md",
+      "bytes": 1812,
+      "sha256": "cba3b4d24d30f38adf8021b6e9b49ec5261a9e45e7df31047ec451c916c99b0a"
+    },
+    {
+      "path": "skills/imagegen/references/image-api.md",
+      "bytes": 6162,
+      "sha256": "695909437b792aff171477dba127476a11235c220beb06533cce7c1495a042c8"
+    },
+    {
+      "path": "skills/imagegen/references/prompting.md",
+      "bytes": 8394,
+      "sha256": "d957a45cb24fe2cf1a85858674fc533f15a5f4621355f559a13a93168999c2dd"
+    },
+    {
+      "path": "skills/imagegen/references/sample-prompts.md",
+      "bytes": 18039,
+      "sha256": "76cc8a2988efb6e844a99ff9908b2b11cc07467510fc909002abcc0ee3f0701b"
+    },
+    {
+      "path": "skills/imagegen/scripts/image_gen.py",
+      "bytes": 35697,
+      "sha256": "3666b807de3f0a1d0a4a767b886d612c0b8f71025c500bba6693d1c6995a0873"
+    },
+    {
+      "path": "skills/imagegen/scripts/remove_chroma_key.py",
+      "bytes": 14354,
+      "sha256": "fa2989807052b857bed08f7fee0caa2502b54c46afc0a6f28cd706c25f636630"
+    },
+    {
+      "path": "skills/imagegen/SKILL.md",
+      "bytes": 19516,
+      "sha256": "706d4d96e1d5c9e6023fe3ccabba1bb34b364024d344fd25b8515ec7d28fe3c4"
+    },
+    {
+      "path": "skills/INDEX.md",
+      "bytes": 735,
+      "sha256": "7105c4d8cfd77a70d1b6a98e3195e339a470df38f6b28d6ec3532a004d0e838f"
+    },
+    {
+      "path": "skills/motuantuan-lean-sync/agents/openai.yaml",
+      "bytes": 329,
+      "sha256": "366be5c7b5c80a5125c6fc3a2cb59481f85b5f17a0791069d32326bdb54269cc"
+    },
+    {
+      "path": "skills/motuantuan-lean-sync/SKILL.md",
+      "bytes": 2090,
+      "sha256": "749a9967b524b802571ea3cb6e7c80547f71e98ff1fdfb7b130430a703d9fdc0"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/agents/openai.yaml",
+      "bytes": 332,
+      "sha256": "a6f73388a375b7b28943c6f0d4624d5f342764cc728068e83c069d7a49bee549"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/canon.md",
+      "bytes": 4145,
+      "sha256": "48d4305538789bbb33d76db577ffa02f0abbdd6645b9f2bebdc2846f47ade241"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/characters.md",
+      "bytes": 4329,
+      "sha256": "bad11e46ecf95ba266c7c529097a75f06104a020148c02a433821b994a9feda1"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/continuity.md",
+      "bytes": 2905,
+      "sha256": "bf27a9ac5994bbb1f9659e234877186a593bc5093e38b1a0461242213d8d1b17"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/power.md",
+      "bytes": 6240,
+      "sha256": "05c2eaae1d124c3a9f95d00119e72447f0bc6df40302141fe9849854ccfdbcff"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/series.md",
+      "bytes": 3004,
+      "sha256": "6fb6381ae6cef98e6b7001d9fb710ddacab7c2f3693a74dbfbabd29464a73756"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/references/video-prompts.md",
+      "bytes": 9904,
+      "sha256": "a8419cafb37ff70ad26f8a8a1b8822f4e4e2b42b4db8b940d95577367e214af7"
+    },
+    {
+      "path": "skills/motuantuan-screenplay/SKILL.md",
+      "bytes": 5971,
+      "sha256": "e93e2b59e7e1ee11a8d292a406816f054cda9a03426651b54b96fc3f1f5c1452"
+    },
+    {
+      "path": "skills/perspective-opening-story/SKILL.md",
+      "bytes": 6687,
+      "sha256": "123e21c5973a7d9c56fd54515ead4cac0d6d321f1685ff0162149cdc76ee1ac3"
+    },
+    {
+      "path": "skills/video-shot-continuity/references/source-study.md",
+      "bytes": 1886,
+      "sha256": "9289bd4393ec6ad2f22a4417ee6ba45f1ad68719932ab0cc77852e6bcebb1fe6"
+    },
+    {
+      "path": "skills/video-shot-continuity/SKILL.md",
+      "bytes": 5216,
+      "sha256": "9e11485d1ce0aee54a51946a0d590643bfdaa4cdd28726dc23a38381543329e6"
+    },
+    {
+      "path": "skills/video-storyboard-prompts/SKILL.md",
+      "bytes": 6093,
+      "sha256": "24f4ea916a840c2995ea36e9bed9fddb50b2d3eb65dda365e4f9aeacc7bd39a8"
+    }
+  ],
+  "errors": [
+    {
+      "source": "6ab3c764-43d0-83ec-aa9b-cb3c88cf73d5",
+      "stage": "app-retrieval save",
+      "error": "automatic review rejected script exceeding 64000 bytes; stopped retries"
+    },
+    {
+      "source": "01a13074-24ad-7ca0-b23e-19b27fb344fb",
+      "stage": "app-retrieval save",
+      "error": "automatic review rejected script exceeding 64000 bytes; stopped retries"
+    }
+  ],
+  "omissions": [
+    "不含系统/开发者消息、推理、工具输出、认证信息和嵌入图片编码。",
+    "会话按本地记录分段保留，跨段可能存在上下文重复；不是完整界面数据库或无损媒体聊天导出。",
+    "图片、视频、音频仅文件索引，本次不上传媒体二进制。",
+    "附件原始文件不因消息里提及即视为已备份。",
+    "应用检索的分镜会话6ab3c764及旧总指挥(2)01a13074返回内容未能落盘：单次保存脚本超过64KB，自动审批拒绝；已停止重试。本地其他会话和仓库既有快照保留。"
+  ],
+  "skills": [
+    {
+      "name": "cartoon-acting-camera",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\cartoon-acting-camera",
+      "files": 3
+    },
+    {
+      "name": "cinematic-space-life",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\cinematic-space-life",
+      "files": 2
+    },
+    {
+      "name": "doubao-human-signal",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\doubao-human-signal",
+      "files": 13
+    },
+    {
+      "name": "doubao-newmedia-writing",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\doubao-newmedia-writing",
+      "files": 23
+    },
+    {
+      "name": "emotion-shot-rhythm",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\emotion-shot-rhythm",
+      "files": 3
+    },
+    {
+      "name": "fight-prompt-director",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\fight-prompt-director",
+      "files": 7
+    },
+    {
+      "name": "motuantuan-lean-sync",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\motuantuan-lean-sync",
+      "files": 2
+    },
+    {
+      "name": "motuantuan-screenplay",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\motuantuan-screenplay",
+      "files": 8
+    },
+    {
+      "name": "perspective-opening-story",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\perspective-opening-story",
+      "files": 1
+    },
+    {
+      "name": "video-shot-continuity",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\video-shot-continuity",
+      "files": 2
+    },
+    {
+      "name": "video-storyboard-prompts",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\video-storyboard-prompts",
+      "files": 1
+    },
+    {
+      "name": "cinematic-shot-design",
+      "source": "E:\\AI\\墨团团\\_制作工作区\\skills\\cinematic-shot-design",
+      "files": 37
+    },
+    {
+      "name": "ai-director-video-review",
+      "source": "E:\\AI\\墨团团\\_制作工作区\\skills\\ai-director-video-review",
+      "files": 14
+    },
+    {
+      "name": "imagegen",
+      "source": "C:\\Users\\Administrator\\.codex\\skills\\.system\\imagegen",
+      "files": 10
+    }
+  ],
+  "message_count": 1295,
+  "text_deliverable_count": 84,
+  "media_index_count": 324,
+  "redactions": 0
+}

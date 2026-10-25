@@ -1,0 +1,8 @@
+{"eventId":"SYNC-20261002-001","recordedAt":"2026-10-02T14:56:25.2320717+08:00","status":"delivered","targetId":"01a0c499-eaa8-7192-9b28-d842c62ea137"}
+{"eventId":"SYNC-20261002-001","recordedAt":"2026-10-02T14:56:25.3004305+08:00","status":"delivered","targetId":"6ab3c764-43d0-83ec-aa9b-cb3c88cf73d5"}
+{"eventId":"SYNC-20261002-002","recordedAt":"2026-10-02T14:56:25.3017751+08:00","status":"delivered","targetId":"01a0fb60-23b6-7f73-96ab-c4959089734c"}
+{"eventId":"SYNC-20261002-002","reason":"automatic approval review timeout; local AGENTS.md and shared current.md updated; retry only on next relevant work","recordedAt":"2026-10-02T14:56:25.3029557+08:00","status":"failed","targetId":"01a0c499-eaa8-7192-9b28-d842c62ea137"}
+{"eventId":"SYNC-20261002-002","recordedAt":"2026-10-02T14:56:25.3042579+08:00","status":"delivered","targetId":"6ab3c764-43d0-83ec-aa9b-cb3c88cf73d5"}
+{"eventId":"SYNC-20261002-003","status":"delivered","targetId":"01a0fb60-23b6-7f73-96ab-c4959089734c","recordedAt":"2026-10-02T15:06:00.3259352+08:00"}
+{"eventId":"SYNC-20261002-003","status":"delivered","targetId":"01a0c499-eaa8-7192-9b28-d842c62ea137","recordedAt":"2026-10-02T15:06:00.3949578+08:00"}
+{"eventId":"SYNC-20261002-003","status":"delivered","targetId":"6ab3c764-43d0-83ec-aa9b-cb3c88cf73d5","recordedAt":"2026-10-02T15:06:00.3968738+08:00"}

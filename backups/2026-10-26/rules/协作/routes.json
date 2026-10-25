@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "mode": "single-window-production-category-archives-no-polling",
+  "authorizationSource": "用户在原剧本现总指挥任务授权互通、节省token，并明确要求新增专用剧本会话",
+  "threads": [
+    {
+      "title": "总指挥",
+      "threadId": "01a0bfdf-620b-7fb2-bb35-19bd787120b4",
+      "source": "codex",
+      "hostId": "local"
+    },
+    {
+      "title": "剧本",
+      "threadId": "01a0fb60-23b6-7f73-96ab-c4959089734c",
+      "source": "codex",
+      "hostId": "local"
+    },
+    {
+      "title": "绘图",
+      "threadId": "01a0c499-eaa8-7192-9b28-d842c62ea137",
+      "source": "codex",
+      "hostId": "local"
+    },
+    {
+      "title": "分镜",
+      "threadId": "6ab3c764-43d0-83ec-aa9b-cb3c88cf73d5",
+      "source": "chatgpt"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI导演审片"
+  short_description: "检查AI视频并解释画面为什么假、为什么不好看"
+  default_prompt: "使用 $ai-director-video-review 检查这些 AI 视频。我可以只用一句话描述想要的画面；请自动拆解分镜要求，分析技术质量和画面风格，把模糊观感翻译成导演与摄影判断，并给出发布结论、最佳版本和返修方案。"

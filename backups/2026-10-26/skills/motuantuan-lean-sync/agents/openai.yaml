@@ -1,0 +1,6 @@
+interface:
+  display_name: "墨团团·低消耗协作"
+  short_description: "在总指挥窗口完成创作交付，仅将确认成果分类留档，避免重复处理和循环回复。"
+  default_prompt: "使用 $motuantuan-lean-sync 在本窗口制作并按需归档确认成果。"
+policy:
+  allow_implicit_invocation: true

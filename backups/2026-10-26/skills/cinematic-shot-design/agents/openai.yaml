@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影镜头 Skill"
+  short_description: "把基础画面转换为电影镜头方案和生成提示词"
+  default_prompt: "请根据我提供的基础画面设计电影镜头语言并输出可直接使用的提示词；情绪、导演、平台、时长、比例和参考图均为可选信息。"
