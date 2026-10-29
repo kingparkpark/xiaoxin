@@ -1,0 +1,16 @@
+{
+  "session_files": 23,
+  "visible_messages": 637,
+  "files": [
+    {
+      "name": "conversation.zip",
+      "bytes": 457861,
+      "sha256": "8652d52543f23702380e4caf4a2b6861b0f5b6829d35cc3e95f41196d7356794"
+    },
+    {
+      "name": "skills-and-production.zip",
+      "bytes": 680183,
+      "sha256": "a8b6d9551764c91ef5dbac9101994ec0f5b9af9ebf5f0f7d842346e2cede2ee0"
+    }
+  ]
+}
